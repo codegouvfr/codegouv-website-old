@@ -45,10 +45,7 @@ de la branche `main`.  [Voir l'action de déploiement](https://github.com/etalab
 
 ## Licence
 
-Le contenu rédactionnel du site est une publication DINUM, 20 avenue
-de Ségur, 75019, publié sous
-[[file:LICENSES/LICENSE-etalab-2.0.txt][licence Ouverte 2.0]].
+Le contenu rédactionnel du site est une publication DINUM, 20 avenue de Ségur, 75019, publié sous [licence Ouverte 2.0](LICENSES/LICENSE-etalab-2.0.txt).
 
-Les codes sources de ce dépôt sont placés sous [licence
-MIT](LICENSES/LICENSE-MIT.md).
+Les codes sources de ce dépôt sont publiés sous [licence MIT](LICENSES/LICENSE-MIT.md).
 
