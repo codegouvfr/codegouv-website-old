@@ -17,30 +17,30 @@ layout: layouts/base.njk
 
   <div class="fr-col-12 fr-col-md-4">
     <div class="fr-card fr-enlarge-link">
-{%- if link or image or linkImage %}
-      {%- if link %}
-        <div class="fr-card__body">
+      {%- if link or image or linkImage %}
+	{%- if link %}
+          <div class="fr-card__body">
             <h2 class="fr-card__title">
-                <a href="{{ link }}" class="fr-card__link">{{ linkTitle }}</a>
+              <a href="{{ link }}" class="fr-card__link">{{ linkTitle }}</a>
             </h2>
-        </div>
-      {% endif %}
+          </div>
+	{% endif %}
 
-      {%- if image or linkImage %}
-        <div class="fr-card__img">
+	{%- if image or linkImage %}
+          <div class="fr-card__img">
             <img src="{{ image or linkImage }}" alt="">
-        </div>
-      {% endif %}
-{% else %}
-      <div class="fr-card__body">
+          </div>
+	{% endif %}
+      {% else %}
+	<div class="fr-card__body">
           <h2 class="fr-card__title">
-              <a href="/actualités/" class="fr-card__link">Actualités</a>
+            <a href="/actualités/" class="fr-card__link">Actualités</a>
           </h2>
-      </div>
-      <div class="fr-card__img">
+	</div>
+	<div class="fr-card__img">
           <img src="/img/guide-achats.png" alt="">
-      </div>
-{% endif %}
+	</div>
+      {% endif %}
     </div> 
   </div>
 </div>

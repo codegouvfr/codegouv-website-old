@@ -7,7 +7,7 @@ linkTitle: À propos de la mission
 
 ## Éditeur
 
-Le site `ecoresponsable.numerique.gouv.fr` est édité par la mission Pi3 Green Tech au sein de la direction interministérielle du numérique (DINUM).
+Le site `communs.numerique.gouv.fr` est édité par le pôle logiciels libres au sein de la direction interministérielle du numérique (DINUM).
 
 Coordonnées :
 Adresse : DINUM, 20 avenue de Ségur, 75007 Paris
@@ -21,11 +21,11 @@ Directeur interministériel du numérique.
 
 ## Hébergement
 
-Ce site est hébergé par Github Pages, 88 Colin P Kelly Junior Street, San Francisco, CA 94107.
+Ce site est hébergé par GitHub Pages, 88 Colin P Kelly Junior Street, San Francisco, CA 94107.
 
 ## Code source du site
 
-Le [code source du site est disponible sur Github](https://github.com/DISIC/greentech).
+Le [code source du site est disponible sur GitHub](https://github.com/etalab/communs.numerique.gouv.fr).
 
 ## Accessibilité
 
