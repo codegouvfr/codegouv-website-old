@@ -2,11 +2,11 @@
 layout: layouts/post.njk
 title: Contact
 link: /a-propos/
-linkTitle: À propos de la mission
+linkTitle: À propos du plan d'action
 ---
 
-Olivier Joviado et Richard Hanna, chargés de mission Pi3 Green Tech à la direction interministérielle du numérique (DINUM).
+Le plan d'action est piloté par le pôle logiciels libres d'Etalab.
 
 Pour nous contacter par courriel :
 
-`numerique-responsable.dinum@modernisation.gouv.fr`
+`logiciels-libres@data.gouv.fr`
