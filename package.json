@@ -1,7 +1,7 @@
 {
-  "name": "mission-numerique-ecoresponsable",
+  "name": "communs.numerique.gouv.fr",
   "version": "0.1.0",
-  "description": "Mission interministérielle",
+  "description": "Plan d'action logiciels libres et communs numériques",
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/11ty/eleventy-base-blog.git"
+    "url": "git://github.com/etalab/communs.numerique.gouv.fr.git"
   },
   "author": {
-    "name": "Richard Hanna",
-    "email": "richard.hanna@modernisation.gouv.fr"
+    "name": "Bastien Guerry",
+    "email": "bastien.guerry@data.gouv.fr"
   },
   "license": "Licence Ouverte Etalab v2.0",
-  "homepage": "https://ecoresponsable.numerique.gouv.fr",
+  "homepage": "https://communs.numerique.gouv.fr",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "@11ty/eleventy-navigation": "^0.1.6",
