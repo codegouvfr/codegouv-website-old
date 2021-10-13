@@ -1,39 +1,54 @@
-# Mission interministérielle Green Tech
+# Plan d'action logiciels libres et communs numériques
 
-## Installation
+Ce dépôt contient les éléments nécessaires à la publication du site
+[communs.numerique.gouv.fr](https://communs.numerique.gouv.fr).
+
+Il a été construit à partir de [ce site
+modèle](https://github.com/etalab/eleventy-dsfr/).
+
+## Installation et lancement
+
+Pour installer les dépendances:
 
 ```
 npm install
 ```
 
-## Run
+Pour publier le site:
 
 ```
 npx eleventy
 ```
 
-Or build and host locally for local development
+Pour le publier et rendre le site disponible localement:
+
 ```
 npx eleventy --serve
 ```
 
-Or build automatically when a template changes:
+Pour le publier et que les mises à jour s'affichent automatiquement:
+
 ```
 npx eleventy --watch
 ```
 
-Or in debug mode:
+Activer le mode déboguage:
+
 ```
 DEBUG=* npx eleventy
 ```
 
 ## Déploiement
 
-Déploiement des fichiers statiques de la branche `prod` automatiquement avec les "actions Github" dès commit sur la branche `main`. [Voir le workflow de déploiement](https://github.com/DISIC/greentech/blob/main/.github/workflows/deploy.yml)
+Le site est déployé via GitHub action à partir du répertoire `_site`
+de la branche `main`.  [Voir l'action de déploiement](https://github.com/etalab/communs.numerique.gouv.fr/blob/main/.github/workflows/deploy.yml)
 
 ## Licence
 
+Le contenu rédactionnel du site est une publication DINUM, 20 avenue
+de Ségur, 75019, publié sous
+[[file:LICENSES/LICENSE-etalab-2.0.txt][licence Ouverte 2.0]].
 
-Les codes sources de ce dépôt sont placés sous licence MIT.
+Les codes sources de ce dépôt sont placés sous [licence
+MIT](LICENSES/LICENSE-MIT.md).
 
-Les contenus humainement lisibles sont placés sous [licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence).
