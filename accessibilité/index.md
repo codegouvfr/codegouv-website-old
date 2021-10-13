@@ -8,37 +8,37 @@ linkTitle: Mentions légales
 
 ## Déclaration d’accessibilité
 
-Le site `ecoresponsable.numerique.gouv.fr` est développé selon les recommandations de la charte graphique de l'État, le système de design de l'État et du référentiel général d’amélioration de l’accessibilité (RGAA) pour être accessible à tous les usagers quel que soit le matériel ou le logiciel utilisé pour naviguer sur internet.
+Le site `communs.numerique.gouv.fr` est développé selon les recommandations de la charte graphique de l'État, le système de design de l'État et du référentiel général d’amélioration de l’accessibilité (RGAA) pour être accessible à tous les usagers quel que soit le matériel ou le logiciel utilisé pour naviguer sur internet.
 
 ## État de conformité
 
-Le site `ecoresponsable.numerique.gouv.fr` est totalement conforme avec le référentiel général d’amélioration de l’accessibilité.
+Le site `communs.numerique.gouv.fr` est totalement conforme avec le référentiel général d’amélioration de l’accessibilité.
 
 ### Résultats des tests
 
 L’audit de conformité réalisé par [DesignGouv](https://design.numerique.gouv.fr) révèle que 100% des critères du RGAA version 4.1 sont respectés.
 
-## Établissement de cette déclaration d’accessibilité
+<!-- ## Établissement de cette déclaration d’accessibilité -->
 
-Cette déclaration a été établie le 14 avril 2021.
+<!-- Cette déclaration a été établie le 14 avril 2021. -->
 
-### Échantillon évalué
+<!-- ### Échantillon évalué -->
 
-L’audit mené en avril 2021 par nos soins a porté sur l’échantillon suivant :
+<!-- L’audit mené en avril 2021 par nos soins a porté sur l’échantillon suivant : -->
 
-* [Accueil](/)
-* [À propos](/a-propos/)
-* [Accessibilité](/accessibilite/)
-* [Mentions légales](/mentions-legales/)
-* [Contact](/contact/)
-* [Guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/)
-* [Fiche pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/analyse-cycle-de-vie/)
+<!-- * [Accueil](/) -->
+<!-- * [À propos](/a-propos/) -->
+<!-- * [Accessibilité](/accessibilite/) -->
+<!-- * [Mentions légales](/mentions-legales/) -->
+<!-- * [Contact](/contact/) -->
+<!-- * [Guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/) -->
+<!-- * [Fiche pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/analyse-cycle-de-vie/) -->
 
 ## Retour d’information et contact
 
 La DINUM s’engage à prendre les moyens nécessaires afin de donner accès, dans un délai raisonnable, aux informations et fonctionnalités recherchées par la personne handicapée, que le contenu fasse l’objet d’une dérogation ou non.
 
-La DINUM invite les personnes qui rencontreraient des difficultés à la contacter par courriel à `numerique-responsable.dinum@modernisation.gouv.fr` afin qu’une assistance puisse être apportée (alternative accessible, information et contenu donnés sous une autre forme).
+La DINUM invite les personnes qui rencontreraient des difficultés à la contacter par courriel à `logiciels-libres@data.gouv.fr` afin qu’une assistance puisse être apportée (alternative accessible, information et contenu donnés sous une autre forme).
 
 ## Défenseur des droits
 
