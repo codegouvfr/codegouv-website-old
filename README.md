@@ -40,8 +40,7 @@ DEBUG=* npx eleventy
 
 ## Déploiement
 
-Le site est déployé via GitHub action à partir du répertoire `_site`
-de la branche `main`.  [Voir l'action de déploiement](https://github.com/etalab/communs.numerique.gouv.fr/blob/main/.github/workflows/deploy.yml)
+Le site est déployé à partir du répertoire `_site` de la branche `master`.
 
 ## Licence
 
