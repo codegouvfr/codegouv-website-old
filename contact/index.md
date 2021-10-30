@@ -2,11 +2,13 @@
 layout: layouts/post.njk
 title: Contact
 link: /a-propos/
-linkTitle: À propos du plan d'action
+linkTitle: Comment nous joindre ?
 ---
 
-Le plan d'action est piloté par le pôle logiciels libres d'Etalab.
+Le plan d'action logiciels libres et communs numériques est piloté par
+le pôle logiciels libres d'Etalab, portant les actions conjointement
+avec les missions LABEL et TALENTS de la DINUM.
 
-Pour nous contacter par courriel :
+Pour contacter le pôle logiciels libres par courriel :
 
 `logiciels-libres@data.gouv.fr`
