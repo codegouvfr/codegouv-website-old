@@ -6,7 +6,7 @@ packages:
 sources:
   - https://git.sr.ht/~etalab/communs.numerique.gouv.fr
 secrets:
-  - 878b8229-96a8-45a4-9ef7-99b7998dd1f8
+  - 2a86c4c0-2935-4c33-8191-b1683862cc0c
 tasks:
   - install: |
       cd communs.numerique.gouv.fr
