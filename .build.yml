@@ -1,0 +1,21 @@
+image: debian/unstable
+packages:
+  - nodejs
+  - npm
+  - rsync
+sources:
+  - https://git.sr.ht/~etalab/communs.numerique.gouv.fr
+secrets:
+  - e7e254ad-48e3-4709-a53a-bf98218fc048
+tasks:
+  - install: |
+      cd communs.numerique.gouv.fr
+      git checkout production
+      npm install
+      npx eleventy
+  - upload: |
+      rsync -e "ssh -o StrictHostKeyChecking=no" -av _site/* web@communs.numerique.gouv.fr:/home/web/websites/communs.numerique.gouv.fr/
+triggers:
+  - action: email
+    condition: failure
+    to: bastien.guerry@data.gouv.fr
