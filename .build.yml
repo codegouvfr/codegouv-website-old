@@ -6,7 +6,7 @@ packages:
 sources:
   - https://git.sr.ht/~etalab/communs.numerique.gouv.fr
 secrets:
-  - 166285c3-1a72-4458-942f-dea956e222fb
+  - 2162a837-618b-48cd-b74c-15806a93b6b4
 tasks:
   - install: |
       cd communs.numerique.gouv.fr
@@ -14,7 +14,7 @@ tasks:
       npm install
       npx eleventy
   - upload: |
-      rsync -e "ssh -o StrictHostKeyChecking=no" -av _site/* web@communs.numerique.gouv.fr:/home/web/websites/communs.numerique.gouv.fr/
+      rsync -e "ssh -o StrictHostKeyChecking=no" -av _site/* communs.numerique.gouv.fr:/home/build/websites/communs.numerique.gouv.fr/
 triggers:
   - action: email
     condition: failure
