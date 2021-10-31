@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Mentions légales
 link: /a-propos/
-linkTitle: À propos de la mission
+linkTitle: À propos de ce site
 ---
 
 ## Éditeur
@@ -21,11 +21,11 @@ Directeur interministériel du numérique.
 
 ## Hébergement
 
-Ce site est hébergé par GitHub Pages, 88 Colin P Kelly Junior Street, San Francisco, CA 94107.
+Ce site est hébergé par OVH France, 2 rue Kellermann - 59100 Roubaix - France.
 
 ## Code source du site
 
-Le [code source du site est disponible sur GitHub](https://github.com/etalab/communs.numerique.gouv.fr).
+Le [code source du site est disponible sur SourceHut](https://git.sr.ht/~etalab/communs.numerique.gouv.fr).
 
 ## Accessibilité
 
