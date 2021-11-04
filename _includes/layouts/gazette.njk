@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+---
+
+<h1>{{ title }}</h1>
+
+<!-- <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top"> -->
+<div class="fr-grid-row fr-grid-row--gutters">
+  <div class="fr-col-12 fr-col-md-12">
+    {%- if date %}
+      <p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Publiée le {{ date | readableDate }}</time></p>
+    {% endif %}
+
+    {{ content | safe }}
+  </div>
+
+</div>

@@ -1,9 +1,8 @@
 ---
-title: Accompagner l'ouverture des codes sources
-date: 2021-11-10
+title: Libérer et ouvrir les codes sources du secteur public
 image: /img/ecoconception/ecoconception.png
-linkTitle: Toutes les ressources pour ouvrir vos codes sources
-layout: layouts/post.njk
+linkTitle: Toutes les ressources pour publier vos codes sources
+layout: layouts/page.njk
 eleventyNavigation:
   key: Ouvrir
   order: 20
