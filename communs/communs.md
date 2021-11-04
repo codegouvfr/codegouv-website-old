@@ -3,7 +3,7 @@ title: Recourir et contribuer aux communs numériques
 layout: layouts/page.njk
 eleventyNavigation:
   key: Communs
-  order: 25
+  order: 30
 ---
 
 <div class="fr-grid-row fr-grid-row--gutters">

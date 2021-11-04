@@ -1,12 +1,10 @@
 ---
 title: 🧢 Mobiliser via les initiatives BlueHats
-layout: layouts/home.njk
+layout: layouts/page.njk
 eleventyNavigation:
   key: BlueHats
-  order: 30
+  order: 25
 ---
-
-# 🧢 Mobiliser via les initiatives BlueHats
 
 <div class="fr-grid-row fr-grid-row--gutters">
   <div class="fr-col-12 fr-col-md-4">
