@@ -35,7 +35,7 @@ Retrouvez le détail des présentations sur [le dépôt consacré aux ateliers](
 - 18 Décembre 2020 : OpenMole, les JDEV et plateforme vidéo “Constellation” ([revoir](https://www.dailymotion.com/video/x82vd1j))
 - 27 Novembre 2020 : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (2/2) (Prodige et Atlasanté) ([revoir](https://www.dailymotion.com/video/x82vcuc))
 - 20 Novembre 2020 : Présentation des fonctionnalités principales d’XWiki ([revoir](https://www.dailymotion.com/video/x82vcu8))
-- 23 Octobre 2020 : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (1/2) ([Geotrek/geonature](https://www.dailymotion.com/video/x82vd1g?playlist=x767bq) et [Scenari/Opale](https://www.dailymotion.com/video/x83k7d0))
+- 23 Octobre 2020 : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (1/2) (revoir les présentations de [Geotrek/geonature](https://www.dailymotion.com/video/x82vd1g?playlist=x767bq) et [Scenari/Opale](https://www.dailymotion.com/video/x83k7d0))
 - 17 Juillet 2020 : Wébinaire Matomo ([revoir](https://www.dailymotion.com/video/x82vcuh))
 
 
