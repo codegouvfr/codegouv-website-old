@@ -1,6 +1,5 @@
 ---
 title: 🧢 Mobiliser via les initiatives BlueHats
-linkTitle: "L'Etat utilise et contribue : et vous ?"
 layout: layouts/home.njk
 eleventyNavigation:
   key: BlueHats
