@@ -1,7 +1,6 @@
 ---
-title: 🧢 Gazette BlueHats n°11
+title: Gazette BlueHats 🧢 n°11
 date: 2021-06-23
-linkTitle: 🧢 Gazette BlueHats n°11
 layout: layouts/gazette.njk
 ---
 

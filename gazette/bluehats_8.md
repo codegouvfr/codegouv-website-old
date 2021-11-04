@@ -1,7 +1,6 @@
 ---
-title: 🧢 Gazette BlueHats n°8
+title: Gazette BlueHats 🧢 n°8
 date: 2020-11-18
-linkTitle: 🧢 Gazette BlueHats n°8
 layout: layouts/gazette.njk
 ---
 

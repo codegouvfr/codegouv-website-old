@@ -1,6 +1,5 @@
 ---
-title: "🧢 Des nouvelles du libre dans et par l'administration"
-linkTitle: "L'Etat utilise et contribue : et vous ?"
+title: "Gazette BlueHats 🧢 : le libre par et pour l'administration"
 layout: layouts/page.njk
 ---
 

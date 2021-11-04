@@ -1,7 +1,6 @@
 ---
-title: 🧢 Gazette BlueHats n°12
+title: Gazette BlueHats 🧢 n°12
 date: 2021-08-24
-linkTitle: 🧢 Gazette BlueHats n°12
 layout: layouts/gazette.njk
 ---
 

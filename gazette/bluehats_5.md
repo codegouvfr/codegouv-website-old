@@ -1,7 +1,6 @@
 ---
-title: 🧢 Gazette BlueHats n°5
+title: Gazette BlueHats 🧢 n°5
 date: 2020-05-05
-linkTitle: 🧢 Gazette BlueHats n°5
 layout: layouts/gazette.njk
 ---
 

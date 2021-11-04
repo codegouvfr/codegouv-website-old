@@ -1,5 +1,5 @@
 ---
-title: "🧢 Ateliers BlueHats : partageons nos expertises"
+title: "Ateliers BlueHats 🧢 : partageons nos expertises"
 img: /img/bluehats-communaute.jpg
 layout: layouts/page.njk
 ---

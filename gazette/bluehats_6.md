@@ -1,7 +1,6 @@
 ---
-title: 🧢 Gazette BlueHats n°6
+title: Gazette BlueHats 🧢 n°6
 date: 2020-07-16
-linkTitle: 🧢 Gazette BlueHats n°6
 layout: layouts/gazette.njk
 ---
 

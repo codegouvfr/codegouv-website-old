@@ -1,7 +1,6 @@
 ---
-title: 🧢 Gazette BlueHats n°1
+title: Gazette BlueHats 🧢 n°1
 date: 2019-04-01
-linkTitle: 🧢 Gazette BlueHats n°1
 layout: layouts/gazette.njk
 ---
 

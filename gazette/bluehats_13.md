@@ -1,7 +1,6 @@
 ---
-title: 🧢 Gazette BlueHats n°13
+title: Gazette BlueHats 🧢 n°13
 date: 2021-10-18
-linkTitle: 🧢 Gazette BlueHats n°13
 layout: layouts/gazette.njk
 ---
 
