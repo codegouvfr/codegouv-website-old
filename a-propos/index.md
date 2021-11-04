@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
 title: À propos de communs.numerique.gouv.fr
-date: 2021-11-09
-linkTitle: ...
+link: /contacts/
+linkTitle: Comment nous contacter ?
 eleventyNavigation:
   key: À propos
   order: 100
