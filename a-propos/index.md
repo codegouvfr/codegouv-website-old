@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 100
 ---
 
-Ce site présente les ressources publiées et mises en oeuvre dans le cadre du [plan d'action logiciels libres et communs numériques](/plan-action/plan-logiciels-libres-et-communs-numeriques/).
+Ce site présente les ressources publiées et mises en oeuvre dans le cadre du [plan d'action logiciels libres et communs numériques](/plan-action-logiciels-libres-et-communs-numeriques/).
 
 Le plan d'action est piloté par le pôle logiciels libres d'Etalab et les actions sont conjointement portées par ce pôle et les missions LABEL et TALENTS de la direction interministérielle du numérique.
 

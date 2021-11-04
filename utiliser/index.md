@@ -1,6 +1,5 @@
 ---
-title: Renforcer l'utilisation de logiciels libres et de communs numériques
-linkTitle: Renforcer l'utilisation de logiciels libres dans l'administration
+title: Renforcer le recours aux logiciels libres et aux communs numériques
 layout: layouts/page.njk
 eleventyNavigation:
   key: Utiliser
@@ -38,8 +37,7 @@ eleventyNavigation:
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a
-    href="/communs/" class="fr-card__link">Recourir à des communs numériques</a>
+	  <a href="/communs/" class="fr-card__link">Recourir et contribuer à des communs numériques</a>
 	</h2>
 	<p class="fr-card__desc">
 	  Le plan d'ation encourage le recours à des communs numériques, suivez ce lien pour en apprendre plus !
