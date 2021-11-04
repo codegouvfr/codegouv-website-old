@@ -15,7 +15,7 @@ eleventyNavigation:
 	  <a href="https://guides.etalab.gouv.fr/logiciels/" class="fr-card__link">Guide pratique sur l'ouverture des codes sources</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Ce guide vous aide à définir vos attentes et objectifs en matière d'ouverture des codes sources.
+	  Ce guide vous aide à définir vos objectifs en matière d'ouverture des codes sources.
 	</p>
       </div>
     </div>
@@ -46,8 +46,13 @@ eleventyNavigation:
       </div>
     </div>
   </div>
-  
 </div>
+
+<br>
+
+Nous poursuivrons la publication de nouveaux guides tout au long des besoins qui émergeront.
+
+Pour être tenus au courant des nouveaux chantiers, [inscrivez-vous à la gazette BlueHats](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio).
 
 <div class="fr-highlight">
   <p>Besoin d'aide ou d'accompagnement ?  <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a></p>
