@@ -15,7 +15,7 @@ tasks:
       npx eleventy
   - upload: |
       cd communs.numerique.gouv.fr
-      rsync -e "ssh -o StrictHostKeyChecking=no" -av _site/* communs.numerique.gouv.fr:/home/build/websites/communs.numerique.gouv.fr/
+      rsync -e "ssh -o StrictHostKeyChecking=no" -av --delete _site/* communs.numerique.gouv.fr:/home/build/websites/communs.numerique.gouv.fr/
 triggers:
   - action: email
     condition: failure
