@@ -38,7 +38,7 @@ eleventyNavigation:
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a href="https://www.data.gouv.fr/fr/pages/legal/licences/">Les licences autorisées pour les codes sources du secteur public</a>
+	  <a href="https://www.data.gouv.fr/fr/pages/legal/licences/" class="fr-card__link">Les licences autorisées pour les codes sources du secteur public</a>
 	</h2>
 	<p class="fr-card__desc">
 	  Les codes sources de l'administration peuvent être publiées sous plusieurs licences, parmi lesquelles : Apache, BSD, CeCILL, MPL et les licences du projet GNU.

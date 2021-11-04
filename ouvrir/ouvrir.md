@@ -26,7 +26,7 @@ eleventyNavigation:
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a href="/guides/" class="fr-card__link">Guides</a>
+	  <a href="/guides/" class="fr-card__link">Les guides</a>
 	</h2>
 	<p class="fr-card__desc">
 	  Des ressources pour vous aider à ouvrir vos codes sources : guide pratique, guide juridique et liste des licences autorisées.

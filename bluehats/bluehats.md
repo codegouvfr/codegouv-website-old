@@ -37,7 +37,7 @@ eleventyNavigation:
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-		<a href="bluehats-semester-of-code" class="fr-card__link">Le BlueHats Semester of Code</a>
+	  <a href="bluehats-semester-of-code" class="fr-card__link">Le BlueHats Semester of Code</a>
 	</h2>
 	<p class="fr-card__desc">
 	  En partenariat avec CentraleSupélec, la DINUM propose un programme de stages pour développer les contributions de l'administration aux logiciels libres qu'elle utilise.
@@ -49,6 +49,10 @@ eleventyNavigation:
 </div>
 
 <div class="fr-highlight">
-  <p>Vous souhaitez participer au mouvement BlueHats 🧢 ?  <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a></p>
-  <p>Et n'oubliez pas de <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">vous inscrire à la gazette !</a></p>
+  <p>Vous souhaitez participer au mouvement BlueHats 🧢 ?
+    <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a>
+  </p>
 </div>
+
+<img class="fr-responsive-img" src="/img/bluehats-communaute.jpg"/>
+
