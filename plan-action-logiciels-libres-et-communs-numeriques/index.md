@@ -47,7 +47,7 @@ Le plan et l’avancée de sa mise en œuvre seront publiés sur [communs.numeri
 
 3. Animer la communauté des relais interministériels sur le sujet de la publication des codes sources ; maintenir les guides d’ouverture logicielle ; porter les partenariats utiles à l’ouverture logicielle.
 
-## S’appuyer sur les logiciels libres et open source et sur les communs numériques pour renforcer l’attractivité de l’État-employeur auprès des talents du numériques
+## S’appuyer sur les logiciels libres et open source et sur les communs numériques pour renforcer l’attractivité de l’État-employeur auprès des talents du numérique
 
 1. Animer le réseau d’échange d’information et d’expertise BlueHats ; publier sa lettre d’information.
 
