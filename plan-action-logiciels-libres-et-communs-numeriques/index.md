@@ -19,10 +19,9 @@ Ses objectifs sont de mieux connaître et utiliser les logiciels libres et les c
 
 Les actions sont portées par le « pôle d’expertise logiciels libres », avec l’appui des missions LABEL et TALENTS du programme Tech.Gouv. D’autres initiatives portées par la DINUM peuvent également y contribuer ponctuellement (notamment les missions BETA et PILOT).
 
-Le plan et l’avancée de sa mise en œuvre seront publiés sur
-[communs.numerique.gouv.fr](https://communs.numerique.gouv.fr).
+Le plan et l’avancée de sa mise en œuvre seront publiés sur [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr).
 
-## Mieux connaître, utiliser et concevoir les logiciels libres et les communs numériques (via la mission LABEL)
+## Mieux connaître, utiliser et concevoir les logiciels libres et les communs numériques
 
 1. Référencer des solutions libres et open source ([catalogue.numerique.gouv.fr](https://catalogue.numerique.gouv.fr)).
 
@@ -37,7 +36,7 @@ Le plan et l’avancée de sa mise en œuvre seront publiés sur
 
 4. Accompagner les administrations dans la création de communs numériques au service de la conduite des politiques publiques.
 
-## Développer et accompagner l’ouverture et la libération des codes sources (via le pôle d’expertise logiciels libres d’Etalab)
+## Développer et accompagner l’ouverture et la libération des codes sources
 
 1. Accompagner les administrations dans l'ouverture de leurs codes sources. Aider les administrations à mobiliser leurs écosystèmes autour des codes sources publiés.
 
@@ -48,7 +47,7 @@ Le plan et l’avancée de sa mise en œuvre seront publiés sur
 
 3. Animer la communauté des relais interministériels sur le sujet de la publication des codes sources ; maintenir les guides d’ouverture logicielle ; porter les partenariats utiles à l’ouverture logicielle.
 
-## S’appuyer sur les logiciels libres et open source et sur les communs numériques pour renforcer l’attractivité de l’État-employeur auprès des talents du numériques (via la mission TALENTS)
+## S’appuyer sur les logiciels libres et open source et sur les communs numériques pour renforcer l’attractivité de l’État-employeur auprès des talents du numériques
 
 1. Animer le réseau d’échange d’information et d’expertise BlueHats ; publier sa lettre d’information.
 
