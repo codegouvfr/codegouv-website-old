@@ -1,5 +1,5 @@
 ---
-title: 🧢 Mobiliser via les initiatives BlueHats
+title: Mobiliser via les initiatives BlueHats 🧢
 layout: layouts/page.njk
 eleventyNavigation:
   key: BlueHats
