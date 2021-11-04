@@ -49,7 +49,7 @@ eleventyNavigation:
 
 <div class="fr-grid-row fr-grid-row--gutters">
   <div class="fr-col-12 fr-col-md-6">
-    <div class="fr-card fr-card--horizontal fr-enlarge-link">
+    <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
 	  <a target="_new" href="https://datagir.ademe.fr" class="fr-card__link">Datagir</a>
@@ -58,14 +58,14 @@ eleventyNavigation:
 	  Datagir vous accompagne dans la compréhension et l’intégration des données ouvertes environnementales de l’ADEME afin de vous aider à créer de nouvelles fonctionnalités et applications.<br><br>Datagir apporte l’information environnementale au plus près des citoyens et promeut la création de communs numériques.
 	</p>
       </div>
-      <!-- <div class="fr-card__img">
-           <img class="fr-responsive-img" src="/img/datagir.jpg" alt="">
-	   </div> -->
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/datagir.jpg" alt="">
+      </div>
     </div>
   </div>
   
   <div class="fr-col-12 fr-col-md-6">
-    <div class="fr-card fr-card--horizontal fr-enlarge-link">
+    <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
 	  <a target="_new" href="https://acceslibre.beta.gouv.fr" class="fr-card__link">AccesLibre</a>
@@ -74,9 +74,9 @@ eleventyNavigation:
 	  Acceslibre vous permet d'accéder aux informations d'accessibilité essentielles afin d'anticiper vos sorties et déplacements dans un établissement accueillant du public.<br><br>La base de données est publiée sous licence Ouverte 2.0 et chacun est libre d'y contribuer.
 	</p>
       </div>
-      <!-- <div class="fr-card__img">
-           <img class="fr-responsive-img" src="/img/acceslibre.jpg" alt="">
-	   </div> -->
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/acceslibre.jpg" alt="">
+      </div>
     </div>
   </div>
 
