@@ -1,6 +1,5 @@
 ---
 title: Libérer et ouvrir les codes sources du secteur public
-image: /img/ecoconception/ecoconception.png
 linkTitle: Toutes les ressources pour publier vos codes sources
 layout: layouts/page.njk
 eleventyNavigation:

@@ -1,6 +1,5 @@
 ---
 title: Plan d'action logiciels libres et communs numériques
-image: /img/ecoconception/ecoconception.png
 linkTitle: Plan d'action logiciels libres et communs numériques
 layout: layouts/page.njk
 eleventyNavigation:

@@ -1,6 +1,5 @@
 ---
 title: Renforcer l'utilisation de logiciels libres et de communs numériques
-image: /img/ecoconception/ecoconception.png
 linkTitle: Renforcer l'utilisation de logiciels libres dans l'administration
 layout: layouts/page.njk
 eleventyNavigation:
@@ -38,7 +37,7 @@ eleventyNavigation:
 </div>
 
 <div class="fr-highlight">
-  <p>Vous souhaitez proposer un logiciel libre utilisé dans votre administration au SILL ? <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a></p>
+  <p>Vous souhaitez référencer dans le SILL un logiciel libre utilisé dans votre administration ? <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a></p>
   <p>Vous souhaitez référencer une solution libre dans le catalogue GouvTech ? <a href="https://catalogue.numerique.gouv.fr">C'est ouvert !</a></p>
 </div>
 
