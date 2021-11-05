@@ -55,7 +55,14 @@ eleventyNavigation:
 	  <a target="_new" href="https://datagir.ademe.fr" class="fr-card__link">Datagir</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Datagir vous accompagne dans la compréhension et l’intégration des données ouvertes environnementales de l’ADEME afin de vous aider à créer de nouvelles fonctionnalités et applications.<br><br>Datagir apporte l’information environnementale au plus près des citoyens et promeut la création de communs numériques.
+	  Vous souhaitez sensibiliser vos communautés aux enjeux climatiques ?
+	  <br><br>Datagir vous accompagne dans la compréhension et
+	  l’intégration de données environnementales, à travers la
+	  mise à disposition de jeux de données ouverts issues de
+	  l’ADEME et de simulateurs clés en main, intégrables
+	  librement sur tout type de plateforme.<br><br>Des ressources
+	  libres d’utilisation, pour que communs numériques riment
+	  avec accélération de la transition écologique.
 	</p>
       </div>
       <div class="fr-card__img">
