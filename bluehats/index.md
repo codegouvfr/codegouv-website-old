@@ -49,7 +49,7 @@ eleventyNavigation:
 </div>
 
 <div class="fr-highlight">
-  <p>Vous souhaitez participer au mouvement BlueHats 🧢 ?
+  <p>Vous souhaitez participer au mouvement `BlueHats` 🧢 ?
     <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a>
   </p>
 </div>

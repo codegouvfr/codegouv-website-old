@@ -11,7 +11,7 @@ layout: layouts/page.njk
           <a href="https://www.etalab.gouv.fr/etalab-et-centralesupelec-lancent-le-bluehats-semester-of-code/" class="fr-card__link">BlueHats 🧢 Semester of Code : contribuons !</a>
         </h2>
         <p class="fr-card__desc">
-	  En 2021, le département Etalab de la DINUM et l’école d’ingénieurs CentraleSupélec proposent un programme de stage permettant à des étudiants de contribuer à des logiciels libres créés ou utilisés par des administrations publiques. La première édition du #BlueHats Semester of Code est lancée !
+	  En 2021, le département Etalab de la DINUM et l’école d’ingénieurs CentraleSupélec proposent un programme de stage permettant à des étudiants de contribuer à des logiciels libres créés ou utilisés par des administrations publiques. La première édition du `BlueHats` Semester of Code est lancée !
         </p>
       </div>
       <div class="fr-card__img">

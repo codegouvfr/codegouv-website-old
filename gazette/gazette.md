@@ -9,11 +9,11 @@ layout: layouts/page.njk
 
 ## Une gazette, pour quoi faire ?
 
-La gazette `#BlueHats` est la contribution de la DINUM au mouvement `#BlueHats`.  Cette lettre bimensuelle partage des informations sur l'utilisation et le développement de logiciels libres dans et pour l'administration.  Elle sert aussi à donner une vue d'ensemble des activités du réseau de compagnonnage `#BlueHats`.  En la lisant, vous découvrirez des projets que vous pourrez tester ou suivre ; en y contribuant, vous partagerez vos initiatives et vos découvertes.
+La gazette `BlueHats` est la contribution de la DINUM au mouvement `BlueHats`.  Cette lettre bimensuelle partage des informations sur l'utilisation et le développement de logiciels libres dans et pour l'administration.  Elle sert aussi à donner une vue d'ensemble des activités du réseau de compagnonnage `BlueHats`.  En la lisant, vous découvrirez des projets que vous pourrez tester ou suivre ; en y contribuant, vous partagerez vos initiatives et vos découvertes.
 
-## `#BlueHats`, c'est qui ?
+## `BlueHats`, c'est qui ?
 
-Les `#Bluehats` sont toutes les personnes qui souhaitent montrer qu'elles contribuent à des logiciels libres développés et/ou utilisés par l'administration publique : les agents publics impliqués dans le développement de ces logiciels, bien sûr, mais aussi tout citoyen qui reconnaît que son action pour des logiciels libres aide concrètement des projets de l'administration.
+Les `BlueHats` sont toutes les personnes qui souhaitent montrer qu'elles contribuent à des logiciels libres développés et/ou utilisés par l'administration publique : les agents publics impliqués dans le développement de ces logiciels, bien sûr, mais aussi tout citoyen qui reconnaît que son action pour des logiciels libres aide concrètement des projets de l'administration.
 
 ## Les derniers numéros
 
