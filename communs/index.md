@@ -68,10 +68,10 @@ eleventyNavigation:
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a target="_new" href="https://acceslibre.beta.gouv.fr" class="fr-card__link">AccesLibre</a>
+	  <a target="_new" href="https://acceslibre.beta.gouv.fr" class="fr-card__link">Acceslibre</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Acceslibre vous permet d'accéder aux informations d'accessibilité essentielles afin d'anticiper vos sorties et déplacements dans un établissement accueillant du public.<br><br>La base de données est publiée sous licence Ouverte 2.0 et chacun est libre d'y contribuer.
+	  Acceslibre collecte et met à disposition les informations essentielles à une personne en situation de handicap pour savoir si le lieu ouvert au public dans lequel elle souhaite se rendre lui est accessible.<br><br>La base de données est publiées sous licence ouverte 2.0 et chacun est libre d'y contribuer et/ou de la réutiliser.
 	</p>
       </div>
       <div class="fr-card__img">
