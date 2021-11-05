@@ -23,6 +23,10 @@ Directeur interministériel du numérique.
 
 Ce site est hébergé par OVH France, 2 rue Kellermann - 59100 Roubaix - France.
 
+## Crédits images
+
+Image de la page d'accueil: © Dylan Gillis, [Unsplash](https://unsplash.com/photos/KdeqA3aTnBY) license
+
 ## Code source du site
 
 Le [code source du site est disponible sur SourceHut](https://git.sr.ht/~etalab/communs.numerique.gouv.fr).
