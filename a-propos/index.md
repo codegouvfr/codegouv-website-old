@@ -12,14 +12,14 @@ Ce site présente les ressources publiées et mises en oeuvre dans le cadre du [
 
 Le plan d'action est piloté par le pôle logiciels libres d'[Etalab](https://etalab.gouv.fr) et les actions sont conjointement portées par ce pôle et les missions [LABEL](https://catalogue.numerique.gouv.fr) et TALENTS de la direction interministérielle du numérique.
 
-## Besoin d'un accompagnement ?
-
-Pour toute demande d'accompagnement, n'hésitez pas à [nous contacter](/contacts/).
-
 ## Se tenir au courant et s'impliquer
 
 - Suivre [@codegouvfr](https://twitter.com/codegouvfr)
 - [S'inscrire à la gazette BlueHats](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio)
-- [Le flux RSS](https://sill.etalab.gouv.fr/updates.xml) des mises à jour du [SILL](https://sill.etalab.gouv.fr)
-- [Le flux RSS](https://code.gouv.fr/latest.xml) des derniers dépôts de code référencés sur [code.gouv.fr](https://code.gouv.fr)
-- La [présentation des dépôts](https://git.sr.ht/~etalab/readme-logiciels-libres) du pôle logiciels libres et [l'activité de développement](https://sr.ht/~etalab/logiciels-libres/feed)
+- S'abonner au [flux RSS](https://sill.etalab.gouv.fr/updates.xml) des mises à jour du [SILL](https://sill.etalab.gouv.fr)
+- S'abonner au [flux RSS](https://code.gouv.fr/latest.xml) des derniers dépôts de codes sources référencés sur [code.gouv.fr](https://code.gouv.fr)
+- Consulter les [dépôts de code](https://git.sr.ht/~etalab/readme-logiciels-libres) du pôle logiciels libres et [l'activité de développement](https://sr.ht/~etalab/logiciels-libres/feed)
+
+## Besoin d'un accompagnement ?
+
+Pour toute demande d'accompagnement, n'hésitez pas à [nous contacter](/contacts/).
