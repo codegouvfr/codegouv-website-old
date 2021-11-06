@@ -5,7 +5,7 @@ layout: layouts/page.njk
 ---
 
 <div class="fr-highlight">
-  <p>Vous souhaitez proposer un atelier `BlueHats` 🧢 ?  <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a></p>
+  <p>Vous souhaitez proposer un atelier <code>BlueHats</code> 🧢 ?  <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a></p>
 </div>
 
 Les ateliers `BlueHats` sont des visioconférences de présentation d'outils libres utilisés et/ou développés par des administrations.
