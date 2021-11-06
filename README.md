@@ -1,3 +1,5 @@
+[![Software License](https://img.shields.io/badge/Licence-MIT%2C%20Licence%20Ouverte-orange.svg?style=flat-square)](https://git.sr.ht/~etalab/communs.numerique.gouv.fr/tree/main/item/LICENSES)
+
 # Site communs.numerique.gouv.fr
 
 Ce dépôt contient les éléments nécessaires à la publication du site
@@ -30,8 +32,6 @@ Pour les retours devant rester confidentiels (failles de sécurité,
 demandes personnelles, etc.), écrivez à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
 
 ## Licences
-
-[![Software License](https://img.shields.io/badge/Licence-MIT%2C%20Licence%20Ouverte-orange.svg?style=flat-square)](https://git.sr.ht/~etalab/communs.numerique.gouv.fr/tree/main/item/LICENSES)
 
 Le contenu rédactionnel du site est une publication DINUM, 20 avenue de Ségur, 75019, publié sous [licence Ouverte 2.0](LICENSES/LICENSE-etalab-2.0.txt).
 
