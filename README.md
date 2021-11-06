@@ -33,7 +33,7 @@ demandes personnelles, etc.), écrivez à [logiciels-libres@data.gouv.fr](mailto
 
 ## Licences
 
-Le contenu rédactionnel du site est une publication DINUM, 20 avenue de Ségur, 75019, publié sous [licence Ouverte 2.0](LICENSES/LICENSE.Etalab-2.0.txt).
+Le contenu rédactionnel du site est une publication DINUM, 20 avenue de Ségur, 75019, publié sous [licence Ouverte 2.0](LICENSES/LICENSE.Etalab-2.0.md).
 
 Les codes sources de ce dépôt sont publiés sous [licence
 MIT](LICENSES/LICENSE.MIT.md).
