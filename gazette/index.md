@@ -3,19 +3,17 @@ title: "Gazette BlueHats 🧢 : le libre par et pour l'administration"
 layout: layouts/page.njk
 ---
 
-<div class="fr-highlight">
-  <p><a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Vous inscrire à la gazette BlueHats</a>.</p>
-</div>
-
 ## Une gazette, pour quoi faire ?
 
 La gazette `BlueHats` est la contribution de la DINUM au mouvement `BlueHats`.  Cette lettre bimensuelle partage des informations sur l'utilisation et le développement de logiciels libres dans et pour l'administration.  Elle sert aussi à donner une vue d'ensemble des activités du réseau de compagnonnage `BlueHats`.  En la lisant, vous découvrirez des projets que vous pourrez tester ou suivre ; en y contribuant, vous partagerez vos initiatives et vos découvertes.
 
-## `BlueHats`, c'est qui ?
-
-Les `BlueHats` sont toutes les personnes qui souhaitent montrer qu'elles contribuent à des logiciels libres développés et/ou utilisés par l'administration publique : les agents publics impliqués dans le développement de ces logiciels, bien sûr, mais aussi tout citoyen qui reconnaît que son action pour des logiciels libres aide concrètement des projets de l'administration.
+<div class="fr-highlight">
+  <p><a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Vous inscrire à la gazette BlueHats</a>.</p>
+</div>
 
 ## Les derniers numéros
+
+<ul class="fr-list">
 
 - [Gazette n°13](bluehats_13) (Octobre 2021)
 - [Gazette n°12](bluehats_12) (Août 2021)
@@ -30,3 +28,5 @@ Les `BlueHats` sont toutes les personnes qui souhaitent montrer qu'elles contrib
 - [Gazette n°3](bluehats_3) (Octobre 2019)
 - [Gazette n°2](bluehats_2) (Juin 2019)
 - [Gazette n°1](bluehats_1) (Avril 2019)
+
+</ul>
