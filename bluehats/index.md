@@ -48,10 +48,12 @@ eleventyNavigation:
 
 </div>
 
+## `BlueHats`, c'est qui ?
+
 <div class="fr-highlight">
-  <p>Vous souhaitez participer au mouvement <code>BlueHats</code> 🧢 ?
-    <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a>
-  </p>
+  <p>Les <code>BlueHats</code> sont toutes les personnes qui souhaitent montrer qu'elles contribuent à des logiciels libres développés et/ou utilisés par l'administration publique : les agents publics impliqués dans le développement de ces logiciels, bien sûr, mais aussi les citoyens qui reconnaissent que leurs actions pour des logiciels libres aide les projets de l'administration.</p>
+
+  <p><strong><code>BlueHats</code> n'est pas un produit de la DINUM</strong>, c'est un mouvement auquel elle contribue en publiant une gazette et en organisant des ateliers - toutes les administrations sont invitées à contribuer à ce mouvement ! Vous souhaitez contribuer aussi ? <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a> 🧢</p>
 </div>
 
 <img class="fr-responsive-img" src="/img/bluehats-communaute.jpg"/>
