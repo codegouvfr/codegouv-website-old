@@ -7,7 +7,7 @@ eleventyNavigation:
 ---
 
 <div class="fr-highlight">
-  <p>Cette page vise à valoriser les démarches de communs numériques engagées par les administrations.  Elle référence aussi des communs numériques libres et collaboratifs auxquels le secteur public contribue déjà. </p>
+  <p>Cette page vise à valoriser les démarches de communs numériques engagées par les administrations.  Elle référence aussi des communs numériques libres et collaboratifs auxquels le secteur public contribue déjà.  Les références proposées sur cette page sont appelées à évoluer au fil du temps.</p>
 </div>
 
 ### Des démarches de mise en commun initiées par l'administration
