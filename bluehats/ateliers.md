@@ -14,6 +14,10 @@ Tous les ateliers sont accessibles à toutes et tous et visibles en rediffusion 
 
 Retrouvez le détail des présentations sur [le dépôt consacré aux ateliers](https://github.com/blue-hats/ateliers/blob/main/ateliers.org).
 
+## Ateliers à venir
+
+- 26 novembre 2021 : Propriété intellectuelle dans les marchés publics : rédiger et mettre en oeuvre les documents particuliers.  Anne-Claire Viala et Sylvia Israel (APIE, DAJ).
+
 ## Liste des ateliers
 
 - 22 octobre 2021 : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po ([revoir](https://www.dailymotion.com/video/x8511pn))
