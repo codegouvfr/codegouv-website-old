@@ -27,7 +27,7 @@ eleventyNavigation:
 	  <a href="https://catalogue.numerique.gouv.fr/catalogue?distribution=Logiciel%20libre" class="fr-card__link">Les solutions libres dans le catalogue GouvTech</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Des solutions numériques libres proposées par les entreprises et les administrations à tout le secteur public.
+	  Des solutions numériques libres proposées par des entreprises et des associations à tout le secteur public.
 	</p>
       </div>
     </div>
@@ -40,7 +40,7 @@ eleventyNavigation:
 	  <a href="/communs/" class="fr-card__link">Recourir et contribuer à des communs numériques</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Le plan d'ation encourage le recours à des communs numériques, suivez ce lien pour en apprendre plus !
+	  Le plan d'action encourage le recours à des communs numériques, suivez ce lien pour en apprendre plus !
 	</p>
       </div>
     </div>
