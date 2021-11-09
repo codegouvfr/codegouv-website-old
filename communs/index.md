@@ -61,37 +61,67 @@ On ne présente plus les projets Wikimédia, OpenStreetMap ou Open Food Facts.  
 Ces produits de l'administration publient des ressources sous licence libre et sont ouverts à la collaboration : nous vous invitons à les découvrir et à y contribuer.
 
 <div class="fr-grid-row fr-grid-row--gutters">
-  <div class="fr-col-12 fr-col-md-6">
+  <div class="fr-col-12 fr-col-md-3">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a target="_new" href="https://datagir.ademe.fr" class="fr-card__link">Datagir</a>
+	  <a target="_new" href="https://datagir.ademe.fr" class="fr-card__link">datagir.ademe.fr</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Vous souhaitez sensibiliser vos communautés aux enjeux climatiques ?
-	  <br><br>Datagir vous accompagne dans la compréhension et
-	  l’intégration de données environnementales, à travers la
-	  mise à disposition de jeux de données ouverts issues de
-	  l’ADEME et de simulateurs clés en main, intégrables
-	  librement sur tout type de plateforme.<br><br>Des ressources
-	  libres d’utilisation, pour que communs numériques riment
-	  avec accélération de la transition écologique.
-	</p>
+	  Datagir vous accompagne dans la compréhension et
+	  l’intégration de données environnementales avec des
+	  ressources libres d’utilisation, pour que communs numériques
+	  riment avec accélération de la transition écologique.</p>
       </div>
       <div class="fr-card__img">
         <img class="fr-responsive-img" src="/img/datagir.jpg" alt="">
       </div>
     </div>
   </div>
-  
-  <div class="fr-col-12 fr-col-md-6">
+
+  <div class="fr-col-12 fr-col-md-3">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a target="_new" href="https://acceslibre.beta.gouv.fr" class="fr-card__link">Acceslibre</a>
+	  <a target="_new" href="https://transport.data.gouv.fr" class="fr-card__link">transport.data.gouv.fr</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Acceslibre collecte et met à disposition les informations essentielles à une personne en situation de handicap pour savoir si le lieu ouvert au public dans lequel elle souhaite se rendre lui est accessible.<br><br>La base de données est publiées sous licence ouverte 2.0 et chacun est libre d'y contribuer et/ou de la réutiliser.
+	  Le Point d’Accès National aux données de transport a pour
+	  but de rassembler les données de toute l’offre de mobilité à
+	  travers la France.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/transport.jpg" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://transport.data.gouv.fr" class="fr-card__link">adresse.data.gouv.fr</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Référencer l’intégralité des adresses du territoire et les
+	  rendre utilisables par tous : que vous soyez une commune,
+	  une entreprise ou un simple citoyen, vous pouvez contribuer.</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bal.jpg" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://acceslibre.beta.gouv.fr" class="fr-card__link">acceslibre.beta.gouv.fr</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Acceslibre collecte et met à disposition les informations essentielles à une personne en situation de handicap pour savoir si le lieu ouvert au public dans lequel elle souhaite se rendre lui est accessible.  La base de données est sous licence ouverte 2.0 et chacun peut y contribuer et la réutiliser.
 	</p>
       </div>
       <div class="fr-card__img">
