@@ -65,24 +65,6 @@ Ces produits de l'administration publient des ressources sous licence libre et s
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a target="_new" href="https://datagir.ademe.fr" class="fr-card__link">datagir.ademe.fr</a>
-	</h2>
-	<p class="fr-card__desc">
-	  Datagir vous accompagne dans la compréhension et
-	  l’intégration de données environnementales avec des
-	  ressources libres d’utilisation, pour que communs numériques
-	  riment avec accélération de la transition écologique.</p>
-      </div>
-      <div class="fr-card__img">
-        <img class="fr-responsive-img" src="/img/datagir.jpg" alt="">
-      </div>
-    </div>
-  </div>
-
-  <div class="fr-col-12 fr-col-md-3">
-    <div class="fr-card fr-enlarge-link">
-      <div class="fr-card__body">
-	<h2 class="fr-card__title">
 	  <a target="_new" href="https://transport.data.gouv.fr" class="fr-card__link">transport.data.gouv.fr</a>
 	</h2>
 	<p class="fr-card__desc">
@@ -110,6 +92,24 @@ Ces produits de l'administration publient des ressources sous licence libre et s
       </div>
       <div class="fr-card__img">
         <img class="fr-responsive-img" src="/img/bal.jpg" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://datagir.ademe.fr" class="fr-card__link">datagir.ademe.fr</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Datagir vous accompagne dans la compréhension et
+	  l’intégration de données environnementales avec des
+	  ressources libres d’utilisation, pour que communs numériques
+	  riment avec accélération de la transition écologique.</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/datagir.jpg" alt="">
       </div>
     </div>
   </div>
