@@ -11,7 +11,7 @@ eleventyNavigation:
 </div>
 
 ### Des communs numériques déjà utilisés par dans le secteur public
-
+	
 On ne présente plus les projets Wikimédia, OpenStreetMap ou Open Food Facts.  Ces communs numériques libres et collaboratifs font déjà l'objet de contributions de la part de l'administration et nous vous encourageons à y contribuer.
 
 <div class="fr-grid-row fr-grid-row--gutters">
@@ -57,7 +57,7 @@ On ne présente plus les projets Wikimédia, OpenStreetMap ou Open Food Facts.  
 </div>
 
 <div class="fr-highlight">
-  <p>Besoin d'aide ou d'accompagnement ?  <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a></p>
+  <p>Vous souhaitez proposer d'autres communs numériques d'intérêt général ?  N'hésitez pas à nous <a href="mailto:logiciels-libres@data.gouv.fr">contacter</a> !</p>
 </div>
 
 ### Des démarches de mise en commun initiées par l'administration
