@@ -56,10 +56,6 @@ On ne présente plus les projets Wikimédia, OpenStreetMap ou Open Food Facts.  
   </div>
 </div>
 
-<div class="fr-highlight">
-  <p>Vous souhaitez proposer d'autres communs numériques d'intérêt général ?  N'hésitez pas à nous <a href="mailto:logiciels-libres@data.gouv.fr">contacter</a> !</p>
-</div>
-
 ### Des démarches de mise en commun initiées par l'administration
 
 Ces produits de l'administration publient des ressources sous licence libre et sont ouverts à la collaboration : nous vous invitons à les découvrir et à y contribuer.
@@ -105,3 +101,6 @@ Ces produits de l'administration publient des ressources sous licence libre et s
   </div>
 </div>
 
+<div class="fr-highlight">
+  <p>Vous souhaitez proposer d'autres communs numériques d'intérêt général ?  N'hésitez pas à nous <a href="mailto:logiciels-libres@data.gouv.fr">contacter</a> !</p>
+</div>
