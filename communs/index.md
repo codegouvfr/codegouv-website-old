@@ -49,7 +49,7 @@ On ne présente plus les projets Wikimédia, OpenStreetMap ou Open Food Facts.  
 	  <a target="_new" href="https://www.wikimedia.fr" class="fr-card__link">Les projets Wikimedia</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Les projets Wikimedia proposent des ressources librement réutilisables et auxquelles les administrations sont invitées à contribuer.<br><br>Vous pouvez vous rapprocher de l'association Wikimedia France pour plus d'information.
+	  Les projets Wikimedia, notamment Wikipédia, Commons et Wikidata, proposent des ressources librement réutilisables et auxquelles les administrations sont invitées à contribuer.<br><br>Vous pouvez vous rapprocher de l'association Wikimedia France pour plus d'information.
 	</p>
       </div>
     </div>
