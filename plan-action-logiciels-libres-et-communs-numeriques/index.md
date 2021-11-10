@@ -15,7 +15,7 @@ Le plan d’action « logiciels libres et communs numériques » a été conçu 
 
 Ce plan d'action est piloté par un nouveau « pôle d’expertise logiciels libres », constitué au sein du département [Etalab](https://www.etalab.gouv.fr/ "Etalab - Lien externe") de la DINUM.
 
-Ses objectifs sont de mieux connaître et utiliser les logiciels libres dans l’administration, de développer et d’accompagner la libération et l’ouverture de ses codes sources et de s’appuyer sur les logiciels libres et open source pour renforcer l’attractivité de l’État-employeur auprès des talents du numérique, notamment en valorisant les contributions publiques aux projets et communautés concernés.
+Ses objectifs sont de mieux connaître et utiliser les logiciels libres et les communs numériques dans l’administration, de développer et d’accompagner la libération et l’ouverture de ses codes sources et de s’appuyer sur les logiciels libres et open source pour renforcer l’attractivité de l’État-employeur auprès des talents du numérique, notamment en valorisant les contributions publiques aux projets et communautés concernés.
 
 Les actions sont conjointement portées par le pôle d’expertise logiciels libres, avec l’appui des missions LABEL et TALENTS du [programme TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/). D’autres initiatives portées par la DINUM peuvent également y contribuer ponctuellement (notamment les missions BETA et PILOT). Le plan et l’avancée de sa mise en œuvre seront publiés sur [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr "communs.numerique.gouv.fr - Lien externe").
 
@@ -41,11 +41,11 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
 2. Développer la plateforme [code.gouv.fr](https://code.gouv.fr) :
     - Référencer les codes et les bibliothèques publiés par des administrations.
     - Valoriser les codes sources ayant un fort potentiel de réutilisation ; construire un inventaire des codes source non publiés mais susceptibles d’être réutilisés.
-    - Mettre en avant les contributions de l’administration à l’écosystème des logiciels libres (solutions et bibliothèques).
+    - Mettre en avant les contributions de l’administration à l’écosystème des logiciels libres (solutions et bibliothèques) et des communs numériques.
 
 3. Animer la communauté des relais interministériels sur le sujet de la publication des codes sources ; maintenir les guides d’ouverture logicielle ; porter les partenariats utiles à l’ouverture logicielle.
 
-## S’appuyer sur les logiciels libres et open source et sur les communs numériques pour renforcer l’attractivité de l’État-employeur auprès des talents du numérique
+## S’appuyer sur les logiciels libres et open source et les communs numériques pour renforcer l’attractivité de l’État-employeur auprès des talents du numérique
 
 1. Animer le réseau d’échange d’information et d’expertise BlueHats ; publier sa lettre d’information.
 
