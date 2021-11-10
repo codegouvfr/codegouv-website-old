@@ -83,7 +83,7 @@ Ces produits de l'administration publient des ressources sous licence libre et s
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a target="_new" href="https://transport.data.gouv.fr" class="fr-card__link">adresse.data.gouv.fr</a>
+	  <a target="_new" href="https://adresse.data.gouv.fr" class="fr-card__link">adresse.data.gouv.fr</a>
 	</h2>
 	<p class="fr-card__desc">
 	  Référencer l’intégralité des adresses du territoire et les
