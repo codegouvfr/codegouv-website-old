@@ -3,8 +3,6 @@ packages:
   - nodejs
   - npm
   - rsync
-sources:
-  - https://git.sr.ht/~etalab/communs.numerique.gouv.fr
 secrets:
   - 4815455e-aea8-4fcc-821c-b8067e0d74fc
 tasks:

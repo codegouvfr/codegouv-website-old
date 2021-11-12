@@ -18,18 +18,22 @@ modèle](https://github.com/etalab/eleventy-dsfr/).
 
 ## Déploiement
 
-Le site est déployé en préproduction sur [communs.etalab.studio](https://communs.etalab.studio) à partir du répertoire `_site` de la branche `master` et en production sur [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr) à partir du répertoire `_site` de la branche `production`.
+Le site est déployé en préproduction sur [communs.etalab.studio](https://communs.etalab.studio) à partir du répertoire `_site` de la branche `preproduction` et en production sur [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr) à partir du répertoire `_site` de la branche `production`.
 
 # Contributions
 
-Vos contributions sont les bienvenues !
+Pour discuter d'évolutions éditoriales ou pour des retours devant
+rester confidentiels, écrivez à
+[logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
 
-Pour des retours d'anomalie ou des propositions de contributions sur
-l'un de ces dépôts, merci d'écrire à la liste de discussion *publique*
+Pour des corrections de bug, envoyez vos correctifs (*patches*) à la
+liste publique
 [~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).
 
-Pour les retours devant rester confidentiels (failles de sécurité,
-demandes personnelles, etc.), écrivez à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
+**Attention** à configurer votre copie locale du dépôt de façon à ce
+que les correctifs envoyés sur la liste soient bien liés à ce dépôt :
+
+`git config format.subjectPrefix 'PATCH communs.numerique.gouv.fr'`
 
 ## Licences
 
