@@ -1,0 +1,21 @@
+image: archlinux
+packages:
+  - nodejs
+  - npm
+  - rsync
+sources:
+  - https://git.sr.ht/~etalab/communs.numerique.gouv.fr
+secrets:
+  -  4815455e-aea8-4fcc-821c-b8067e0d74fc
+tasks:
+  - install: |
+      cd communs.numerique.gouv.fr
+      npm install
+      npx eleventy
+  - upload: |
+      cd communs.numerique.gouv.fr
+      rsync -e "ssh -o StrictHostKeyChecking=no" -av --delete _site/ web@communs.numerique.gouv.fr:/home/web/websites/communs.numerique.gouv.fr_preprod
+triggers:
+  - action: email
+    condition: failure
+    to: bastien.guerry@data.gouv.fr
