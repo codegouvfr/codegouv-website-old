@@ -16,7 +16,7 @@ Retrouvez le détail des présentations sur [le dépôt consacré aux ateliers](
 
 ## Ateliers à venir
 
-- 26 novembre 2021 : Propriété intellectuelle dans les marchés publics : rédiger et mettre en oeuvre les documents particuliers.  Anne-Claire Viala et Sylvia Israel (APIE, DAJ).
+- 10 décembre 2021 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b))  : Propriété intellectuelle dans les marchés publics : rédiger et mettre en oeuvre les documents particuliers.  Anne-Claire Viala et Sylvia Israel (APIE, DAJ).
 
 ## Liste des ateliers
 
