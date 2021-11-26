@@ -63,7 +63,6 @@ module.exports = function(eleventyConfig) {
     'img': 'img',
     'css': 'css',
     'js': 'js',
-    'docs': 'docs',
     'fonts': 'fonts',
     'favicon': 'favicon'
   });
