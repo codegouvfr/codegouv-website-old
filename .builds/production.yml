@@ -8,11 +8,12 @@ secrets:
 tasks:
   - install: |
       cd communs.numerique.gouv.fr
+      git checkout production
       npm install
       npx eleventy
   - upload: |
       cd communs.numerique.gouv.fr
-      rsync -e "ssh -o StrictHostKeyChecking=no" -av --delete _site/ web@communs.numerique.gouv.fr:/home/web/websites/communs.numerique.gouv.fr_preprod
+      rsync -e "ssh -o StrictHostKeyChecking=no" -av --delete _site/ web@communs.numerique.gouv.fr:/home/web/websites/communs.numerique.gouv.fr/
 triggers:
   - action: email
     condition: failure
