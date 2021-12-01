@@ -20,6 +20,20 @@ Retrouvez le détail des présentations sur [le dépôt consacré aux ateliers](
 
 ## Liste des ateliers
 
+- 9 novembre 2021 : Présentation d’Esup-Pod, Nicolas Can ([revoir](https://dai.ly/x85y300))
+- 9 novembre 2021 : Le projet PLUME et les services rendus à la Communauté de la recherche, Teresa Gomez-Diaz ([revoir](https://dai.ly/x85y31w))
+- 9 novembre 2021 : Utiliser OmegaT pour préparer les traducteurs à la résilience, Jean-Christophe Helary ([revoir](https://dai.ly/x85yf8n))
+- 9 novembre 2021 : Présentation de la plateforme Onyxia, Frédéric Comte (INSEE) ([revoir](https://dai.ly/x85y31u))
+- 9 novembre 2021 : Keycloakify: Des pages de connexions belles, fonctionnelles et bien intégrées, Joseph Garrone (INSEE) ([revoir](https://dai.ly/x85y302))
+- 9 novembre 2021 : Logiciels et ressources éducatives libres, Alexis Kauffmann ([revoir](https://dai.ly/x85y2zw))
+- 9 novembre 2021 : Utilisation du logiciel libre LemonLDAP::NG pour les SSO, Jeremie Fabre (Gendarmerie nationale) ([revoir](https://dai.ly/x85y303))
+- 9 novembre 2021 : Démarches simplifiées par la DINUM Philippe Vrignaud ([revoir](https://dai.ly/x85y2zy))
+- 9 novembre 2021 : Le logiciel libre à l’Agence de Mutualisation des Universités et établissements, David Rongeat ([revoir](https://dai.ly/x85y2zx))
+- 9 novembre 2021 : Démarches simplifiées par l’Adullact, Pascal Kuczynski ([revoir](https://dai.ly/x85y2zu))
+- 9 novembre 2021 : Open source, numérique et environnement, par la mission Green Tech, Richard Hanna ([revoir](https://dai.ly/x85y2zz))
+- 9 novembre 2021 : Framadate : améliorer design et accessibilité, par le pôle Design des services numériques de la DINUM, Thomas Bonamy et Erwan le Gall ([revoir](https://dai.ly/x85y301))
+- 9 novembre 2021 : Présentation de la suite éditoriale Scenari et cas d’application dans l’enseignement supérieur, Sandrine Dewez
+- 9 novembre 2021 : La démarche open source du Health Data Hub, Lorien Benda
 - 22 octobre 2021 : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po ([revoir](https://www.dailymotion.com/video/x8511pn))
 - 8 octobre 2021 : Les outils Framasoft dans l’administration publique et présentation de framaforms/Yakforms ([revoir](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1633683557557))
 - 24 septembre 2021 : Présentation du Standard pour un code informatique public, et retour d’expérience OpenFisca (EN) ([revoir](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1632473986713))
