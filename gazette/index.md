@@ -8,7 +8,7 @@ layout: layouts/page.njk
 La gazette `BlueHats` est la contribution de la DINUM au mouvement `BlueHats`.  Cette lettre bimensuelle partage des informations sur l'utilisation et le développement de logiciels libres dans et pour l'administration.  Elle sert aussi à donner une vue d'ensemble des activités du réseau de compagnonnage `BlueHats`.  En la lisant, vous découvrirez des projets que vous pourrez tester ou suivre ; en y contribuant, vous partagerez vos initiatives et vos découvertes.
 
 <div class="fr-highlight">
-  <p><a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Vous inscrire à la gazette BlueHats</a>.</p>
+  <p>N'hésitez pas à <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">vous inscrire</a> à la gazette BlueHats et à proposer une information en nous <a href="mailto:logiciels-libres@data.gouv.fr">envoyant un courriel</a>.</p>
 </div>
 
 ## Les derniers numéros
