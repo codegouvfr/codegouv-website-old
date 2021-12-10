@@ -16,7 +16,6 @@ Retrouvez le détail des présentations sur [le dépôt consacré aux ateliers](
 
 ## Ateliers à venir
 
-- 10 décembre 2021 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Propriété intellectuelle dans les marchés publics : rédiger et mettre en oeuvre les documents particuliers.  Anne-Claire Viala et Sylvia Israel (APIE, DAJ).
 - 14 janvier 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : La stratégie open source de RTE
 - 28 janvier 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation d'un cas d'usage de [Rudder](https://sill.etalab.gouv.fr/fr/software?id=164)
 - 11 février 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de l'outil VersLeLibre (AMUE)
@@ -24,6 +23,7 @@ Retrouvez le détail des présentations sur [le dépôt consacré aux ateliers](
 
 ## Ateliers à revoir
 
+- 10 décembre 2021 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Propriété intellectuelle dans les marchés publics : rédiger et mettre en oeuvre les documents particuliers.  Anne-Claire Viala et Sylvia Israel (APIE, DAJ).  Voir le [[https://www.economie.gouv.fr/files/files/directions_services/apie/propriete_intellectuelle/publications/Guide_CCAG2104.pdf][guide de mise en œuvre de la clause de propriété intellectuelle, avril 2021]].
 - 9 novembre 2021 : Présentation d’Esup-Pod, Nicolas Can ([revoir](https://dai.ly/x85y300 "Présentation d’Esup-Pod, Nicolas Can - Lien externe"))
 - 9 novembre 2021 : Le projet PLUME et les services rendus à la Communauté de la recherche, Teresa Gomez-Diaz ([revoir](https://dai.ly/x85y31w "Le projet PLUME et les services rendus à la Communauté de la recherche, Teresa Gomez-Diaz - Lien externe"))
 - 9 novembre 2021 : Utiliser OmegaT pour préparer les traducteurs à la résilience, Jean-Christophe Helary ([revoir](https://dai.ly/x85yf8n "Utiliser OmegaT pour préparer les traducteurs à la résilience, Jean-Christophe Helary - Lien externe"))
