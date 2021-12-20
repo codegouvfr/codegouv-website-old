@@ -1,6 +1,5 @@
 ---
 title: "Journée BlueHats 🧢 2021"
-img: /img/bluehats-communaute.jpg
 layout: layouts/page.njk
 ---
 
