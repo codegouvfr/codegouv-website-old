@@ -14,7 +14,7 @@ Experience, le 9 novembre 2021 :
 - Présentation de la plateforme Onyxia, Frédéric Comte (INSEE) ([revoir](https://dai.ly/x85y31u "Présentation de la plateforme Onyxia, Frédéric Comte - Lien externe"))
 - Keycloakify : des pages de connexions belles, fonctionnelles et bien intégrées, Joseph Garrone (INSEE) ([revoir](https://dai.ly/x85y302 "Keycloakify: Des pages de connexions belles, fonctionnelles et bien intégrées, Joseph Garrone - Lien externe"))
 - Logiciels et ressources éducatives libres, Alexis Kauffmann ([revoir](https://dai.ly/x85y2zw "Logiciels et ressources éducatives libres, Alexis Kauffmann - Lien externe"))
-- Utilisation du logiciel libre LemonLDAP::NG pour les SSO, Jeremie Fabre (Gendarmerie nationale) ([revoir](https://dai.ly/x85y303 "Utilisation du logiciel libre LemonLDAP::NG pour les SSO, Jeremie Fabre - Lien externe"))
+- Utilisation du logiciel libre LemonLDAP::NG pour les SSO, Jérémie Fabre (Gendarmerie nationale) ([revoir](https://dai.ly/x85y303 "Utilisation du logiciel libre LemonLDAP::NG pour les SSO, Jeremie Fabre - Lien externe"))
 - Démarches simplifiées par la DINUM, Philippe Vrignaud ([revoir](https://dai.ly/x85y2zy "Démarches simplifiées par la DINUM, Philippe Vrignaud - Lien externe"))
 - Le logiciel libre à l’Agence de Mutualisation des Universités et établissements, David Rongeat ([revoir](https://dai.ly/x85y2zx "Le logiciel libre à l’Agence de Mutualisation des Universités et établissements, David Rongeat - Lien externe"))
 - Démarches simplifiées par l’Adullact, Pascal Kuczynski ([revoir](https://dai.ly/x85y2zu "Démarches simplifiées par l’Adullact, Pascal Kuczynski - Lien externe"))
