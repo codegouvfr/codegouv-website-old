@@ -5,6 +5,17 @@ layout: layouts/gazette.njk
 ---
 
 
+## Le pôle logiciels libres d'Etalab recrute
+
+L'équipe du pôle logiciels libres d'Etalab grandit et recherche un·e chargé·e de communauté et de contributions logiciels libres.
+
+Cette personne sera notamment en charge d'aider les projets publics qui le souhaitent à devenir plus collaboratifs et elle valorisera et soutiendra les contributions de l'administration aux logiciels libres.
+
+Retrouvez la [description complète du poste](https://communs.numerique.gouv.fr/a-propos/recrutement-communautes-contributions/) et n'hésitez pas à envoyer vos CV et lettres de motivation à candidatures-DINUM@pm.gouv.fr.
+
+`>>` Aidez-nous à [relayer l'annonce de @codegouvfr](https://twitter.com/codegouvfr/status/1473212075883352064)
+
+
 ## Annonces
 
 
@@ -59,17 +70,6 @@ Un atelier #BlueHats aura lieu [le 25 février à 11h](https://github.com/blue-h
 FranceConnect+ est la nouvelle solution proposée par l’État, plus sécurisée, pour accéder à des services en ligne sensibles.  Comme elle s'y était engagée, l'équipe a publié [ses codes sources](https://github.com/france-connect/sources).
 
 `>>` Retrouvez [l'annonce via @codegouvfr](https://twitter.com/codegouvfr/status/1465213941957607426)
-
-
-### Le pôle logiciels libres d'Etalab recrute
-
-L'équipe du pôle logiciels libres d'Etalab grandit et recherche un·e chargé·e de communauté et de contributions logiciels libres.
-
-Cette personne sera notamment en charge d'aider les projets publics qui le souhaitent à devenir plus collaboratifs et elle valorisera et soutiendra les contributions de l'administration aux logiciels libres.
-
-Retrouvez la [description complète du poste](https://communs.numerique.gouv.fr/a-propos/recrutement-communautes-contributions/) et n'hésitez pas à envoyer vos CV et lettres de motivation à candidatures-DINUM@pm.gouv.fr.
-
-`>>` Aidez-nous à [relayer l'annonce de @codegouvfr](https://twitter.com/codegouvfr/status/1473212075883352064)
 
 
 ### Les nouveautés du socle interministériel de logiciels libres
