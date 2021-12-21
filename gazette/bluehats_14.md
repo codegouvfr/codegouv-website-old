@@ -5,11 +5,10 @@ layout: layouts/gazette.njk
 ---
 
 
+# Annonces
 
-## Annonces importantes
 
-
-### Lancement du plan d'action logiciels libres et communs numériques
+## Lancement du plan d'action logiciels libres et communs numériques
 
 Le 10 novembre, lors d'une visite au salon Open Source Experience, Amélie de Montchalin, ministre de la transformation et de la fonction publiques, a annoncé le plan d'action du gouvernement pour accélérer le recours aux logiciels libres et aux communs numériques dans l’administration.
 
@@ -26,7 +25,7 @@ Pour suivre les annonces liées au plan d'action : [codegouvfr](https://twitter.
 `>>` Lire [le communiqué de presse (PDF)](https://www.transformation.gouv.fr/files/presse/Discours_a_de_montchalin_plan_action_gouvernement_logiciels_libres_communs_numeriques_administration.pdf)
 
 
-### BlueHats Semester of Code : renforcer les contributions de l'État aux logiciels libres
+## BlueHats Semester of Code : renforcer les contributions de l'État aux logiciels libres
 
 Partant du constat que l'administration utilise de nombreux logiciels libres mais qu'il est parfois difficile de se coordonner avec ceux qui les développent pour y contribuer, le pôle logiciels libres lance le « BlueHats Semester of Code », un programme de stages pour contribuer à des logiciels libres utilisés par l'administration.
 
@@ -38,10 +37,10 @@ Dans le cadre de ce programme, un partenariat a été signé entre la DINUM et l
 
 Ce programme est ouvert : si vous travaillez dans une formation universitaire ou une école publique proposant des stages pour des contributions à des logiciels libres, n'hésitez pas à nous écrire !
 
-`>>` Retrouvez [l'annonce sur @codegouvfr](https://twitter.com/codegouvfr/status/1471448756931514373)
+`>>` Retrouvez [l'annonce via @codegouvfr](https://twitter.com/codegouvfr/status/1471448756931514373)
 
 
-### Les licences EUPL et EPL sont désormais utilisables par les administrations
+## Les licences EUPL et EPL sont désormais utilisables par les administrations
 
 La liste des licences libres autorisées pour les publications de codes sources du secteur public inclut désormais les licences *European Union Public Licence* et *Eclipse Public License*, deux licences libres à réciprocité faible.
 
@@ -55,14 +54,14 @@ Un atelier #BlueHats aura lieu [le 25 février à 11h](https://github.com/blue-h
 `>>` Retrouvez [l'annonce via @codegouvfr](https://twitter.com/codegouvfr/status/1467759081817616395)
 
 
-### Ouverture des codes sources de FranceConnect+
+## Ouverture des codes sources de FranceConnect+
 
 FranceConnect+ est la nouvelle solution proposée par l’État, plus sécurisée, pour accéder à des services en ligne sensibles.  Comme elle s'y était engagée, l'équipe a publié [ses codes sources](https://github.com/france-connect/sources).
 
 `>>` Retrouvez [l'annonce via @codegouvfr](https://twitter.com/codegouvfr/status/1465213941957607426)
 
 
-## Le pôle logiciels libres d'Etalab recrute !
+# Le pôle logiciels libres d'Etalab recrute !
 
 L'équipe du pôle logiciels libres d'Etalab grandit et recherche un·e chargé·e de communauté et de contributions logiciels libres.
 
@@ -73,28 +72,28 @@ Retrouvez la [description complète du poste](https://communs.numerique.gouv.fr/
 `>>` Aidez-nous à [relayer l'annonce de @codegouvfr](https://twitter.com/codegouvfr/status/1473212075883352064)
 
 
-## Participation de la DINUM à l'émission « Libre à vous ! »
+# Participation de la DINUM à l'émission « Libre à vous ! »
 
 Le 14 décembre, Sabine Guillaume et Bastien Guerry, respectivement cheffe de la mission LABEL et du pôle logiciels libres d'Etalab, étaient les invités de l'émission de radio « Libre à vous ! », animée par l'association APRIL : l'occasion d'aborder plus en détail les annonces du gouvernement sur ce plan d'action logiciels libres et communs numériques.
 
 `>>` Écouter [la rediffusion de l'émission en ligne](https://www.libreavous.org/126-plan-d-action-du-gouvernement-sur-les-logiciels-libres)
 
 
-## Ailleurs en Europe
+# Ailleurs en Europe
 
 
-### La Commission européenne progresse sur la publication de codes sources
+## La Commission européenne progresse sur la publication de codes sources
 
 Voir [cette annonce officielle](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6649) ainsi que [cet article](https://www.zdnet.fr/blogs/l-esprit-libre/la-commission-europeenne-veut-mieux-diffuser-ses-logiciels-open-source-39933847.htm) (zdnet.fr, 2021) qui revient plus en détail sur l'annonce.
 
 
-### L'Allemagne avance sur le logiciel libre pour la souveraineté numérique
+## L'Allemagne avance sur le logiciel libre pour la souveraineté numérique
 
 L'Allemagne lance un fonds pour la souveraineté numérique afin de soutenir le développement, le passage à l'échelle et la maintenance de technologies numériques fondamentales, notamment les infrastructures *open source*.  Voici la description de la mission en anglais :
 
 "The Sovereign Tech Fund supports the development, scaling and maintenance of digital and foundational technologies. The goal of the fund could be to sustainably strengthen the open source ecosystem, with a focus on security, resilience, technological diversity, and the people behind the code."
 
-`>>` Voir [sovereigntechfund.de](https://sovereigntechfund.de/en) pour les détails.
+`>>` Voir le site [sovereigntechfund.de](https://sovereigntechfund.de/en) pour les détails.
 
 Ailleurs en Allemagne, d'autres nouvelles sur le logiciel libre :
 
@@ -103,21 +102,21 @@ Ailleurs en Allemagne, d'autres nouvelles sur le logiciel libre :
 -   [L’État allemand du Schleswig-Holstein migrera vers LibreOffice et Linux](https://www.toolinux.com/?kiel-et-l-etat-allemand-du-schleswig-holstein-migrera-vers-libreoffice-et-linux), www.toolinux.com, novembre 2021
 
 
-### En Italie, une reconnaissance forte du logiciel libre
+## En Italie, une reconnaissance forte du logiciel libre
 
 La cour de Venise a reconnu la légalité des licences libres General Public Licenses de la Free Software Foundation, premier jugement du genre en Italie.
 
 `>>` [Groundbreaking acknowledgment of Free Software in Italy](https://www.dynamic.ooo/press/groundbreaking-acknowledgment-of-free-software-in-italy/), dynamic.ooo, décembre 2021
 
 
-### Appel à participation pour la devroom "Public code" lors du FOSDEM 2022
+## Appel à participation pour la devroom "Public code" lors du FOSDEM 2022
 
 Lors de l'événement (virtuel) FOSDEM 2022, un rassemblement majeur autour des logiciels libres en Europe, une "devroom" sera consacrée aux codes sources du secteur public.  Les interventions auront lieu le 6 février en ligne.  Un appel à participation a été lancé, qui ferme le 26 décembre.
 
 `>>` Consulter [l'appel à participation](https://lists.fosdem.org/pipermail/fosdem/2021q4/003299.html)
 
 
-## Retour sur la dernière journée BlueHats et prochains ateliers
+# Retour sur la dernière journée BlueHats et prochains ateliers
 
 Le 9 novembre s'est tenue une journée BlueHats au salon Open Source Experience qui a fait salle comble !  Merci à tous ceux qui se sont mobilisés pour partager leurs expériences d'utilisation de logiciels libres dans l'administration.  Retrouvez [les interventions de cette journée sur cette page](https://communs.numerique.gouv.fr/bluehats/journee-2021/).
 
@@ -126,31 +125,31 @@ Le prochain atelier BlueHats aura lieu le 14 janvier avec une présentation de �
 `>>` Retrouvez les ateliers BlueHats passés et à venir<https://communs.numerique.gouv.fr/bluehats/ateliers/>
 
 
-## Du côté de l'enseignement supérieur et de la recherche
+# Du côté de l'enseignement supérieur et de la recherche
 
 
-### En janvier : rencontres sur les enjeux du logiciel libre dans la recherche
+## En janvier : rencontres sur les enjeux du logiciel libre dans la recherche
 
 Le groupe logiciels libres et open source du Comité pour la science ouverte et le pôle logiciels libres d’Etalab vous convient à une série de trois rencontres en janvier et février 2022 sur les enjeux d’ouverture et de valorisation des codes sources de la recherche.
 
 `>>` Lire toutes les informations sur [cette page](https://www.ouvrirlascience.fr/rencontres-sur-les-enjeux-du-logiciel-libre-dans-la-recherche-ouvrir-et-promouvoir-les-codes-sources-produits-par-la-recherche/)
 
 
-### Le code de Jitsi amélioré par des étudiants de CentraleSupélec
+## Le code de Jitsi amélioré par des étudiants de CentraleSupélec
 
 Le logiciel libre de visioconférence [Jitsi](https://jitsi.org) a ajouté une fonctionnalité de sondage.  Cette fonctionnalité est le fruit du travail de trois étudiants de l'école CentraleSupélec lors d'un hackathon parrainé par la Commission européenne.
 
 `>>` En apprendre plus via [cet article](https://www.fun-mooc.fr/fr/actualites/jitsi-fun-trois-etudiants-et-un-hackathon/) de fun-mooc.fr, juin 2021
 
 
-### Appel à intervention : Open Research Tools & Technologies (FOSDEM 2022)
+## Appel à intervention : Open Research Tools & Technologies (FOSDEM 2022)
 
 Plus que deux jours pour proposer une intervention dans l'atelier "Open Research Tools & Technologies" organisé lors de la conférence [FOSDEM 2022](https://fosdem.org/2022/), et qui se tiendra en ligne le 5 février 2022.
 
 `>>` Retrouvez [le détail de l'appel à contribution](https://research-fosdem.github.io/)
 
 
-### Offre de stage « Les nouvelles voies de valorisation des logiciels » à l'INRAE
+## Offre de stage « Les nouvelles voies de valorisation des logiciels » à l'INRAE
 
 L’Institut national de recherche pour l’agriculture, l’alimentation et l’environnement (INRAE) est un établissement public de recherche en sciences agricoles et alimentaires, en sciences du végétal et de l’animal.  Ses recherches visent à construire des solutions pour des agricultures multi-performantes, une alimentation de qualité et une gestion durable des ressources et des écosystèmes.
 
@@ -159,7 +158,7 @@ L'INRAE recherche un ou une stagiaire pour participer à une étude sur le mouve
 `>>` Voir [l'offre de stage détaillée](https://drive.google.com/file/d/11M4lEy-LIPGJqluURW1UaMK6jI9XDOnX/view)
 
 
-## Les nouveautés du socle interministériel de logiciels libres
+# Les nouveautés du socle interministériel de logiciels libres
 
 Voici les nouveautés du côté du SILL :
 
@@ -175,7 +174,7 @@ Bienvenue à nos nouveaux référents !
 Les explications détaillées sur le SILL ont migré vers [cette page](https://man.sr.ht/~etalab/logiciels-libres/sill.md).
 
 
-## Remise du prix « Territoires numériques libres » de l'Adullact
+# Remise du prix « Territoires numériques libres » de l'Adullact
 
 Depuis sa 1ère édition en 2016, le label Territoire Numérique Libre récompense les initiatives et politiques en faveur des logiciels libres et données ouvertes dans les collectivités territoriales.  Cette année, 24 candidatures ont été déposées et étudiées par un jury de professionnels du numérique et du libre.
 
@@ -184,14 +183,14 @@ La remise des labels Territoire Numérique Libre a eu lieu mardi 9 novembre 2021
 `>>` Retrouvez [toutes les informations sur cette édition](https://territoire-numerique-libre.org/edition-2021/)
 
 
-## Focus usage : BigBlueButton à l'éducation nationale
+# Focus usage : BigBlueButton à l'éducation nationale
 
 Laurent Le Prieur, sous-directeur du Socle Numérique à la Direction du Numérique pour l'Éducation, fait le point sur l'usage et les projets en cours avec le logiciel libre de visioconférence développé pour la formation à distance BigBlueButton.  Aujourd'hui les classes virtuelles s'appuient sur le logiciel propriétaire Blackboard hébergé chez Amazon.  L'objectif est qu'à la rentrée 2022, BigBlueButton vienne le remplacer sur un cloud souverain chez un hébergeur français.
 
 `>>` Lire [l'article sur ludomag.com](https://www.ludomag.com/2021/11/10/numerique-educatif-arrivee-imminente-du-bbb-loutil-denseignement-a-distance-et-bien-plus-encore/)
 
 
-## Focus tech : la diffusion de supports visuels avec remote-lecture
+# Focus tech : la diffusion de supports visuels avec remote-lecture
 
 Diffuser en direct, à un auditoire nombreux, des supports visuels de qualité tout en restant libre et sobre ?  C'est le défi relevé par Hugo Raguet, qui a développé le logiciel libre `remote-lecture`.
 
@@ -201,10 +200,10 @@ Diffuser en direct, à un auditoire nombreux, des supports visuels de qualité t
 -   Le [code source de remote-lecture](https://gitlab.com/1a7r0ch3/remote-lecture)
 
 
-## Joyeux anniversaires !
+# Joyeux anniversaires !
 
 
-### Software Heritage a 5 ans
+## Software Heritage a 5 ans
 
 Depuis 2016, le projet [Software Heritage](https://www.softwareheritage.org/) permet de collecter et préserver les codes sources des centaines de milliers de logiciels pour les rendre facilement accessibles, tout en soutenant l'avenir numérique.  L'UNESCO, partenaire de l'Inria pour le développement de l'archive du patrimoine logiciel, a organisé le 30 novembre dernier un événement retraçant les avancées et les objectifs futurs du projet.  La DINUM, sponsor de Software Heritage, était présente.
 
@@ -212,14 +211,14 @@ Depuis 2016, le projet [Software Heritage](https://www.softwareheritage.org/) pe
 -   [Celebrating software source code as digital heritage](https://en.unesco.org/news/celebrating-software-source-code-digital-heritage), en.unesco.org, décembre 2021
 
 
-### Framasoft a 20 ans
+## Framasoft a 20 ans
 
 Né dans un collège de Seine-Saint-Denis au sein d’un projet pédagogique FRAnçais et MAthématiques, le premier nom de domaine Framasoft, déposé chez Gandi le 9 novembre 2001, a soufflé sa vingtième bougie.  Il a beaucoup évolué depuis.
 
 `>>` [Framasoft, «Amap du numérique», a vingt ans](https://www.zdnet.fr/blogs/l-esprit-libre/framasoft-amap-du-numerique-a-vingt-ans-39932127.htm), zdnet.fr, novembre 2021
 
 
-### HAL a 20 ans
+## HAL a 20 ans
 
 HAL est l'archive ouverte nationale qui accompagne la science ouverte en France depuis 2001. Sa mission est de permettre aux chercheurs de partager leurs publications sans contraintes, d'ouvrir la conversation scientifique et de repenser son apport à la société. Près d'un million de documents scientifiques, dont des codes sources, ont été déposés par une centaine de milliers de chercheurs.
 
@@ -228,27 +227,27 @@ HAL a fêté son 20ème anniversaire au musée des confluences de Lyon et rassem
 `>>` Voir la [rediffusion de l'événement](https://www.youtube.com/watch?v=mwXOfysGBM4) (youtube.com)
 
 
-## Dans le rétroviseur
+# Dans le rétroviseur
 
 
-### JLA, le comparateur de licences libres
+## JLA, le comparateur de licences libres
 
 Joinup, projet de la Commission européenne pour le partage et la réutilisation de solutions et de bonnes pratiques informatiques, a lancé il y a 2 ans, le Join License Assistant (JLA).  L'outil permet de comparer et de sélectionner les licences libres en fonction de leur contenu.  Si vous ne le connaissiez pas, c'est le moment de découvrir cet outil !
 
 `>>` [Utiliser le JLA](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses)
 
 
-### Conférence sur l'originalité des oeuvres logicielles
+## Conférence sur l'originalité des oeuvres logicielles
 
 François Pellegrini, professeur à l'Université de Bordeaux, aborde de façon très claire la question juridique de l'originalité des œuvres logicielles.  Si vous n'avez pas encore vu cette présentation, prenez un moment pour le faire !
 
 `>>` [Accéder à la présentation](https://hal.inria.fr/hal-03201316)
 
 
-## Revue de presse
+# Revue de presse
 
 
-### Sur le plan d'action logiciels libres et communs numériques
+## Sur le plan d'action logiciels libres et communs numériques
 
 -   [Actu - Comment accélérer le recours aux logiciels libres et aux communs numériques dans l'administration ?](https://www.idcite.com/Actu-Comment-accelerer-le-recours-aux-logiciels-libres-et-aux-communs-numeriques-dans-l-administration_a58935.html), idcite.com, novembre 2021
 -   [Administration numérique : l'État mise sur le logiciel libre](https://www.commentcamarche.net/applis-sites/bureautique/1843-administration-numerique-le-gouvernement-mise-sur-le-logiciel-libre/), commentcamarche.net, novembre 2021
@@ -275,7 +274,7 @@ François Pellegrini, professeur à l'Université de Bordeaux, aborde de façon 
 -   [Un plan d'action « logiciels libres et communs numériques » annoncé par Amélie de Montchalin](https://www.actualitesdudroit.fr/browse/affaires/immateriel/34974/un-plan-d-action-logiciels-libres-et-communs-numeriques-annonce-par-amelie-de-montchalin), actualitesdudroit.fr, novembre 2021
 
 
-### Sur l'ouverture de code.gouv.fr
+## Sur l'ouverture de code.gouv.fr
 
 -   [code.gouv.fr : tout le code libéré par les organismes publics français !](https://linuxfr.org/users/dinomasque/journaux/code-gouv-fr-tout-le-code-libere-par-les-organismes-publics-francais), linuxfr.org, novembre 2021
 -   [French government to speed up deployment of open source](https://www.euractiv.com/section/digital/news/french-government-seeks-to-speed-up-deployment-of-open-source/), euractiv.fr, novembre 2021
@@ -285,13 +284,13 @@ François Pellegrini, professeur à l'Université de Bordeaux, aborde de façon 
 -   [SourceHut's third year](https://sourcehut.org/blog/2021-11-15-sourcehuts-third-year/), sourcehut.org, novembre 2021
 
 
-### Sur l'ajout des licences EUPL et EPL
+## Sur l'ajout des licences EUPL et EPL
 
 -   [EUPL et Eclipse Public Licence désormais autorisées pour les codes sources publics](https://www.nextinpact.com/lebrief/49081/eupl-et-eclipse-public-licence-desormais-autorisees-pour-codes-sources-publics), nextinpact.com, décembre 2021
 -   [The EUPL is a "Legal Licence" in France](https://joinup.ec.europa.eu/collection/eupl/news/eupl-french-administrations), joinup.ec.europa.eu, décembre 2021
 
 
-### Sur les ressources éducatives libres
+## Sur les ressources éducatives libres
 
 -   [Open Hardware : exemple de création, utilisation et adaptation à l'école primaire](https://twitter.com/framaka/status/1453444815480295428), twitter.com, octobre 2021
 -   [Le prix Serge Hocquenghem est décerné à Sébastien Cogez, professeur de mathématiques et auteur de nombreuses ressources pédagogiques libres](http://psh.aid-creem.org/), aid-creem.org, octobre 2021
@@ -303,7 +302,7 @@ François Pellegrini, professeur à l'Université de Bordeaux, aborde de façon 
 -   [Création du salon Tchap "Libre & Éducation"](https://www.tchap.gouv.fr/#/room/#LibreducationxZNclO9fwZr:agent.education.tchap.gouv.fr), tchap.gouv.fr
 
 
-### Sur d'autres sujets
+## Sur d'autres sujets
 
 -   [Framadate, notre première contribution au logiciel libre](https://design.numerique.gouv.fr/articles/2021-11-05-framadate-notre-premiere-contribution-au-logiciel-libre/), design.numerique.gouv.fr, novembre 2021
 -   [Le plan d'action national 2021-2023 pour un gouvernement ouvert](https://www.modernisation.gouv.fr/outils-et-formations/le-plan-daction-national-2021-2023-pour-un-gouvernement-ouvert), modernisation.gouv.fr, décembre 2021
