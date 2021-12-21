@@ -15,6 +15,7 @@ La gazette `BlueHats` est la contribution de la DINUM au mouvement `BlueHats`.  
 
 <ul class="fr-list">
 
+- [Gazette n°14](bluehats_14) (Décembre 2021)
 - [Gazette n°13](bluehats_13) (Octobre 2021)
 - [Gazette n°12](bluehats_12) (Août 2021)
 - [Gazette n°11](bluehats_11) (Juin 2021) 
