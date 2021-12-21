@@ -64,3 +64,5 @@ Le télétravail est possible jusqu'à deux jours par semaine.
 Le poste convient à vos compétences et vos motivations ?  Envoyez un CV et une lettre de motivation à l'adresse `candidatures-DINUM@pm.gouv.fr`.
 
 Vous pouvez aussi consulter [la fiche de poste sur place-emploi-public.gouv.fr](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-communautes-et-de-contributions-logiciels-libres-cdd-3-ans-renouvelable-hf-reference-2021-776390/).
+
+Si vous n'avez pas les diplômes mentionnés mais pensez néanmoins être la bonne personne, [parlons-en](mailto:logiciels-libres@data.gouv.fr) !
