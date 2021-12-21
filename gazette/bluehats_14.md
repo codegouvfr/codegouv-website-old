@@ -35,7 +35,7 @@ Dans le cadre de ce programme, un partenariat a été signé entre la DINUM et l
 -   Un [article de nextinpact.com](https://www.nextinpact.com/lebrief/49255/bluehats-semester-of-code-centralesupelec-sallie-avec-etalab-pour-developpement-logiciels-libres#/page/1) relayant ce partenariat
 -   La [liste des propositions de contributions](https://github.com/blue-hats/bluehats-soc)
 
-Ce programme est ouvert : si vous travaillez dans une formation universitaire ou une école publique proposant des stages pour des contributions à des logiciels libres, n'hésitez pas à nous écrire !
+Ce programme est ouvert : si vous travaillez dans une formation universitaire ou une école publique proposant des stages pour des contributions à des logiciels libres, n'hésitez pas à nous écrire !
 
 `>>` Retrouvez [l'annonce via @codegouvfr](https://twitter.com/codegouvfr/status/1471448756931514373)
 
@@ -61,7 +61,7 @@ FranceConnect+ est la nouvelle solution proposée par l’État, plus sécurisé
 `>>` Retrouvez [l'annonce via @codegouvfr](https://twitter.com/codegouvfr/status/1465213941957607426)
 
 
-# Le pôle logiciels libres d'Etalab recrute !
+# Le pôle logiciels libres d'Etalab recrute
 
 L'équipe du pôle logiciels libres d'Etalab grandit et recherche un·e chargé·e de communauté et de contributions logiciels libres.
 
@@ -118,7 +118,7 @@ Lors de l'événement (virtuel) FOSDEM 2022, un rassemblement majeur autour des 
 
 # Retour sur la dernière journée BlueHats et prochains ateliers
 
-Le 9 novembre s'est tenue une journée BlueHats au salon Open Source Experience qui a fait salle comble !  Merci à tous ceux qui se sont mobilisés pour partager leurs expériences d'utilisation de logiciels libres dans l'administration.  Retrouvez [les interventions de cette journée sur cette page](https://communs.numerique.gouv.fr/bluehats/journee-2021/).
+Le 9 novembre s'est tenue une journée BlueHats au salon Open Source Experience qui a fait salle comble !  Merci à tous ceux qui se sont mobilisés pour partager leurs expériences d'utilisation de logiciels libres dans l'administration.  Retrouvez [les interventions de cette journée sur cette page](https://communs.numerique.gouv.fr/bluehats/journee-2021/).
 
 Le prochain atelier BlueHats aura lieu le 14 janvier avec une présentation de « la stratégie Open Source externe de RTE et de sa stratégie interne avec l’initiative DevStudio, afin de permettre à tout salarié de bien développer. »
 
@@ -276,7 +276,7 @@ François Pellegrini, professeur à l'Université de Bordeaux, aborde de façon 
 
 ## Sur l'ouverture de code.gouv.fr
 
--   [code.gouv.fr : tout le code libéré par les organismes publics français !](https://linuxfr.org/users/dinomasque/journaux/code-gouv-fr-tout-le-code-libere-par-les-organismes-publics-francais), linuxfr.org, novembre 2021
+-   [code.gouv.fr : tout le code libéré par les organismes publics français !](https://linuxfr.org/users/dinomasque/journaux/code-gouv-fr-tout-le-code-libere-par-les-organismes-publics-francais), linuxfr.org, novembre 2021
 -   [French government to speed up deployment of open source](https://www.euractiv.com/section/digital/news/french-government-seeks-to-speed-up-deployment-of-open-source/), euractiv.fr, novembre 2021
 -   [France Expands Open Source Use, Seeking Interoperability, 'Digital Sovereignty', and 'Democratic Confidence'](https://news.slashdot.org/story/21/11/14/1757238/france-expands-open-source-use-seeking-interoperability-digital-sovereignty-and-democratic-confidence), slashdot.org, novembre 2021
 -   [Code.gouv.fr: 9000 open source programs published by the French public sector](https://news.ycombinator.com/item?id=29182551), news.ycombinator.com, novembre 2021
