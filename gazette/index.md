@@ -1,5 +1,5 @@
 ---
-title: "Gazette BlueHats 🧢 : le libre par et pour l'administration"
+title: "Gazette BlueHats 🧢 : le libre par et pour l'administration"
 layout: layouts/page.njk
 ---
 
