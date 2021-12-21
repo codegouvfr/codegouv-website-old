@@ -61,7 +61,7 @@ FranceConnect+ est la nouvelle solution proposée par l’État, plus sécurisé
 `>>` Retrouvez [l'annonce via @codegouvfr](https://twitter.com/codegouvfr/status/1465213941957607426)
 
 
-# Le pôle logiciels libres d'Etalab recrute
+## Le pôle logiciels libres d'Etalab recrute
 
 L'équipe du pôle logiciels libres d'Etalab grandit et recherche un·e chargé·e de communauté et de contributions logiciels libres.
 
@@ -72,22 +72,57 @@ Retrouvez la [description complète du poste](https://communs.numerique.gouv.fr/
 `>>` Aidez-nous à [relayer l'annonce de @codegouvfr](https://twitter.com/codegouvfr/status/1473212075883352064)
 
 
-# Participation de la DINUM à l'émission « Libre à vous ! »
+## Remise du prix « Territoires numériques libres » de l'Adullact
 
-Le 14 décembre, Sabine Guillaume et Bastien Guerry, respectivement cheffe de la mission LABEL et du pôle logiciels libres d'Etalab, étaient les invités de l'émission de radio « Libre à vous ! », animée par l'association APRIL : l'occasion d'aborder plus en détail les annonces du gouvernement sur ce plan d'action logiciels libres et communs numériques.
+Depuis sa 1ère édition en 2016, le label Territoire Numérique Libre récompense les initiatives et politiques en faveur des logiciels libres et données ouvertes dans les collectivités territoriales.  Cette année, 24 candidatures ont été déposées et étudiées par un jury de professionnels du numérique et du libre.
 
-`>>` Écouter [la rediffusion de l'émission en ligne](https://www.libreavous.org/126-plan-d-action-du-gouvernement-sur-les-logiciels-libres)
+La remise des labels Territoire Numérique Libre a eu lieu mardi 9 novembre 2021 au salon Open Source Experience.  La ville d'Abbeville s'est démarquée en accédant à l'excellent niveau 5 et le jury a décerné 3 mentions spéciales : "Meilleure première candidature" à la ville d'Échirolles, "Plus petite collectivité" à la ville de Lettret et ses 187 habitants et "Meilleure continuité" à la ville de Mions qui se maintient au niveau 4 depuis 6 ans.
+
+`>>` Retrouvez [toutes les informations sur cette édition](https://territoire-numerique-libre.org/edition-2021/)
 
 
-# Ailleurs en Europe
+## Du côté de l'enseignement supérieur et de la recherche
 
 
-## La Commission européenne progresse sur la publication de codes sources
+### En janvier : rencontres sur les enjeux du logiciel libre dans la recherche
+
+Le groupe logiciels libres et open source du Comité pour la science ouverte et le pôle logiciels libres d’Etalab vous convient à une série de trois rencontres en janvier et février 2022 sur les enjeux d’ouverture et de valorisation des codes sources de la recherche.
+
+`>>` Lire toutes les informations sur [cette page](https://www.ouvrirlascience.fr/rencontres-sur-les-enjeux-du-logiciel-libre-dans-la-recherche-ouvrir-et-promouvoir-les-codes-sources-produits-par-la-recherche/)
+
+
+### Le code de Jitsi amélioré par des étudiants de CentraleSupélec
+
+Le logiciel libre de visioconférence [Jitsi](https://jitsi.org) a ajouté une fonctionnalité de sondage.  Cette fonctionnalité est le fruit du travail de trois étudiants de l'école CentraleSupélec lors d'un hackathon parrainé par la Commission européenne.
+
+`>>` En apprendre plus via [cet article](https://www.fun-mooc.fr/fr/actualites/jitsi-fun-trois-etudiants-et-un-hackathon/) de fun-mooc.fr, juin 2021
+
+
+### Appel à intervention : Open Research Tools & Technologies (FOSDEM 2022)
+
+Plus que deux jours pour proposer une intervention dans l'atelier "Open Research Tools & Technologies" organisé lors de la conférence [FOSDEM 2022](https://fosdem.org/2022/), et qui se tiendra en ligne le 5 février 2022.
+
+`>>` Retrouvez [le détail de l'appel à contribution](https://research-fosdem.github.io/)
+
+
+### Offre de stage « Les nouvelles voies de valorisation des logiciels » à l'INRAE
+
+L’Institut national de recherche pour l’agriculture, l’alimentation et l’environnement (INRAE) est un établissement public de recherche en sciences agricoles et alimentaires, en sciences du végétal et de l’animal.  Ses recherches visent à construire des solutions pour des agricultures multi-performantes, une alimentation de qualité et une gestion durable des ressources et des écosystèmes.
+
+L'INRAE recherche un ou une stagiaire pour participer à une étude sur le mouvement politique et social du logiciel libre, l’analyse des modèles de valorisation existants des logiciels libres et la construction d’outils d’accompagnement pour la valorisation de logiciels.
+
+`>>` Voir [l'offre de stage détaillée](https://drive.google.com/file/d/11M4lEy-LIPGJqluURW1UaMK6jI9XDOnX/view)
+
+
+## Ailleurs en Europe
+
+
+### La Commission européenne progresse sur la publication de codes sources
 
 Voir [cette annonce officielle](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6649) ainsi que [cet article](https://www.zdnet.fr/blogs/l-esprit-libre/la-commission-europeenne-veut-mieux-diffuser-ses-logiciels-open-source-39933847.htm) (zdnet.fr, 2021) qui revient plus en détail sur l'annonce.
 
 
-## L'Allemagne avance sur le logiciel libre pour la souveraineté numérique
+### L'Allemagne avance sur le logiciel libre pour la souveraineté numérique
 
 L'Allemagne lance un fonds pour la souveraineté numérique afin de soutenir le développement, le passage à l'échelle et la maintenance de technologies numériques fondamentales, notamment les infrastructures *open source*.  Voici la description de la mission en anglais :
 
@@ -102,21 +137,51 @@ Ailleurs en Allemagne, d'autres nouvelles sur le logiciel libre :
 -   [L’État allemand du Schleswig-Holstein migrera vers LibreOffice et Linux](https://www.toolinux.com/?kiel-et-l-etat-allemand-du-schleswig-holstein-migrera-vers-libreoffice-et-linux), www.toolinux.com, novembre 2021
 
 
-## En Italie, une reconnaissance forte du logiciel libre
+### En Italie, une reconnaissance forte du logiciel libre
 
 La cour de Venise a reconnu la légalité des licences libres General Public Licenses de la Free Software Foundation, premier jugement du genre en Italie.
 
 `>>` [Groundbreaking acknowledgment of Free Software in Italy](https://www.dynamic.ooo/press/groundbreaking-acknowledgment-of-free-software-in-italy/), dynamic.ooo, décembre 2021
 
 
-## Appel à participation pour la devroom "Public code" lors du FOSDEM 2022
+### Appel à participation pour la devroom "Public Code" lors du FOSDEM 2022
 
 Lors de l'événement (virtuel) FOSDEM 2022, un rassemblement majeur autour des logiciels libres en Europe, une "devroom" sera consacrée aux codes sources du secteur public.  Les interventions auront lieu le 6 février en ligne.  Un appel à participation a été lancé, qui ferme le 26 décembre.
 
 `>>` Consulter [l'appel à participation](https://lists.fosdem.org/pipermail/fosdem/2021q4/003299.html)
 
 
-# Retour sur la dernière journée BlueHats et prochains ateliers
+# Focus tech & usage
+
+
+## BigBlueButton à l'éducation nationale
+
+Laurent Le Prieur, sous-directeur du Socle Numérique à la Direction du Numérique pour l'Éducation, fait le point sur l'usage et les projets en cours avec le logiciel libre de visioconférence développé pour la formation à distance BigBlueButton.  Aujourd'hui les classes virtuelles s'appuient sur le logiciel propriétaire Blackboard hébergé chez Amazon.  L'objectif est qu'à la rentrée 2022, BigBlueButton vienne le remplacer sur un cloud souverain chez un hébergeur français.
+
+`>>` Lire [l'article sur ludomag.com](https://www.ludomag.com/2021/11/10/numerique-educatif-arrivee-imminente-du-bbb-loutil-denseignement-a-distance-et-bien-plus-encore/)
+
+
+## La diffusion de supports visuels avec `remote-lecture`
+
+Diffuser en direct, à un auditoire nombreux, des supports visuels de qualité tout en restant libre et sobre ?  C'est le défi relevé par Hugo Raguet, qui a développé le logiciel libre `remote-lecture`.
+
+-   Une [présentation et discussion](https://linuxfr.org/news/des-outils-de-teleconference-libres-sobres-et-souverains) sur linuxfr.org
+-   Un [PDF de présentation](https://1a7r0ch3.github.io/remote/outils_libres_cours_distance_HRaguet_OpenINSA_pedagogie_2021.pdf) complète en français
+-   Une [présentation en anglais du logiciel](https://gitlab.com/1a7r0ch3/remote-lecture)
+-   Le [code source de remote-lecture](https://gitlab.com/1a7r0ch3/remote-lecture)
+
+
+# Dans le rétroviseur
+
+
+## Participation de la DINUM à l'émission « Libre à vous ! »
+
+Le 14 décembre, Sabine Guillaume et Bastien Guerry, respectivement cheffe de la mission LABEL et du pôle logiciels libres d'Etalab, étaient les invités de l'émission de radio « Libre à vous ! », animée par l'association APRIL : l'occasion d'aborder plus en détail les annonces du gouvernement sur ce plan d'action logiciels libres et communs numériques.
+
+`>>` Écouter [la rediffusion de l'émission en ligne](https://www.libreavous.org/126-plan-d-action-du-gouvernement-sur-les-logiciels-libres)
+
+
+## Retour sur la dernière journée BlueHats et prochains ateliers
 
 Le 9 novembre s'est tenue une journée BlueHats au salon Open Source Experience qui a fait salle comble !  Merci à tous ceux qui se sont mobilisés pour partager leurs expériences d'utilisation de logiciels libres dans l'administration.  Retrouvez [les interventions de cette journée sur cette page](https://communs.numerique.gouv.fr/bluehats/journee-2021/).
 
@@ -125,40 +190,7 @@ Le prochain atelier BlueHats aura lieu le 14 janvier avec une présentation de �
 `>>` Retrouvez les ateliers BlueHats passés et à venir<https://communs.numerique.gouv.fr/bluehats/ateliers/>
 
 
-# Du côté de l'enseignement supérieur et de la recherche
-
-
-## En janvier : rencontres sur les enjeux du logiciel libre dans la recherche
-
-Le groupe logiciels libres et open source du Comité pour la science ouverte et le pôle logiciels libres d’Etalab vous convient à une série de trois rencontres en janvier et février 2022 sur les enjeux d’ouverture et de valorisation des codes sources de la recherche.
-
-`>>` Lire toutes les informations sur [cette page](https://www.ouvrirlascience.fr/rencontres-sur-les-enjeux-du-logiciel-libre-dans-la-recherche-ouvrir-et-promouvoir-les-codes-sources-produits-par-la-recherche/)
-
-
-## Le code de Jitsi amélioré par des étudiants de CentraleSupélec
-
-Le logiciel libre de visioconférence [Jitsi](https://jitsi.org) a ajouté une fonctionnalité de sondage.  Cette fonctionnalité est le fruit du travail de trois étudiants de l'école CentraleSupélec lors d'un hackathon parrainé par la Commission européenne.
-
-`>>` En apprendre plus via [cet article](https://www.fun-mooc.fr/fr/actualites/jitsi-fun-trois-etudiants-et-un-hackathon/) de fun-mooc.fr, juin 2021
-
-
-## Appel à intervention : Open Research Tools & Technologies (FOSDEM 2022)
-
-Plus que deux jours pour proposer une intervention dans l'atelier "Open Research Tools & Technologies" organisé lors de la conférence [FOSDEM 2022](https://fosdem.org/2022/), et qui se tiendra en ligne le 5 février 2022.
-
-`>>` Retrouvez [le détail de l'appel à contribution](https://research-fosdem.github.io/)
-
-
-## Offre de stage « Les nouvelles voies de valorisation des logiciels » à l'INRAE
-
-L’Institut national de recherche pour l’agriculture, l’alimentation et l’environnement (INRAE) est un établissement public de recherche en sciences agricoles et alimentaires, en sciences du végétal et de l’animal.  Ses recherches visent à construire des solutions pour des agricultures multi-performantes, une alimentation de qualité et une gestion durable des ressources et des écosystèmes.
-
-L'INRAE recherche un ou une stagiaire pour participer à une étude sur le mouvement politique et social du logiciel libre, l’analyse des modèles de valorisation existants des logiciels libres et la construction d’outils d’accompagnement pour la valorisation de logiciels.
-
-`>>` Voir [l'offre de stage détaillée](https://drive.google.com/file/d/11M4lEy-LIPGJqluURW1UaMK6jI9XDOnX/view)
-
-
-# Les nouveautés du socle interministériel de logiciels libres
+## Les nouveautés du socle interministériel de logiciels libres
 
 Voici les nouveautés du côté du SILL :
 
@@ -174,30 +206,18 @@ Bienvenue à nos nouveaux référents !
 Les explications détaillées sur le SILL ont migré vers [cette page](https://man.sr.ht/~etalab/logiciels-libres/sill.md).
 
 
-# Remise du prix « Territoires numériques libres » de l'Adullact
+## JLA, le comparateur de licences libres
 
-Depuis sa 1ère édition en 2016, le label Territoire Numérique Libre récompense les initiatives et politiques en faveur des logiciels libres et données ouvertes dans les collectivités territoriales.  Cette année, 24 candidatures ont été déposées et étudiées par un jury de professionnels du numérique et du libre.
+Joinup, projet de la Commission européenne pour le partage et la réutilisation de solutions et de bonnes pratiques informatiques, a lancé il y a 2 ans, le Join License Assistant (JLA).  L'outil permet de comparer et de sélectionner les licences libres en fonction de leur contenu.  Si vous ne le connaissiez pas, c'est le moment de découvrir cet outil !
 
-La remise des labels Territoire Numérique Libre a eu lieu mardi 9 novembre 2021 au salon Open Source Experience.  La ville d'Abbeville s'est démarquée en accédant à l'excellent niveau 5 et le jury a décerné 3 mentions spéciales : "Meilleure première candidature" à la ville d'Échirolles, "Plus petite collectivité" à la ville de Lettret et ses 187 habitants et "Meilleure continuité" à la ville de Mions qui se maintient au niveau 4 depuis 6 ans.
-
-`>>` Retrouvez [toutes les informations sur cette édition](https://territoire-numerique-libre.org/edition-2021/)
+`>>` [Utiliser le JLA](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses)
 
 
-# Focus usage : BigBlueButton à l'éducation nationale
+## Conférence sur l'originalité des oeuvres logicielles
 
-Laurent Le Prieur, sous-directeur du Socle Numérique à la Direction du Numérique pour l'Éducation, fait le point sur l'usage et les projets en cours avec le logiciel libre de visioconférence développé pour la formation à distance BigBlueButton.  Aujourd'hui les classes virtuelles s'appuient sur le logiciel propriétaire Blackboard hébergé chez Amazon.  L'objectif est qu'à la rentrée 2022, BigBlueButton vienne le remplacer sur un cloud souverain chez un hébergeur français.
+François Pellegrini, professeur à l'Université de Bordeaux, aborde de façon très claire la question juridique de l'originalité des œuvres logicielles.  Si vous n'avez pas encore vu cette présentation, prenez un moment pour le faire !
 
-`>>` Lire [l'article sur ludomag.com](https://www.ludomag.com/2021/11/10/numerique-educatif-arrivee-imminente-du-bbb-loutil-denseignement-a-distance-et-bien-plus-encore/)
-
-
-# Focus tech : la diffusion de supports visuels avec remote-lecture
-
-Diffuser en direct, à un auditoire nombreux, des supports visuels de qualité tout en restant libre et sobre ?  C'est le défi relevé par Hugo Raguet, qui a développé le logiciel libre `remote-lecture`.
-
--   Une [présentation et discussion](https://linuxfr.org/news/des-outils-de-teleconference-libres-sobres-et-souverains) sur linuxfr.org
--   Un [PDF de présentation](https://1a7r0ch3.github.io/remote/outils_libres_cours_distance_HRaguet_OpenINSA_pedagogie_2021.pdf) complète en français
--   Une [présentation en anglais du logiciel](https://gitlab.com/1a7r0ch3/remote-lecture)
--   Le [code source de remote-lecture](https://gitlab.com/1a7r0ch3/remote-lecture)
+`>>` [Accéder à la présentation](https://hal.inria.fr/hal-03201316)
 
 
 # Joyeux anniversaires !
@@ -225,23 +245,6 @@ HAL est l'archive ouverte nationale qui accompagne la science ouverte en France 
 HAL a fêté son 20ème anniversaire au musée des confluences de Lyon et rassemble à cette occasion, des acteurs institutionnels majeurs de son histoire.  Une table ronde rend hommage aux pionniers, chercheurs, scientifiques et informaticiens, qui ont soutenu la création, le développement et la solidification de HAL.
 
 `>>` Voir la [rediffusion de l'événement](https://www.youtube.com/watch?v=mwXOfysGBM4) (youtube.com)
-
-
-# Dans le rétroviseur
-
-
-## JLA, le comparateur de licences libres
-
-Joinup, projet de la Commission européenne pour le partage et la réutilisation de solutions et de bonnes pratiques informatiques, a lancé il y a 2 ans, le Join License Assistant (JLA).  L'outil permet de comparer et de sélectionner les licences libres en fonction de leur contenu.  Si vous ne le connaissiez pas, c'est le moment de découvrir cet outil !
-
-`>>` [Utiliser le JLA](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses)
-
-
-## Conférence sur l'originalité des oeuvres logicielles
-
-François Pellegrini, professeur à l'Université de Bordeaux, aborde de façon très claire la question juridique de l'originalité des œuvres logicielles.  Si vous n'avez pas encore vu cette présentation, prenez un moment pour le faire !
-
-`>>` [Accéder à la présentation](https://hal.inria.fr/hal-03201316)
 
 
 # Revue de presse
