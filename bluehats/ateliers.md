@@ -42,7 +42,6 @@ Les journées `BlueHats` et les *Sprint Open Source* sont des moments conviviaux
 - 26 mars 2021 : Atelier sur OW2 Good Governance Initiative ([revoir](https://www.dailymotion.com/video/x82vcud "Atelier sur OW2 Good Governance Initiative - Lien externe"))
 - 12 mars 2021 : Atelier de mise à jour RGPD pour Matomo ([revoir](https://www.dailymotion.com/video/x82vcug "Atelier de mise à jour RGPD pour Matomo - Lien externe"))
 - 5 mars 2021 : Atelier de découverte de Scenari Opale et point SILL ([revoir](https://www.dailymotion.com/video/x82vcua?playlist=x767bq "Atelier de découverte de Scenari Opale et point SILL - Lien externe"))
-- 29 janvier 2021 : Atelier de présentation de SambaÉdu ([revoir](https://www.dailymotion.com/video/x82vcub "Atelier de présentation de SambaÉdu - Lien externe"))
 - 22 janvier 2021 : Présentation de Proxmox ([revoir](https://www.dailymotion.com/video/x83k79m "Présentation de Proxmox - Lien externe"))
 - 18 Décembre 2020 : OpenMole, les JDEV et plateforme vidéo “Constellation” ([revoir](https://www.dailymotion.com/video/x82vd1j "OpenMole, les JDEV et plateforme vidéo Constellation - Lien externe"))
 - 27 Novembre 2020 : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (2/2) (Prodige et Atlasanté) ([revoir](https://www.dailymotion.com/video/x82vcuc "Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (2/2) (Prodige et Atlasanté) - Lien externe"))
