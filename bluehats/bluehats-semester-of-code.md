@@ -13,6 +13,7 @@ layout: layouts/page.njk
         <p class="fr-card__desc">
 	  En 2021, le département Etalab de la DINUM et l’école d’ingénieurs CentraleSupélec proposent un programme de stage permettant à des étudiants de contribuer à des logiciels libres créés ou utilisés par des administrations publiques. La première édition du <code>BlueHats</code> Semester of Code est lancée !
         </p>
+		<p>Découvrez <a href="https://github.com/blue-hats/bluehats-soc">la liste des idées de contribution retenues</a>.</p>
       </div>
       <div class="fr-card__img">
         <img src="/img/bluehats-semester-of-code.jpg" alt="">
