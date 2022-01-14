@@ -18,15 +18,16 @@ Les journées `BlueHats` et les *Sprint Open Source* sont des moments conviviaux
 - Journée `BlueHats` 2019, lors du salon Paris Open Source Summit ([annonce](https://www.numerique.gouv.fr/agenda/journee-bluehats-lors-du-salon-open-source-experience/) et [présentations](https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614/2))
 - Sprint Open Source 2019, au Lab 110 bis du ministère de l'Éducation Nationale ([lien](https://www.numerique.gouv.fr/actualites/retour-sur-le-premier-sprint-open-source-bluehats-administration/))
 - Journée `BlueHats` 2018, lors du salon Paris Open Source Summit ([lien](https://www.numerique.gouv.fr/agenda/lancement-rejoignez-la-communaute-blue-hats-hackers-dinteret-general/))
+
 ## Ateliers à venir
 
-- 14 janvier 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : La stratégie open source de RTE
 - 28 janvier 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation d'un cas d'usage de [Rudder](https://sill.etalab.gouv.fr/fr/software?id=164)
 - 11 février 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de l'outil VersLeLibre (AMUE)
 - 25 février 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de la licence European Union Public Licence
 
 ## Ateliers à revoir
 
+- 14 janvier 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : La stratégie open source de RTE ([revoir](https://dai.ly/x873d6i "Atelier BlueHats : présentation de la stratégie open source de RTE - lien externe"))
 - 10 décembre 2021 : Propriété intellectuelle dans les marchés publics : rédiger et mettre en oeuvre les documents particuliers, Anne-Claire Viala et Sylvia Israel, APIE, DAJ du MEFR (télécharger [le support PDF](https://box.bzg.io/cloud/index.php/s/FPbnaPiR5B4iefK) et [revoir](https://dai.ly/x866ogt "Propriété intellectuelle dans les marchés publics : rédiger et mettre en oeuvre les documents particuliers - Lien externe"))
 - 22 octobre 2021 : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po ([revoir](https://www.dailymotion.com/video/x8511pn "Présentation des outils et librairies Open Source développés par le médialab de Sciences Po - Lien externe"))
 - 8 octobre 2021 : Les outils Framasoft dans l’administration publique et présentation de framaforms/Yakforms ([revoir](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1633683557557 "Les outils Framasoft dans l’administration publique et présentation de framaforms/Yakforms - Lien externe"))
