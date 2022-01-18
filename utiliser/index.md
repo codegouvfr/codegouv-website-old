@@ -7,7 +7,13 @@ eleventyNavigation:
 ---
 
 <div class="fr-grid-row fr-grid-row--gutters">
-  <div class="fr-col-12 fr-col-md-4">
+
+  <div class="fr-highlight">
+    <p>Vous souhaitez référencer dans le SILL un logiciel libre utilisé dans votre administration ? <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a></p>
+    <p>Vous souhaitez référencer une solution libre dans le catalogue GouvTech ? <a href="https://catalogue.numerique.gouv.fr">C'est ouvert !</a></p>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-6">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
@@ -20,7 +26,7 @@ eleventyNavigation:
     </div>
   </div>
 
-  <div class="fr-col-12 fr-col-md-4">
+  <div class="fr-col-12 fr-col-md-6">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
@@ -33,7 +39,7 @@ eleventyNavigation:
     </div>
   </div>
 
-  <div class="fr-col-12 fr-col-md-4">
+  <div class="fr-col-12 fr-col-md-6">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
@@ -46,10 +52,17 @@ eleventyNavigation:
     </div>
   </div>
 
-</div>
+  <div class="fr-col-12 fr-col-md-6">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a href="marches-interministeriels-support-expertise-logiciels-libres" class="fr-card__link">Marchés interministériels support et expertise à l'usage des logiciels libres</a>
+	</h2>
+	<p class="fr-card__desc">
+	  La Direction Générale des Finances Publiques est pilote de deux marchés interministériels à l’usage des logiciels libres. Ces deux marchés ont pour objet de couvrir l’ensemble du cycle de vie d’un logiciel libre au sein du système d'information.
+	</p>
+      </div>
+    </div>
+  </div>
 
-<div class="fr-highlight">
-  <p>Vous souhaitez référencer dans le SILL un logiciel libre utilisé dans votre administration ? <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a></p>
-  <p>Vous souhaitez référencer une solution libre dans le catalogue GouvTech ? <a href="https://catalogue.numerique.gouv.fr">C'est ouvert !</a></p>
 </div>
-
