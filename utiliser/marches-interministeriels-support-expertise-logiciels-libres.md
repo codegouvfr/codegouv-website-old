@@ -7,7 +7,7 @@ layout: layouts/plan.njk
 
 <div class="fr-highlight">
   <p>Vous pouvez consulter la <a href="https://man.sr.ht/~etalab/logiciels-libres/marches-logiciels-libres.md" title="Liste des bénéficiaires des marchés support et expertise logiciels libres - Lien externe">liste des bénéficiaires de ces marchés logiciels libres</a> et <a href="/contacts">nous écrire</a> pour connaître le coordinateur de votre établissement, s'il est bénéficiaire.</p>
-  <p>Vous pouvez aussi consulter la <a href="https://man.sr.ht/~etalab/logiciels-libres/marches-logiciels-libres-liste-logiciels.md" title="Liste des logiciels libres concernés par les marchés support et expertise logiciels libres - Lien externe">liste des logiciels libres concernés par les marchés support et expertise logiciels libres</a>.</p>
+  <p>Vous pouvez aussi consulter la <a href="https://man.sr.ht/~etalab/logiciels-libres/marches-logiciels-libres-liste-logiciels.md" title="Liste des logiciels libres concernés par le marché de support logiciels libres - Lien externe">liste des logiciels libres concernés par le marché de support logiciels libres</a>.</p>
 </div>
 
 La Direction Générale des Finances Publiques (DGFIP) est pilote de deux marchés interministériels à l’usage des logiciels libres. Ces deux marchés ont pour objet de couvrir l’ensemble du cycle de vie d’un logiciel libre au sein du système d'information (SI) :
