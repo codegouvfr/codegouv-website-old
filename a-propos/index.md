@@ -22,4 +22,4 @@ Le plan d'action est piloté par le pôle logiciels libres d'[Etalab](https://et
 
 ## Besoin d'un accompagnement ?
 
-Pour toute demande d'accompagnement, n'hésitez pas à [nous contacter](/contacts/).
+Pour toute demande d'accompagnement, n'hésitez pas à consulter [notre offre de services](https://man.sr.ht/~etalab/logiciels-libres/offre-de-services.md "Offre de services du pôle logiciels libres - Lien externe") et à [nous contacter](/contacts/).
