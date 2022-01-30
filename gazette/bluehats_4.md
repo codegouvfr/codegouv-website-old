@@ -1,7 +1,8 @@
 ---
 title: Gazette BlueHats 🧢 n°4
 date: 2019-12-08
-layout: layouts/gazette.njk
+layout: gazette
+tags: bluehats
 ---
 
 ## La journée `#BlueHats` au Paris Open Source Summit 2019

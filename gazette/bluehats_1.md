@@ -1,7 +1,8 @@
 ---
 title: Gazette BlueHats 🧢 n°1
 date: 2019-04-01
-layout: layouts/gazette.njk
+layout: gazette
+tags: bluehats
 ---
 
 ## Le hackathon GLPI du ministère de l'Intérieur

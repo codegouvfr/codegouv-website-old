@@ -1,7 +1,8 @@
 ---
 title: Gazette BlueHats 🧢 n°9
 date: 2021-02-15
-layout: layouts/gazette.njk
+layout: gazette
+tags: bluehats
 ---
 
 ## Autour de la publication du rapport Bothorel

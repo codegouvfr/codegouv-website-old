@@ -1,7 +1,8 @@
 ---
 title: Gazette BlueHats 🧢 n°6
 date: 2020-07-16
-layout: layouts/gazette.njk
+layout: gazette
+tags: bluehats
 ---
 
 ## Lancement des ateliers #BlueHats

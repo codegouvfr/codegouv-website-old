@@ -1,7 +1,8 @@
 ---
 title: Gazette BlueHats 🧢 n°2
 date: 2019-06-10
-layout: layouts/gazette.njk
+layout: gazette
+tags: bluehats
 ---
 
 ## Sharing & Reuse Awards 2019
