@@ -5,9 +5,9 @@ layout: page
 tags: bluehats
 ---
 
-Intervention de Pierre-Yves Fraisse
+*Intervention de Pierre-Yves Fraisse.*
 
-- [Télécharger la présentation](https://cloud.telecomste.fr/index.php/s/d56yxfDtFjkHYWz)
+Vous pouvez [télécharger la présentation](https://cloud.telecomste.fr/index.php/s/d56yxfDtFjkHYWz).
 
 Proxmox est une plateforme opensource (AGPL v3) de virtualisation alternative à VMWare, HyperV, Xen ... depuis 2008 qui repose sur Debian. Elle permet la virtualisation de serveurs (machines virtuelles KVM et containers LXC) mais aussi du réseau (VLan, Nat, agrégation de ports, switchs virtuels, ...) et du stockage (LVM, ZFS mais aussi iScsi, Ceph, NFS, CIFS, RBD, ...) la portant ainsi à une solution d'hyperconvergence.
 
@@ -19,4 +19,4 @@ Son API lui permet également d'être pilotée facilement par un outil d'orchest
 
 Un service d'assistance/support payant est disponible si la communauté de suffit pas.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/video/x83k79m" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x83k79m" width="100%" height="100%" allowfullscreen > </iframe> </div>

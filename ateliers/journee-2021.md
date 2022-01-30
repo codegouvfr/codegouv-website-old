@@ -4,7 +4,7 @@ layout: page
 tags: bluehats
 ---
 
-Voici les présentations faites lors de la journée `BlueHats` du 9 novembre 2021 qui s'est tenue lors du salon Open Source Experience :
+*Présentations faites lors de la journée `BlueHats` du 9 novembre 2021 qui s'est tenue lors du salon Open Source Experience.*
 
 - Présentation d’Esup-Pod, Nicolas Can ([revoir](https://dai.ly/x85y300 "Présentation d’Esup-Pod, Nicolas Can - Lien externe"))
 - Le projet PLUME et les services rendus à la Communauté de la recherche, Teresa Gomez-Diaz ([revoir](https://dai.ly/x85y31w "Le projet PLUME et les services rendus à la Communauté de la recherche, Teresa Gomez-Diaz - Lien externe"))

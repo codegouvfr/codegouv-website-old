@@ -5,7 +5,7 @@ layout: page
 tags: bluehats
 ---
 
-Cliquer sur ce lien pour [revoir la présentation](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1633683557557).
+*Cliquer sur ce lien pour [revoir la présentation](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1633683557557).*
 
 ## Présentation de Framasoft
 
@@ -15,7 +15,7 @@ Un second temps sera consacré au virage pris par l'association en 2014 avec la 
 
 Enfin, un dernier temps sera consacré à la question de l'édition logicielle par une structure d'éducation populaire (avec les exemples de PeerTube, Mobilizon ou Framaforms) afin de souligner les difficultés (financement, gestion communautaire, pérennité, responsabilités juridiques, partenariats, etc) qu'une association comme Framasoft peut rencontrer, spécifiquement dans son articulation avec les services de l'État.
 
-- Voir [le support de présentation](https://asso.framasoft.org/nextcloud/s/qwoKPgRxko894yj)
+Voir [le support de présentation](https://asso.framasoft.org/nextcloud/s/qwoKPgRxko894yj).
 
 ## Présentation de Yakforms
 
@@ -23,5 +23,5 @@ Framaforms est un logiciel libre de création de formulaires, lancé par Framaso
 
 Un travail a été réalisé pendant la période 2020-2021 pour faciliter l'essaimage du logiciel et l'émanciper de l'association Framasoft : le logiciel Framaforms est devenu Yakforms. Nous souhaitions pour cette présentation revenir sur l'historique de ce logiciel rendu à sa communauté, sur les possibilités qu'il offre et ses perspectives d'évolution.
 
-- Voir le [support de présentation](https://asso.framasoft.org/nextcloud/s/H27X35Aeycc5AoG)
+Voir le [support de présentation](https://asso.framasoft.org/nextcloud/s/H27X35Aeycc5AoG).
 

@@ -5,7 +5,7 @@ layout: page
 tags: bluehats
 ---
 
-Interventions de la [Foundation for Public Code](https://publiccode.net) et de la communauté [OpenFisca](https://openfisca.org).
+*Interventions de la [Foundation for Public Code](https://publiccode.net) et de la communauté [OpenFisca](https://openfisca.org).*
 
 Vous pouvez revoir l'atelier [via ce lien](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1632473986713).
 
