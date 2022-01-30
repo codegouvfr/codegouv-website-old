@@ -1,5 +1,5 @@
 ---
-title: Atelier BlueHats 🧢 - Atelier de découverte de Scenari Opale et point SILL
+title: Atelier BlueHats 🧢 - Atelier de découverte de Scenari Opale
 date: 2021-06-25
 layout: page
 tags: bluehats
