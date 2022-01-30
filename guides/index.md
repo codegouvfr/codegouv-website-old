@@ -1,7 +1,7 @@
 ---
 title: Les guides
 linkTitle: Le pôle logiciels libres vous accompagne dans la mise en oeuvre du plan d'action
-layout: layouts/page.njk
+layout: page
 eleventyNavigation:
   key: Guides
   order: 40

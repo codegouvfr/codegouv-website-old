@@ -1,6 +1,6 @@
 ---
 title: "Gazette BlueHats 🧢 : le libre par et pour l'administration"
-layout: layouts/page.njk
+layout: page
 ---
 
 ## Une gazette, pour quoi faire ?

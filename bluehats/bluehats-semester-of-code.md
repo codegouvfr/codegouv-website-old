@@ -1,6 +1,6 @@
 ---
 title: "BlueHats 🧢 Semester of Code : contribuons !"
-layout: layouts/page.njk
+layout: page
 ---
 
 <div class="fr-grid-row fr-grid-row--gutters">

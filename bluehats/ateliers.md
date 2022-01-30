@@ -1,7 +1,7 @@
 ---
 title: "Ateliers BlueHats 🧢 : partageons nos expertises"
 img: /img/bluehats-communaute.jpg
-layout: layouts/page.njk
+layout: page
 ---
 
 <div class="fr-highlight">
