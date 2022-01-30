@@ -1,6 +1,6 @@
 ---
 title: Renforcer le recours aux logiciels libres et aux communs numériques
-layout: layouts/page.njk
+layout: page
 eleventyNavigation:
   key: Utiliser
   order: 10

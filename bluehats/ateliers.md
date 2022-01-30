@@ -1,7 +1,7 @@
 ---
 title: "Ateliers BlueHats 🧢 : partageons nos expertises"
 img: /img/bluehats-communaute.jpg
-layout: layouts/page.njk
+layout: page
 ---
 
 <div class="fr-highlight">
@@ -21,13 +21,13 @@ Les journées `BlueHats` et les *Sprint Open Source* sont des moments conviviaux
 
 ## Ateliers à venir
 
-- 28 janvier 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation d'un cas d'usage de [Rudder](https://sill.etalab.gouv.fr/fr/software?id=164)
 - 11 février 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de l'outil VersLeLibre (AMUE)
 - 25 février 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de la licence European Union Public Licence
 - 11 mars 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Les tests fonctionnels avec [Squash TM](https://sill.etalab.gouv.fr/fr/software?id=137)
 
 ## Ateliers à revoir
 
+# - 28 janvier 2022 : Présentation de [Rudder](https://sill.etalab.gouv.fr/fr/software?id=164)
 - 14 janvier 2022 : La stratégie open source de RTE ([revoir](https://dai.ly/x873d6i "Atelier BlueHats : présentation de la stratégie open source de RTE - lien externe") et voir la [première](https://speakerdeck.com/bluehats/strategie-rte-une-strategie-open-source-au-coeur-des-activites-logicielles-de-demain) et la [deuxième](https://speakerdeck.com/bluehats/strategie-rte-presentation-du-devstudio) présentation.)
 - 10 décembre 2021 : Propriété intellectuelle dans les marchés publics : rédiger et mettre en oeuvre les documents particuliers, Anne-Claire Viala et Sylvia Israel, APIE, DAJ du MEFR (consulter [le support PDF](https://speakerdeck.com/bluehats/propriete-intellectuelle-dans-les-marches-publics-informatiques) et [revoir](https://dai.ly/x866ogt "Propriété intellectuelle dans les marchés publics : rédiger et mettre en oeuvre les documents particuliers - Lien externe"))
 - 22 octobre 2021 : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po ([revoir](https://www.dailymotion.com/video/x8511pn "Présentation des outils et librairies Open Source développés par le médialab de Sciences Po - Lien externe"))

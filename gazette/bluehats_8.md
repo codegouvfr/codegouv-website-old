@@ -1,7 +1,8 @@
 ---
 title: Gazette BlueHats 🧢 n°8
 date: 2020-11-18
-layout: layouts/gazette.njk
+layout: gazette
+tags: bluehats
 ---
 
 ## Le calendrier des ateliers #BlueHats

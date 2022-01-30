@@ -15,6 +15,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+  eleventyConfig.addLayoutAlias("gazette", "layouts/gazette.njk");
+  eleventyConfig.addLayoutAlias("page", "layouts/page.njk");
   
   eleventyConfig.addFilter('markdown', value => {
     return markdown.render(value);

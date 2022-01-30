@@ -1,7 +1,8 @@
 ---
 title: Gazette BlueHats 🧢 n°3
 date: 2019-10-17
-layout: layouts/gazette.njk
+layout: gazette
+tags: bluehats
 ---
 
 ## Focus sur la Gendarmerie nationale et le logiciel libre

@@ -1,7 +1,8 @@
 ---
 title: Gazette BlueHats 🧢 n°12
 date: 2021-08-24
-layout: layouts/gazette.njk
+layout: gazette
+tags: bluehats
 ---
 
 Pour cette gazette estivale, nous vous proposons deux « focus tech », une surprise, deux offres d'emploi pour travailler sur des logiciels libres dans l'administration publique, une belle série d'événements (vous ne pourrez pas participer à tous) et notre habituelle revue de presse.

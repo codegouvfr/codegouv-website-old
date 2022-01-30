@@ -1,7 +1,7 @@
 ---
 title: Libérer et ouvrir les codes sources du secteur public
 linkTitle: Toutes les ressources pour publier vos codes sources
-layout: layouts/page.njk
+layout: page
 eleventyNavigation:
   key: Ouvrir
   order: 20
