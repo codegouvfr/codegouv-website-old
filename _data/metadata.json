@@ -1,16 +1,12 @@
 {
     "title": "Plan d'action logiciels libres et communs numériques",
-    "url": "https://communs.numerique.gouv.fr/",
+    "url": "https://communs.numerique.gouv.fr",
     "description": "Recourir et contribuer aux logiciels libres et aux communs numériques",
     "feed": {
 	"subtitle": "Plan d'action logiciels libres et communs numériques",
 	"filename": "feed.xml",
 	"path": "/feed/feed.xml",
-	"id": "https://communs.numerique.gouv.fr/"
-    },
-    "jsonfeed": {
-	"path": "/feed/feed.json",
-	"url": "https://communs.numerique.gouv.fr/feed/feed.json"
+	"id": "https://communs.numerique.gouv.fr"
     },
     "author": {
 	"name": "Pôle logiciels libres d'Etalab",

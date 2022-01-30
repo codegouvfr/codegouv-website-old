@@ -1,7 +1,8 @@
 ---
 title: Gazette BlueHats 🧢 n°7
 date: 2020-09-20
-layout: layouts/gazette.njk
+layout: gazette
+tags: bluehats
 ---
 
 ## Enquête sur vos pratiques de publication de codes sources

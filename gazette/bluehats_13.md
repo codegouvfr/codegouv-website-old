@@ -1,7 +1,8 @@
 ---
 title: Gazette BlueHats 🧢 n°13
 date: 2021-10-18
-layout: layouts/gazette.njk
+layout: gazette
+tags: bluehats
 ---
 
 ## Rendez-vous le 9 novembre pour la journée BlueHats au salon Open Source Experience !

@@ -1,7 +1,8 @@
 ---
 title: Gazette BlueHats 🧢 n°11
 date: 2021-06-23
-layout: layouts/gazette.njk
+layout: gazette
+tags: bluehats
 ---
 
 Ce mois-ci, la gazette BlueHats met l'accent sur les communs numériques, avec un texte proposé par Wikimédia France et une nouvelle rubrique « Le coin des communs ».  Le focus technique porte sur le projet Open Terms Archive, que nous vous invitons à découvrir.  Nous signalons quelques évolutions du Socle Interministériel de Logiciels libres (SILL) et de code.etalab.gouv.fr.  Nous vous proposons enfin notre revue de presse qui revient sur la circulaire sur la politique publique de la donnée et la sortie du catalogue GouvTech.

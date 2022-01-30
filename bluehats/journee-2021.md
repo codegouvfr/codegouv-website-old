@@ -1,6 +1,7 @@
 ---
 title: "Journée BlueHats 🧢 2021"
-layout: layouts/page.njk
+layout: page
+tags: bluehats
 ---
 
 Voici les présentations faites lors de la journée `BlueHats` du 9 novembre 2021 qui s'est tenue lors du salon Open Source Experience :

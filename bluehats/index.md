@@ -1,6 +1,6 @@
 ---
 title: Mobiliser via les initiatives BlueHats 🧢
-layout: layouts/page.njk
+layout: page
 eleventyNavigation:
   key: BlueHats
   order: 25

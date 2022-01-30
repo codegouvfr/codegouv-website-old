@@ -1,7 +1,8 @@
 ---
 title: Gazette BlueHats 🧢 n°10
 date: 2021-04-11
-layout: layouts/gazette.njk
+layout: gazette
+tags: bluehats
 ---
 
 ## Focus : Vive le numérique libre

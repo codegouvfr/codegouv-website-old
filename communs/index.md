@@ -1,6 +1,6 @@
 ---
 title: Recourir et contribuer aux communs numériques
-layout: layouts/page.njk
+layout: page
 eleventyNavigation:
   key: Communs
   order: 30

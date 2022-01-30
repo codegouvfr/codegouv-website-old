@@ -1,9 +1,9 @@
 ---
 title: Gazette BlueHats 🧢 n°14
 date: 2021-12-21
-layout: layouts/gazette.njk
+layout: gazette
+tags: bluehats
 ---
-
 
 ## Le pôle logiciels libres d'Etalab recrute
 

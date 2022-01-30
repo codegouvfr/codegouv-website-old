@@ -1,7 +1,8 @@
 ---
 title: Gazette BlueHats 🧢 n°5
 date: 2020-05-05
-layout: layouts/gazette.njk
+layout: gazette
+tags: bluehats
 ---
 
 ## Le socle interministériel de logiciels libres 2020 est en ligne
