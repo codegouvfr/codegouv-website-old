@@ -24,7 +24,7 @@ eleventyNavigation:
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a href="ateliers" class="fr-card__link">Les ateliers BlueHats</a>
+	  <a href="/ateliers/" class="fr-card__link">Les ateliers BlueHats</a>
 	</h2>
 	<p class="fr-card__desc">
 	  Des ateliers en visioconférence présentant des logiciels libres utilisés dans l'administration.
