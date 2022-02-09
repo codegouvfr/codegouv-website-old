@@ -13,7 +13,7 @@ layout: page
     <p><strong>Nous recrutons avec vous le bon stagiaire et que nous accueillons et finançons de septembre à février.</strong></p>
     <p>
       <button class="fr-btn fr-btn--secondary">
-		  Partants ? <a href="mailto:bluehats@data.gouv.fr">Écrivez-nous !</a>
+		  Curieux ? Partants ? <a href="mailto:bluehats@data.gouv.fr">Écrivez-nous !</a>
       </button>
     </p>
   </div>
