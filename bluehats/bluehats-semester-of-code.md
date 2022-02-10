@@ -11,7 +11,7 @@ layout: page
     <h3>Comment ça marche</h3>
     <p>Vous êtes un organisme public, une entreprise française ou un collectif et vous développez un logiciel libre ?  Vous êtes prêts à accompagner un élève de CentraleSupélec de septembre 2022 à février 2023 pour qu'il contribue à votre projet ?</p>
     <p><strong>Nous recrutons avec vous le bon stagiaire !</strong></p>
-	<p><strong>Nous l'accueillons physiquement dans la première promotion BlueHats, nous le finançons, vous encouragez et accueillez ses contributions.</strong></p>
+	<p><strong>Nous l'accueillons physiquement à Etalab au sein d'une promotion BlueHats, nous le finançons, vous encouragez et recueillez ses contributions.</strong></p>
     <p>
       <button class="fr-btn fr-btn--secondary">
 		  Curieux ? Partants ? <a href="mailto:bluehats@data.gouv.fr">Écrivez-nous !</a>
