@@ -10,7 +10,8 @@ layout: page
   <div class="fr-col-6">
     <h3>Comment ça marche</h3>
     <p>Vous êtes un organisme public, une entreprise française ou un collectif et vous développez un logiciel libre ?  Vous êtes prêts à accompagner un élève de CentraleSupélec de septembre 2022 à février 2023 pour qu'il contribue à votre projet ?</p>
-    <p><strong>Nous recrutons avec vous le bon stagiaire !  Nous l'accueillons physiquement dans la première promotion BlueHats, nous le finançons, vous l'accompagnez.</strong></p>
+    <p><strong>Nous recrutons avec vous le bon stagiaire !</strong></p>
+	<p><strong>Nous l'accueillons physiquement dans la première promotion BlueHats, nous le finançons, vous l'accompagnez.</strong></p>
     <p>
       <button class="fr-btn fr-btn--secondary">
 		  Curieux ? Partants ? <a href="mailto:bluehats@data.gouv.fr">Écrivez-nous !</a>
