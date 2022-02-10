@@ -36,7 +36,7 @@ Vous pouvez nous dire qui vous êtes, quel logiciel libre vous développez et co
 
 D'ici mi-février, nous publierons un formulaire pour structurer l'ensemble des propositions, que nous prévoyons de publier sur ce site le 8 mars 2022.
 
-## Voici ce que nous regarderons de près
+## Ce que nous regarderons de près
 
 - Le code source de votre projet est sous licence libre.
 - Votre logiciel est mûr et largement utilisé.
