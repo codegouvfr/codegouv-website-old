@@ -9,8 +9,8 @@ layout: page
   </div>
   <div class="fr-col-6">
     <h3>Comment ça marche</h3>
-    <p>Vous êtes un organisme public, une entreprise française ou un collectif et vous développez un logiciel libre ?  Vous êtes prêts à encadrer un élève de CentraleSupélec pendant six mois de stages de septembre 2022 à février 2023 pour qu'il contribue à votre projet ?</p>
-    <p><strong>Nous recrutons avec vous le bon stagiaire et que nous accueillons et finançons de septembre à février.</strong></p>
+    <p>Vous êtes un organisme public, une entreprise française ou un collectif et vous développez un logiciel libre ?  Vous êtes prêts à accompagner un élève de CentraleSupélec de septembre 2022 à février 2023 pour qu'il contribue à votre projet ?</p>
+    <p><strong>Nous recrutons avec vous le bon stagiaire !  Nous l'accueillons physiquement dans la première promotion BlueHats, nous le finançons, vous l'accompagnez.</strong></p>
     <p>
       <button class="fr-btn fr-btn--secondary">
 		  Curieux ? Partants ? <a href="mailto:bluehats@data.gouv.fr">Écrivez-nous !</a>
@@ -23,7 +23,7 @@ layout: page
 
 # BlueHats 🧢 Semester of Code : appel à projets
 
-Le pôle logiciels libres de la DINUM et l’école CentraleSupélec vous offrent la possibilité de mobiliser de septembre 2022 à février 2023 un contributeur débutant, élève de CentraleSupélec ayant terminé sa deuxième année.
+Le pôle logiciels libres de la DINUM et l’école CentraleSupélec vous offrent la possibilité de mobiliser de septembre 2022 à février 2023 un contributeur débutant, élève de CentraleSupélec ayant terminé sa deuxième année et faisant une césure.
 
 Vous serez libres de lui proposer des objectifs tandis que la logistique est entièrement prise en charge par le pôle logiciels libres (accueil physique de la promotion BlueHats) et par l'école CentraleSupélec (qui signe la convention de stage et gère la gratification).
 
@@ -31,9 +31,9 @@ Vous serez libres de lui proposer des objectifs tandis que la logistique est ent
 
 L'appel à projets est ouvert **jusqu'au 6 mars à 23h59** : dans un premier temps, nous vous invitons à manifester votre intérêt en écrivant à [bluehats@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
 
-Vous pouvez nous dire qui vous êtes, quel logiciel libre vous développez et comment vous prévoyez d'encadrer le stage pendant six mois.
+Vous pouvez nous dire qui vous êtes, quel logiciel libre vous développez et comment vous prévoyez de mobiliser votre équipe ou votre communauté pour accueillir et motiver le stagiaire au long de ces six mois.
 
-D'ici mi-février, nous publierons un formulaire pour structurer l'ensemble des propositions, qui seront publiées sur ce site le 8 mars 2022.
+D'ici mi-février, nous publierons un formulaire pour structurer l'ensemble des propositions, que nous prévoyons de publier sur ce site le 8 mars 2022.
 
 ## Voici ce que nous regarderons de près
 
