@@ -40,7 +40,7 @@ eleventyNavigation:
 	  <a href="bluehats-semester-of-code" class="fr-card__link">Le BlueHats Semester of Code</a>
 	</h2>
 	<p class="fr-card__desc">
-	  En partenariat avec CentraleSupélec, la DINUM propose un programme de stages pour développer les contributions de l'administration aux logiciels libres qu'elle utilise.
+	  En partenariat avec CentraleSupélec, la DINUM propose un programme de stages pour développer les contributions de l'administration à des logiciels libres.
 	</p>
       </div>
     </div>
