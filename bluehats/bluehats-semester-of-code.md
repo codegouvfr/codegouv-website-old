@@ -23,7 +23,7 @@ layout: page
 
 <br/>
 
-# BlueHats 🧢 Semester of Code : appel à projets
+# BlueHats 🧢 Semester of Code : appel à idées
 
 Le pôle logiciels libres de la DINUM et l’école CentraleSupélec vous offrent la possibilité de mobiliser de septembre 2022 à février 2023 un contributeur débutant, élève de CentraleSupélec ayant terminé sa deuxième année et faisant une césure.
 
@@ -31,11 +31,13 @@ Vous serez libres de lui proposer des objectifs tandis que la logistique est ent
 
 ## Dites-nous tout d'ici le 6 mars à 23h59
 
-L'appel à projets est ouvert **jusqu'au 6 mars à 23h59** : dans un premier temps, nous vous invitons à manifester votre intérêt en écrivant à [bluehats@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
+L'appel à idées de stages est ouvert **jusqu'au 6 mars à 23h59** : dans un premier temps, nous vous invitons à manifester votre intérêt en écrivant à [bluehats@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
 
 Vous pouvez nous dire qui vous êtes, quel logiciel libre vous développez et comment vous prévoyez de mobiliser votre équipe ou votre communauté pour accueillir et motiver le stagiaire au long de ces six mois.
 
 D'ici mi-février, nous publierons un formulaire pour structurer l'ensemble des propositions, que nous prévoyons de publier sur ce site le 8 mars 2022.
+
+Entre le 15 mars et le 15 mai 2022, les étudiants choisiront parmi les idées de stages proposées et candidaterons.  Nous les recevrons avec vous pour vérifier que tout le monde s'y retrouve : l'étudiant pour l'encadrement, vous pour les contributions.
 
 ## Ce que nous regarderons de près
 
