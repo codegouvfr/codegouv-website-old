@@ -1,5 +1,5 @@
 ---
-title: Atelier BlueHats 🧢 - La stratégie open source de RTE
+title: Atelier BlueHats 🧢 - Présentation de Framasoft et Yakforms
 date: 2021-10-08
 layout: page
 tags: bluehats

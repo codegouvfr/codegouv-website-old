@@ -1,5 +1,5 @@
 ---
-title: Atelier BlueHats 🧢 - Atelier sur l'outil VersLeLibre de l'AMUE
+title: Atelier BlueHats 🧢 - Présentation de l'outil VersLeLibre de l'Amue
 date: 2022-02-11
 layout: page
 tags: bluehats

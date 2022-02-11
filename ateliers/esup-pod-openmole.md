@@ -1,5 +1,5 @@
 ---
-title: Atelier BlueHats 🧢 - Esup Pod et OpenMole
+title: Atelier BlueHats 🧢 - Présentation d'Esup Pod et d'OpenMole
 date: 2020-12-18
 layout: page
 tags: bluehats
