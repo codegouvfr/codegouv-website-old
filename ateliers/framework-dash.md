@@ -1,5 +1,5 @@
 ---
-title: Atelier BlueHats 🧢 - Présentation du framework Dash (Plotly.js, React et Flask)
+title: Atelier BlueHats 🧢 - Présentation du cadriciel Dash (Plotly.js, React et Flask)
 date: 2021-06-04
 layout: page
 tags: bluehats

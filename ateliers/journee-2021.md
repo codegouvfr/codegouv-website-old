@@ -1,5 +1,5 @@
 ---
-title: "Journée BlueHats 🧢 2021"
+title: "Présentations de la journée BlueHats 🧢 2021"
 layout: page
 tags: bluehats
 ---

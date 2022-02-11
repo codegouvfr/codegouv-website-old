@@ -1,5 +1,5 @@
 ---
-title: Atelier BlueHats 🧢 - Atelier sur OW2 Good Governance Initiative
+title: Atelier BlueHats 🧢 - Présentation de la Good Governance Initiative d'OW2
 date: 2021-03-26
 layout: page
 tags: bluehats

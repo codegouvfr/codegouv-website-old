@@ -1,5 +1,5 @@
 ---
-title: Atelier BlueHats 🧢 - Présentation des outils et librairies Open Source développés par le médialab de Sciences Po
+title: Atelier BlueHats 🧢 - Présentation des outils et bibliothèques Open Source développés par le médialab de Sciences Po
 date: 2021-10-22
 layout: page
 tags: bluehats
