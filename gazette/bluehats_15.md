@@ -11,6 +11,8 @@ tags: bluehats
 
 Le pôle logiciels libres lance [un appel à idées](https://communs.numerique.gouv.fr/bluehats/bluehats-semester-of-code/) auprès des administrations, des entreprises et des collectifs : jusqu'au **6 mars 23h59**, proposez votre idée de contribution à un logiciel libre que vous développez et un·e étudiant·e de CentraleSupélec la choisira peut-être en rejoignant la première promotion *BlueHats Semester of Code* pour un stage de septembre 2022 à février 2023.
 
+`>>` Rendez-vous le vendredi *18 février à 17h* sur [ce lien de visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) pour les porteurs d'idées.
+
 `>>` Tout savoir sur le programme [BlueHats Semester of Code](https://man.sr.ht/~etalab/logiciels-libres/bluehats-semester-of-code.md).
 
 ## Autres annonces du pôle logiciels libres
@@ -19,7 +21,7 @@ Le pôle logiciels libres lance [un appel à idées](https://communs.numerique.g
 
 **Comment organiser votre veille sur les actions du pôle logiciels libres ?** Retrouvez [la page dédiée](https://man.sr.ht/~etalab/logiciels-libres/veille.md) sur notre wiki.
 
-## Le focus : la boîte à outils numérique écoresponsable
+## Focus : la boîte à outils numérique écoresponsable
 
 La mission interministérielle « numérique écoresponsable » propose une sélection de logiciels libres et open source dédiés à la mesure des impacts environnementaux du numérique.
 
@@ -80,7 +82,7 @@ Retrouvez nos autres interventions sur la [page dédiée de notre wiki](https://
 
 ### En France
 
-- [LibreOffice, Mastodon : l’UE offre 200 000 € pour sécuriser certains logiciels libres](https://www.numerama.com/tech/830709-libreoffice-mastodon-lue-offre-200-000-e-pour-securiser-certains-logiciels-libres.html), numerama.com, janvier 2022. 
+- [LibreOffice, Mastodon : l’UE offre 200 000 € pour sécuriser certains logiciels libres](https://www.numerama.com/tech/830709-libreoffice-mastodon-lue-offre-200-000-e-pour-securiser-certains-logiciels-libres.html), numerama.com, janvier 2022.
 - [Logiciels libres : 5 entreprises françaises distinguées au SILL](https://www.silicon.fr/logiciels-libres-5-entreprises-francaises-sill-431025.html), silicon.fr, janvier 2022.
 - [Logiciels libres : 5 outils made in France en observation au SILL](https://www.silicon.fr/5-logiciels-libres-made-in-france-observation-sill-431775.html), février 2022.
 - [La boîte à outils numériques du député s’étoffe au niveau local](https://www.acteurspublics.fr/articles/la-boite-a-outils-numeriques-du-depute-setoffe-au-niveau-local), acteurspublics.fr, février 2022.
