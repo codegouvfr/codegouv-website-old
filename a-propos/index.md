@@ -10,6 +10,8 @@ eleventyNavigation:
 
 Ce site présente les ressources publiées et mises en oeuvre dans le cadre du [plan d'action logiciels libres et communs numériques](/plan-action-logiciels-libres-et-communs-numeriques/).
 
+Son code source est disponible [sur ce dépôt](https://git.sr.ht/~etalab/communs.numerique.gouv.fr).
+
 <div class="fr-highlight">
   <p>Vous souhaitez suivre tous les sujets liés au logiciel libre dans l'administration ?  Voici des informations pour <a href="https://man.sr.ht/~etalab/logiciels-libres/veille.md" title="Organiser votre veille sur le logiciel libre dans l'administration - Lien externe">organiser votre veille.</p>
 </div>
