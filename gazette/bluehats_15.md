@@ -9,7 +9,7 @@ tags: bluehats
 
 **Vous portez un logiciel libre ?  Nous apportons un stagiaire !**
 
-Le pôle logiciels libres lance [un appel à idées](https://communs.numerique.gouv.fr/bluehats/bluehats-semester-of-code/) auprès des administrations, des entreprises et des collectifs : jusqu'au 6 mars, proposez votre idée de contribution à un logiciel libre que vous développez et un·e étudiant·e de CentraleSupélec la choisira peut-être en rejoignant la première promotion *BlueHats Semester of Code* pour un stage de septembre 2022 à février 2023.
+Le pôle logiciels libres lance [un appel à idées](https://communs.numerique.gouv.fr/bluehats/bluehats-semester-of-code/) auprès des administrations, des entreprises et des collectifs : jusqu'au **6 mars 23h59**, proposez votre idée de contribution à un logiciel libre que vous développez et un·e étudiant·e de CentraleSupélec la choisira peut-être en rejoignant la première promotion *BlueHats Semester of Code* pour un stage de septembre 2022 à février 2023.
 
 `>>` Tout savoir sur le programme [BlueHats Semester of Code](https://man.sr.ht/~etalab/logiciels-libres/bluehats-semester-of-code.md).
 
@@ -90,13 +90,14 @@ Retrouvez nos autres interventions sur la [page dédiée de notre wiki](https://
 - [Des projets open source à partager pour les services publics européens](https://www.zdnet.fr/blogs/l-esprit-libre/des-projets-open-source-a-partager-pour-les-services-publics-europeens-39935487.htm), zdnet.fr, janvier 2022.
 - [La JitSi Box, un boitier opensource pour hybrider l’enseignement entre présentiel et distanciel](https://www.fun-mooc.fr/fr/actualites/la-jitsi-box-un-boitier-opensource-pour-hybrider-lenseignement-e/), fun-mooc.fr, janvier 2022.
 - [La France mise sur l’“open source” pour protéger la souveraineté numérique européenne](https://www.acteurspublics.fr/articles/la-france-mise-sur-l-open-source-pour-proteger-la-souverainete-numerique-europeenne), janvier 2022.
-- [On ne peut plus assurer des services publics essentiels sans y associer les citoyens](https://profilpublic.fr/blog/on-ne-peut-plus-assurer-des-services-publics-essentiels-sans-y-associer-les-citoyens/), profilpublic.fr. Janvier 2022.
+- [On ne peut plus assurer des services publics essentiels sans y associer les citoyens](https://profilpublic.fr/blog/on-ne-peut-plus-assurer-des-services-publics-essentiels-sans-y-associer-les-citoyens/), profilpublic.fr, janvier 2022.
+- [Utilisation de Google Analytics et transferts de données vers les États-Unis : la CNIL met en demeure un gestionnaire de site web](https://www.cnil.fr/fr/utilisation-de-google-analytics-et-transferts-de-donnees-vers-les-etats-unis-la-cnil-met-en-demeure), cnil.fr, février 2022.
 
 ### Ailleurs
 
-- Une étude de l'administration suédoise sur les logiciels libres pour le secteur public : [Digital\_collaboration\_platform\_for\_the\_public\_sector.pdf](https://www.esamverka.se/download/18.4a6f5f6917d9204856518c5e/1639137082930/Digital%20collaboration%20platform%20for%20the%20public%20sector.pdf), novembre 2021.
-- Toujours en Suède, une étude sur le remplacement de Skype et l'engagement vers des solutions alternatives : [Memorandum regarding the replacement of Skype](https://www.linkedin.com/posts/armanborghem_memorandum-regarding-the-replacement-of-skype-activity-6805047852675452928-4IW6/) et la [source suédoise](https://skatteverket.se/omoss/varverksamhet/rapporterremissvarochskrivelser/remissvar/2021/remissvar2021/8958696.5.3016b5d91791bf54679d41.html), mai 2021.
 - [Report on the role of open source in the digital response to COVID-19 in the EU](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/reports), joinup.ec.europa.eu, novembre 2021.
 - [Contributions to open source software used as a proxy to measure Artificial Intelligence developments](https://ec.europa.eu/newsroom/joinup/items/679787/default), ec.europa.eu, juin 2020.
 - [Digital Response Covid-19 : Open Source Solutions](https://joinup.ec.europa.eu/collection/digital-response-covid-19/open-source-solutions), novembre 2021.
 - [Towards open government through open source software for web analytics: The case of Matomo](https://jedem.org/index.php/jedem/article/view/650/522), août 2021.
+- Une étude de l'administration suédoise sur les logiciels libres pour le secteur public : [Digital\_collaboration\_platform\_for\_the\_public\_sector.pdf](https://www.esamverka.se/download/18.4a6f5f6917d9204856518c5e/1639137082930/Digital%20collaboration%20platform%20for%20the%20public%20sector.pdf), novembre 2021.
+- Toujours en Suède, une étude sur le remplacement de Skype et l'engagement vers des solutions alternatives : [Memorandum regarding the replacement of Skype](https://www.linkedin.com/posts/armanborghem_memorandum-regarding-the-replacement-of-skype-activity-6805047852675452928-4IW6/) et la [source suédoise](https://skatteverket.se/omoss/varverksamhet/rapporterremissvarochskrivelser/remissvar/2021/remissvar2021/8958696.5.3016b5d91791bf54679d41.html), mai 2021.
