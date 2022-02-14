@@ -1,5 +1,5 @@
 ---
-title: "Vous portez un logiciel libre ? Nous apportons un stagiaire !"
+title: "Vous portez un logiciel libre ? Nous apportons notre contribution !"
 layout: page
 ---
 
@@ -9,8 +9,8 @@ layout: page
   </div>
   <div class="fr-col-6">
     <h3>Comment ça marche</h3>
-    <p>Vous êtes un organisme public, une entreprise française ou un collectif et vous développez un logiciel libre ?  Vous êtes prêts à accompagner un élève de CentraleSupélec de septembre 2022 à février 2023 pour qu'il contribue à votre projet ?</p>
-    <p><strong>Nous recrutons avec vous le bon stagiaire ! Nous l'accueillons dans les locaux d'Etalab au sein de la première promotion BlueHats 🧢 et nous le finançons.  Vous encouragez et recueillez ses contributions.</strong></p>
+    <p>Vous êtes un organisme public, une entreprise française ou un collectif et vous développez un logiciel libre ?  Vous êtes prêts à accompagner un ou une élève de CentraleSupélec de septembre 2022 à février 2023 pour qu'il ou elle contribue à votre projet ?</p>
+    <p><strong>Nous recrutons avec vous la bonne personne pour ce stage ! Nous l'accueillons dans les locaux d'Etalab au sein de la première promotion BlueHats 🧢 et nous la finançons.  Vous encouragez et recueillez ses contributions.</strong></p>
     <div class="fr-grid-row">
       <div class="fr-col-8">
 	<button class="fr-btn fr-btn--secondary">
