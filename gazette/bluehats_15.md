@@ -73,49 +73,30 @@ Retrouvez nos autres interventions sur la [page dédiée de notre wiki](https://
 ### Des échos de nos actions
 
 - [[Dossier] Les logiciels libres et open source en France : où en sommes-nous ?](https://labo.societenumerique.gouv.fr/2022/01/27/dossier-les-logiciels-libres-et-open-source-en-france-ou-en-sommes-nous/), labo.societenumerique.gouv.fr, Janvier 2022.
-
 - Retrouvez un entretien avec Bastien Guerry dans le numéro d'[IGN Magazine (hiver 2022 - PDF)](https://www.ign.fr/publications-de-l-ign/institut/kiosque/publications/IGN_Magazine/105/ign_mag_105.pdf) ainsi qu'une rubrique « Les logiciels libres, des atouts pour la recherche et l’enseignement »
-
 - Un [article sur linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6887744635700097024/) de Valentin Olive avec un retour sur la rencontre sur les enjeux du logiciel libre dans la recherche du 14 janvier.
-
 - L'école CentraleSupélec évoque son partenariat avec la DINUM pour le BlueHats Semester of Code [sur son site](https://www.linkedin.com/posts/centralesupelec_d%C3%A9veloppement-de-logiciels-libres-lancez-vous-activity-6897829796701724672-QR7u/) et [ce post linkedin](https://www.centralesupelec.fr/fr/lancez-vous-dans-le-logiciel-libre-avec-centralesupelec-et-etalab).
-
 - [La gazette du cloud de janvier 2022](https://news.gandi.net/fr/nl/la-gazette-du-cloud-janvier-22/) publiée par gandi.net mentionne l'argumentaire du pôle logiciels libres où nous expliquons [pourquoi nous utilisons SourceHut](https://man.sr.ht/~etalab/logiciels-libres/pourquoi-sourcehut.md) pour publier une partie de nos codes sources.
 
 ### En France
 
 - [LibreOffice, Mastodon : l’UE offre 200 000 € pour sécuriser certains logiciels libres](https://www.numerama.com/tech/830709-libreoffice-mastodon-lue-offre-200-000-e-pour-securiser-certains-logiciels-libres.html), numerama.com, janvier 2022. 
-
 - [Logiciels libres : 5 entreprises françaises distinguées au SILL](https://www.silicon.fr/logiciels-libres-5-entreprises-francaises-sill-431025.html), silicon.fr, janvier 2022.
-
 - [Logiciels libres : 5 outils made in France en observation au SILL](https://www.silicon.fr/5-logiciels-libres-made-in-france-observation-sill-431775.html), février 2022.
-
 - [La boîte à outils numériques du député s’étoffe au niveau local](https://www.acteurspublics.fr/articles/la-boite-a-outils-numeriques-du-depute-setoffe-au-niveau-local), acteurspublics.fr, février 2022.
-
 - [La Commission européenne lance un nouveau programme de chasse aux bugs dans cinq logiciels libres](https://www.zdnet.fr/blogs/l-esprit-libre/la-commission-europeenne-lance-un-nouveau-programme-de-chasse-aux-bugs-dans-cinq-logiciels-libres-39936139.htm), zdnet.fr, janvier 2022.
-
 - [Quand le logiciel libre tente de se faire une place au sein de l'administration publique](https://www.lesnumeriques.com/vie-du-net/quand-le-logiciel-libre-tente-de-se-faire-une-place-au-sein-de-l-administration-publique-n171167.html), lesnumeriques.com, novembre 2021.
-
 - [Catalogue de Logiciels Libres : un projet européen](https://adullact.org/breves/73-actualite/projet-libre-a-decouvrir/1055-catalogue-de-logiciels-libres-un-projet-europeen), adullact.org, janvier 2022.
-
 - [Des projets open source à partager pour les services publics européens](https://www.zdnet.fr/blogs/l-esprit-libre/des-projets-open-source-a-partager-pour-les-services-publics-europeens-39935487.htm), zdnet.fr, janvier 2022.
-
 - [La JitSi Box, un boitier opensource pour hybrider l’enseignement entre présentiel et distanciel](https://www.fun-mooc.fr/fr/actualites/la-jitsi-box-un-boitier-opensource-pour-hybrider-lenseignement-e/), fun-mooc.fr, janvier 2022.
-
 - [La France mise sur l’“open source” pour protéger la souveraineté numérique européenne](https://www.acteurspublics.fr/articles/la-france-mise-sur-l-open-source-pour-proteger-la-souverainete-numerique-europeenne), janvier 2022.
-
 - [On ne peut plus assurer des services publics essentiels sans y associer les citoyens](https://profilpublic.fr/blog/on-ne-peut-plus-assurer-des-services-publics-essentiels-sans-y-associer-les-citoyens/), profilpublic.fr. Janvier 2022.
 
 ### Ailleurs
 
 - Une étude de l'administration suédoise sur les logiciels libres pour le secteur public : [Digital\_collaboration\_platform\_for\_the\_public\_sector.pdf](https://www.esamverka.se/download/18.4a6f5f6917d9204856518c5e/1639137082930/Digital%20collaboration%20platform%20for%20the%20public%20sector.pdf), novembre 2021.
-
 - Toujours en Suède, une étude sur le remplacement de Skype et l'engagement vers des solutions alternatives : [Memorandum regarding the replacement of Skype](https://www.linkedin.com/posts/armanborghem_memorandum-regarding-the-replacement-of-skype-activity-6805047852675452928-4IW6/) et la [source suédoise](https://skatteverket.se/omoss/varverksamhet/rapporterremissvarochskrivelser/remissvar/2021/remissvar2021/8958696.5.3016b5d91791bf54679d41.html)
-
 - [Report on the role of open source in the digital response to COVID-19 in the EU](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/reports), joinup.ec.europa.eu, novembre 2021.
-
 - [Contributions to open source software used as a proxy to measure Artificial Intelligence developments](https://ec.europa.eu/newsroom/joinup/items/679787/default), ec.europa.eu, juin 2020.
-
 - [Digital Response Covid-19 : Open Source Solutions](https://joinup.ec.europa.eu/collection/digital-response-covid-19/open-source-solutions), novembre 2021.
-
 - [Towards open government through open source software for web analytics: The case of Matomo](https://jedem.org/index.php/jedem/article/view/650/522), août 2021.
