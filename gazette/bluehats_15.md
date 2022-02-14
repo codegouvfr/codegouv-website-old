@@ -15,9 +15,9 @@ Le pôle logiciels libres lance [un appel à idées](https://communs.numerique.g
 
 ## Autres annonces du pôle logiciels libres
 
-- **Tout savoir sur les marchés logiciels libres** : avec l'aide de la DGFiP, nous avons publié des [informations sur sur les marchés de support et d'expertise logiciels libres](https://communs.numerique.gouv.fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/).
+**Tout savoir sur les marchés logiciels libres** : avec l'aide de la DGFiP, nous avons publié des [informations sur sur les marchés de support et d'expertise logiciels libres](https://communs.numerique.gouv.fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/).
 
-- **Comment organiser votre veille sur les actions du pôle logiciels libres ?** Retrouvez [la page dédiée](https://man.sr.ht/~etalab/logiciels-libres/veille.md) sur notre wiki.
+**Comment organiser votre veille sur les actions du pôle logiciels libres ?** Retrouvez [la page dédiée](https://man.sr.ht/~etalab/logiciels-libres/veille.md) sur notre wiki.
 
 ## Le focus : la boîte à outils numérique écoresponsable
 
@@ -33,41 +33,41 @@ Sur le sujet « logiciels libres et soutenabilité », vous pouvez revoir [la vi
 
 *Merci à Alexis Kauffmann qui a proposé le contenu de cette rubrique !*
 
-- [Polymny Studio](https://polymny.studio) offre un studio en ligne pour créer, modifier et gérer des vidéos, notamment en situation de formation. À partir d’une présentation existante (Powerpoint, LibreOffice, etc.), vous fournissez vos diapositives en PDF, enregistrez votre vidéo que vous publiez en ligne.
+[Polymny Studio](https://polymny.studio) offre un studio en ligne pour créer, modifier et gérer des vidéos, notamment en situation de formation. À partir d’une présentation existante (Powerpoint, LibreOffice, etc.), vous fournissez vos diapositives en PDF, enregistrez votre vidéo que vous publiez en ligne.
 
-- Parmi les différentes déclinaisons du jeu à la mode Wordle, voici celle d'un professeur de philosophie, Cédric Eyssette : [Philomots](https://eyssette.github.io/philomots/) dont le [code source](https://github.com/eyssette/philomots) sous licence MIT.
+Parmi les différentes déclinaisons du jeu à la mode Wordle, voici celle d'un professeur de philosophie, Cédric Eyssette : [Philomots](https://eyssette.github.io/philomots/) dont le [code source](https://github.com/eyssette/philomots) sous licence MIT.
 
-- Signalons aussi la sortie d'une nouvelle version de [Castopod](https://castopod.org), un outil libre d’hébergement de podcasts développé par Benjamin Bellamy.
+Signalons aussi la sortie d'une nouvelle version de [Castopod](https://castopod.org), un outil libre d’hébergement de podcasts développé par Benjamin Bellamy.
 
-- Voici un article au sujet de la montée de version de l'[instance BigBlueButton du ministère de l'éducation nationale, de la jeunesse et des sports](https://visio-agents.education.fr) : [Le nouveau BBB aussi séduisant que BB ?](https://dane.site.ac-lille.fr/2021/12/23/le-nouveau-bbb-aussi-seduisant-que-bb/), ac-lille.fr, Janvier 2022.
+Voici un article au sujet de la montée de version de l'[instance BigBlueButton du ministère de l'éducation nationale, de la jeunesse et des sports](https://visio-agents.education.fr) : [Le nouveau BBB aussi séduisant que BB ?](https://dane.site.ac-lille.fr/2021/12/23/le-nouveau-bbb-aussi-seduisant-que-bb/), ac-lille.fr, Janvier 2022.
 
-- Enfin, un article sur [la JitSi Box, un boitier opensource pour hybrider l’enseignement entre présentiel et distanciel](https://www.fun-mooc.fr/fr/actualites/la-jitsi-box-un-boitier-opensource-pour-hybrider-lenseignement-e/).
+Enfin, un article sur [la JitSi Box, un boitier opensource pour hybrider l’enseignement entre présentiel et distanciel](https://www.fun-mooc.fr/fr/actualites/la-jitsi-box-un-boitier-opensource-pour-hybrider-lenseignement-e/).
 
 ## Du côté des communs numériques
 
-- [Création d’une initiative européenne pour les communs numériques](https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/europe/la-presidence-francaise-du-conseil-de-l-union-europeenne/evenements-lies-a-la-presidence-francaise-du-conseil-de-l-union-europeenne/article/communique-conjoint-du-ministere-de-l-europe-et-des-affaires-etrangeres-et-du) : Communiqué conjoint du ministère de l’Europe et des Affaires étrangères et du secrétariat d’État chargé de la transition numérique et des communications électroniques (7 février 2022).
+[Création d’une initiative européenne pour les communs numériques](https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/europe/la-presidence-francaise-du-conseil-de-l-union-europeenne/evenements-lies-a-la-presidence-francaise-du-conseil-de-l-union-europeenne/article/communique-conjoint-du-ministere-de-l-europe-et-des-affaires-etrangeres-et-du) : Communiqué conjoint du ministère de l’Europe et des Affaires étrangères et du secrétariat d’État chargé de la transition numérique et des communications électroniques (7 février 2022).
 
-- Le programme Société Numérique de l'Agence nationale de la cohésion des territoires publie une [synthèse sur les communs (PDF)](https://numerique-en-communs.fr/wp-content/uploads/2020/12/synthese-communs.pdf) co-réalisée avec le Collectif BAM, Inno³ et Futur Composé.
+Le programme Société Numérique de l'Agence nationale de la cohésion des territoires publie une [synthèse sur les communs (PDF)](https://numerique-en-communs.fr/wp-content/uploads/2020/12/synthese-communs.pdf) co-réalisée avec le Collectif BAM, Inno³ et Futur Composé.
 
-- Le programme Société Numérique publie aussi un article expliquant [comment sécuriser le recours à des communs numériques dans le cadre d’un marché public](https://labo.societenumerique.gouv.fr/2021/07/12/comment-securiser-le-recours-a-des-communs-numeriques-dans-le-cadre-de-la-passation-dun-marche-public/).
+Le programme Société Numérique publie aussi un article expliquant [comment sécuriser le recours à des communs numériques dans le cadre d’un marché public](https://labo.societenumerique.gouv.fr/2021/07/12/comment-securiser-le-recours-a-des-communs-numeriques-dans-le-cadre-de-la-passation-dun-marche-public/).
 
 ## Du côté de la science ouverte
 
-- Remise des premiers [prix science ouverte des logiciels libres de la recherche](https://www.enseignementsup-recherche.gouv.fr/fr/remise-des-prix-science-ouverte-du-logiciel-libre-de-la-recherche-83576) lors de la conférence [OSEC 2022](https://osec2022.eu/) (Open Science European Conference), organisée dans le cadre de la présidence française de l'Union Européenne.  Retrouvez aussi l'annonce de ces prix sur [le site dédié aux travaux du Comité pour la Science Ouverte](https://www.ouvrirlascience.fr/remise-des-prix-science-ouverte-du-logiciel-libre-de-la-recherche/).
+Remise des premiers [prix science ouverte des logiciels libres de la recherche](https://www.enseignementsup-recherche.gouv.fr/fr/remise-des-prix-science-ouverte-du-logiciel-libre-de-la-recherche-83576) lors de la conférence [OSEC 2022](https://osec2022.eu/) (Open Science European Conference), organisée dans le cadre de la présidence française de l'Union Européenne.  Retrouvez aussi l'annonce de ces prix sur [le site dédié aux travaux du Comité pour la Science Ouverte](https://www.ouvrirlascience.fr/remise-des-prix-science-ouverte-du-logiciel-libre-de-la-recherche/).
 
-- Podcast de l'émission [« Libre à vous ! »](https://www.libreavous.org/130-science-ouverte-logiciels-libres-ateliers-d-emancipation-numerique) de l'APRIL sur le thème « Science ouverte, logiciels libres - Ateliers d’émancipation numérique - Surveillance sous Surveillance », avec Mélanie Clément-Fontaine, professeure de droit privé à l’Université de Paris-Saclay et membre de groupe « logiciels libres et ouverts » du Comité pour la science ouverte, et Alexandre Hocquet, historien des sciences, professeur à l’Université de Lorraine.
+Podcast de l'émission [« Libre à vous ! »](https://www.libreavous.org/130-science-ouverte-logiciels-libres-ateliers-d-emancipation-numerique) de l'APRIL sur le thème « Science ouverte, logiciels libres - Ateliers d’émancipation numérique - Surveillance sous Surveillance », avec Mélanie Clément-Fontaine, professeure de droit privé à l’Université de Paris-Saclay et membre de groupe « logiciels libres et ouverts » du Comité pour la science ouverte, et Alexandre Hocquet, historien des sciences, professeur à l’Université de Lorraine.
 
-- [Vidéo](https://www.youtube.com/watch?v=I3Wkvx_ZaFo) publiée par l'Unesco sur la science ouverte : « Pour relever les défis complexes du 21e siècle, nous avons besoin d'une science plus transparente, accessible et inclusive, qui s'appuie sur la collaboration. Nous avons besoin d'une science qui profite à tous aux quatre coins du monde. En d'autres termes : nous avons besoin d'une science ouverte… »
+[Vidéo](https://www.youtube.com/watch?v=I3Wkvx_ZaFo) publiée par l'Unesco sur la science ouverte : « Pour relever les défis complexes du 21e siècle, nous avons besoin d'une science plus transparente, accessible et inclusive, qui s'appuie sur la collaboration. Nous avons besoin d'une science qui profite à tous aux quatre coins du monde. En d'autres termes : nous avons besoin d'une science ouverte… »
 
 ## Nos interventions publiques
 
-- Nous avons participé à l'[Open Source Policy Summit 2022](https://summit.openforumeurope.org/) en intervenant dans la table ronde intitulée *Building Public Sector Capacity: Open Source and Digital Sovereignty* ([vidéo](https://www.youtube.com/watch?v=jtAS0h36ZNA))
+Nous avons participé à l'[Open Source Policy Summit 2022](https://summit.openforumeurope.org/) en intervenant dans la table ronde intitulée *Building Public Sector Capacity: Open Source and Digital Sovereignty* ([vidéo](https://www.youtube.com/watch?v=jtAS0h36ZNA))
 
-- Retrouvez aussi l'allocution [vidéo](https://www.youtube.com/watch?v=Rr-QcKqhoI8) de la ministre de Transformation et de la Fonction publiques Amélie de Montchalin lors de cet événement.
+Retrouvez aussi l'allocution [vidéo](https://www.youtube.com/watch?v=Rr-QcKqhoI8) de la ministre de Transformation et de la Fonction publiques Amélie de Montchalin lors de cet événement.
 
-- Nous avons participé au [FOSDEM 2022](https://fosdem.org/2022/) avec deux interventions : *We listed +9000 public code repositories. Now what?* ([vidéo](https://dai.ly/x87r20r)) et *What is special about open source research software and why does it matters?* ([vidéo](https://dai.ly/x87r1wo)).
+Nous avons participé au [FOSDEM 2022](https://fosdem.org/2022/) avec deux interventions : *We listed +9000 public code repositories. Now what?* ([vidéo](https://dai.ly/x87r20r)) et *What is special about open source research software and why does it matters?* ([vidéo](https://dai.ly/x87r1wo)).
 
-- Retrouvez nos autres interventions sur la [page dédiée de notre wiki](https://man.sr.ht/~etalab/logiciels-libres/ressources.md).
+Retrouvez nos autres interventions sur la [page dédiée de notre wiki](https://man.sr.ht/~etalab/logiciels-libres/ressources.md).
 
 ## Revue de presse
 ### Des échos de nos actions
