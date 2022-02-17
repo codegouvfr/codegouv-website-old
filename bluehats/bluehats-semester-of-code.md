@@ -14,7 +14,7 @@ layout: page
     <div class="fr-grid-row">
       <div class="fr-col-8">
 	<button class="fr-btn fr-btn--secondary">
-	  Partants ? <a href="https://framaforms.org/bluehats-semester-of-code-encadrer-un-contributeur-sur-votre-logiciel-libre-1645087582">Proposez votre idée !</a>
+	  Curieux ? Partants ? <a href="https://framaforms.org/bluehats-semester-of-code-encadrer-un-contributeur-sur-votre-logiciel-libre-1645087582">Proposez votre idée !</a>
 	</button>
       </div>
     </div>
