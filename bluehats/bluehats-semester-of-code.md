@@ -14,7 +14,7 @@ layout: page
     <div class="fr-grid-row">
       <div class="fr-col-8">
 	<button class="fr-btn fr-btn--secondary">
-	  Curieux ? Partants ? <a href="mailto:bluehats@data.gouv.fr">Écrivez-nous !</a>
+	  Partants ? <a href="https://framaforms.org/bluehats-semester-of-code-encadrer-un-contributeur-sur-votre-logiciel-libre-1645087582">Proposez votre idée !</a>
 	</button>
       </div>
     </div>
@@ -32,11 +32,9 @@ Vous serez libres de lui proposer des objectifs tandis que la logistique est ent
 
 ### Dites-nous tout d'ici le 6 mars à 23h59
 
-L'appel à idées de stages est ouvert **jusqu'au 6 mars à 23h59** : dans un premier temps, nous vous invitons à manifester votre intérêt en écrivant à [bluehats@data.gouv.fr](mailto:bluehats@data.gouv.fr).
+L'appel à idées de stages est ouvert **jusqu'au 6 mars à 23h59** : nous vous invitons à [répondre à ce questionnaire](https://framaforms.org/bluehats-semester-of-code-encadrer-un-contributeur-sur-votre-logiciel-libre-1645087582) et à nous écrire à [bluehats@data.gouv.fr](mailto:bluehats@data.gouv.fr) si vous avez des questions.
 
-Vous pouvez nous dire qui vous êtes, quel logiciel libre vous développez et comment vous prévoyez de mobiliser votre équipe ou votre communauté pour accueillir et motiver le stagiaire au long de ces six mois.
-
-D'ici mi-février, nous publierons un formulaire pour structurer l'ensemble des propositions, que nous prévoyons de publier sur ce site le 8 mars 2022.
+Nous publierons la liste des propositions retenues le 8 mars.
 
 Entre le 15 mars et le 15 mai 2022, les étudiants choisiront parmi les idées de stages proposées et candidaterons.  Nous les recevrons avec vous pour vérifier que tout le monde s'y retrouve : l'étudiant pour l'encadrement, vous pour les contributions.
 
