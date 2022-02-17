@@ -1,10 +1,13 @@
 image: archlinux
+
 packages:
   - nodejs
   - npm
   - rsync
+
 secrets:
   - 4815455e-aea8-4fcc-821c-b8067e0d74fc
+
 tasks:
   - install: |
       cd communs.numerique.gouv.fr
@@ -13,6 +16,7 @@ tasks:
   - upload: |
       cd communs.numerique.gouv.fr
       rsync -e "ssh -o StrictHostKeyChecking=no" -av --delete _site/ web@communs.numerique.gouv.fr:/home/web/websites/communs.numerique.gouv.fr_preprod/
+
 triggers:
   - action: email
     condition: failure
