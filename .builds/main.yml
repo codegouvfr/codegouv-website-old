@@ -1,0 +1,14 @@
+image: archlinux
+packages:
+  - nodejs
+  - npm
+  - rsync
+tasks:
+  - install: |
+      cd communs.numerique.gouv.fr
+      npm install
+      npx eleventy
+triggers:
+  - action: email
+    condition: failure
+    to: bastien.guerry@data.gouv.fr
