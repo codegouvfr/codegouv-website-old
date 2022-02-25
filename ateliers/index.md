@@ -21,11 +21,11 @@ Les journées `BlueHats` et les *Sprint Open Source* sont des moments conviviaux
 
 ## Ateliers à venir
 
-- 25 février 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de la licence European Union Public Licence
 - 11 mars 2022 à 9h30 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Les tests fonctionnels avec [Squash TM](https://sill.etalab.gouv.fr/fr/software?id=137)
 
 ## Ateliers à revoir
 
+- 25 février 2022 à 11h : Présentation de la licence European Union Public Licence
 - [11 février 2022](/ateliers/amue-verslelibre) : Présentation de l'outil VersLeLibre par l'Amue
 - 28 janvier 2022 : Présentation de [Rudder](https://sill.etalab.gouv.fr/fr/software?id=164)
 - [14 janvier 2022](/ateliers/rte) : La stratégie open source de RTE
