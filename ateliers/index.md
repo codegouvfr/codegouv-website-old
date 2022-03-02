@@ -25,9 +25,9 @@ Les journées `BlueHats` et les *Sprint Open Source* sont des moments conviviaux
 
 ## Ateliers à revoir
 
-- 25 février 2022 à 11h : Présentation de la licence European Union Public Licence
-- [11 février 2022](/ateliers/amue-verslelibre) : Présentation de l'outil VersLeLibre par l'Amue
-- 28 janvier 2022 : Présentation de [Rudder](https://sill.etalab.gouv.fr/fr/software?id=164)
+- [25 février 2022](/ateliers/eupl) : Présentation de la licence européenne publique (EUPL)
+- [11 février 2022](/ateliers/amue-verslelibre) : Présentation de l'outil VersLeLibre par l'Amue
+- 28 janvier 2022 : Présentation de [Rudder](https://sill.etalab.gouv.fr/fr/software?id=164)
 - [14 janvier 2022](/ateliers/rte) : La stratégie open source de RTE
 - [10 décembre 2021](/ateliers/propriete-intellectuelle-marches-publics) : La propriété intellectuelle dans les marchés publics
 - [22 octobre 2021](/ateliers/medialab-sciences-po) : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po
