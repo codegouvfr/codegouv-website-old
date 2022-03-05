@@ -316,11 +316,95 @@ layout: page
 	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/wallabag.md" class="fr-card__link">Wallabag</a>
 	</h2>
 	<p class="fr-card__desc">
-	Wallabag est une application libre à héberger sur serveur permettant de sauvegarder des articles puis de les lire plus tard, sur n'importe quel appareil (navigateur, smartphone, tablette ou liseuse), que vous soyez connecté ou non.
+	  Wallabag est une application libre à héberger sur serveur permettant de sauvegarder des articles puis de les lire plus tard, sur n'importe quel appareil (navigateur, smartphone, tablette ou liseuse), que vous soyez connecté ou non.
 	</p>
       </div>
       <div class="fr-card__img">
         <img class="fr-responsive-img" src="/img/bsoc2022/wallabag.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/xwiki.md" class="fr-card__link">Wallabag</a>
+	</h2>
+	<p class="fr-card__desc">
+	  The Advanced Open Source Enterprise Wiki.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/xwiki.png" alt="">
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="fr-grid-row fr-grid-row--gutters">
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/vlc.md" class="fr-card__link">VLC</a>
+	</h2>
+	<p class="fr-card__desc">
+	  VLC est un lecteur multimédia gratuit et libre et un système capable de lire la plupart des fichiers multimédias ainsi que des DVD, des CD Audio, des VCD, et divers protocoles de diffusion.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/vlc.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/onyxia.md" class="fr-card__link">ONYXIA</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Onyxia est un projet né de la volonté de rendre accessible, démocratiser et démystifier les toutes dernières technologies et paradigmes de datascience. Le projet est en croissance forte avec régulièrement de nouveaux partenariats et une utilisation au sein de différents ministères.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/onyxia.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/askomics.md" class="fr-card__link">AskOmics</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Participez à la FAIRisation des données scientifiques et à l'Open Science !
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/askomics.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/unitex-gramlab.md" class="fr-card__link">Unitex/Gramlab</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Contribuez à un logiciel de recherche open source, développé en collaboration, conçu par des linguistes et utilisé sur quatre continents par des linguistes et des spécialistes du traitement automatique des langues.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/unitex-gramlab.png" alt="">
       </div>
     </div>
   </div>
