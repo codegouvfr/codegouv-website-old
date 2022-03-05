@@ -293,4 +293,36 @@ layout: page
     </div>
   </div>
 
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/koha.md" class="fr-card__link">Koha</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Comme bien d’autres avant vous, venez vivre une expérience d’intégration dans une communauté libre internationale travaillant sur un logiciel métier utilisé par plus de 20 000 établissements dans le monde.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/koha.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/wallabag.md" class="fr-card__link">Wallabag</a>
+	</h2>
+	<p class="fr-card__desc">
+	Wallabag est une application libre à héberger sur serveur permettant de sauvegarder des articles puis de les lire plus tard, sur n'importe quel appareil (navigateur, smartphone, tablette ou liseuse), que vous soyez connecté ou non.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/wallabag.png" alt="">
+      </div>
+    </div>
+  </div>
+
 </div>
