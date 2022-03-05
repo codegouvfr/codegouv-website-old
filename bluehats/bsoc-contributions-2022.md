@@ -309,4 +309,19 @@ layout: page
     </div>
   </div>
 
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/koha.md" class="fr-card__link">Wallabag</a>
+	</h2>
+	<p class="fr-card__desc">
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/wallabag.png" alt="">
+      </div>
+    </div>
+  </div>
+
 </div>
