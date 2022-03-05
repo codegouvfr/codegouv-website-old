@@ -329,7 +329,7 @@ layout: page
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/xwiki.md" class="fr-card__link">Wallabag</a>
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/xwiki.md" class="fr-card__link">XWiki</a>
 	</h2>
 	<p class="fr-card__desc">
 	  The Advanced Open Source Enterprise Wiki.
