@@ -410,3 +410,91 @@ layout: page
   </div>
 
 </div>
+
+<div class="fr-grid-row fr-grid-row--gutters">
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/digirisk.md" class="fr-card__link">Digirisk</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Digirisk est un lecteur multimédia gratuit et libre et un système capable de lire la plupart des fichiers multimédias ainsi que des DVD, des CD Audio, des VCD, et divers protocoles de diffusion.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/digirisk.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/e-combox.md" class="fr-card__link">e-comBox</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Un projet utile, techniquement riche et ambitieux, avec un encadrement professionnel au sein une équipe conviviale.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/e-combox.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/operator-fabric.md" class="fr-card__link">Operator Fabric</a>
+	</h2>
+	<p class="fr-card__desc">
+	  OperatorFabric est une plateforme modulaire, extensible et industrielle destinée à être utilisée dans le domaine de l’électricité, de l’eau et d’autres services publics.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/operator-fabric.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/sysma.md" class="fr-card__link">Operator Fabric</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Rejoignez nous et développez la version mobile de terrain de notre WebSIG open source Sysma dans le contexte de la protection de l’environnement : la surveillance et l’amélioration de la qualité de nos eaux.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/sysma.png" alt="">
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="fr-grid-row fr-grid-row--gutters">
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/powsybl.md" class="fr-card__link">PowSyBl</a>
+	</h2>
+	<p class="fr-card__desc">
+	  PowSyBl (Power System Blocks) est un cadre open source écrit en Java, dédié à la modélisation et à la simulation de réseaux électriques, sous licence Mozilla Public License version 2.0. Il fait partie de LF Energy, une fondation open source axée sur le secteur des systèmes électriques, hébergée par la Fondation Linux.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/powsybl.png" alt="">
+      </div>
+    </div>
+  </div>
+
+</div>
