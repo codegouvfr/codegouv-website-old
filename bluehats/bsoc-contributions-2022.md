@@ -452,7 +452,7 @@ layout: page
 	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/operator-fabric.md" class="fr-card__link">Operator Fabric</a>
 	</h2>
 	<p class="fr-card__desc">
-	  OperatorFabric est une plateforme modulaire, extensible et industrielle destinée à être utilisée dans le domaine de l’électricité, de l’eau et d’autres services publics.
+	  Rejoingez un projet RTE et Linux Foundation : OperatorFabric est une plateforme modulaire, extensible et industrielle destinée à être utilisée dans le domaine de l’électricité, de l’eau et d’autres services publics.
 	</p>
       </div>
       <div class="fr-card__img">
