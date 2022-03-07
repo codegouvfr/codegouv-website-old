@@ -452,7 +452,7 @@ layout: page
 	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/operator-fabric.md" class="fr-card__link">Operator Fabric</a>
 	</h2>
 	<p class="fr-card__desc">
-	  OperatorFabric est une plateforme modulaire, extensible et industrielle destinée à être utilisée dans le domaine de l’électricité, de l’eau et d’autres services publics.
+	  Rejoingez un projet RTE et Linux Foundation : OperatorFabric est une plateforme modulaire, extensible et industrielle destinée à être utilisée dans le domaine de l’électricité, de l’eau et d’autres services publics.
 	</p>
       </div>
       <div class="fr-card__img">
@@ -509,6 +509,22 @@ layout: page
       </div>
       <div class="fr-card__img">
         <img class="fr-responsive-img" src="/img/bsoc2022/jitsi-meet.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/asqatasun.md" class="fr-card__link">Asqatasun</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Mesurer l’accessibilité de (millions de) sites publics français
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/asqatasun.png" alt="">
       </div>
     </div>
   </div>
