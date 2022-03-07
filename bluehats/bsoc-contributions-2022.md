@@ -109,7 +109,7 @@ layout: page
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/label.md" class="fr-card__link">LABEL</a>
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/label.md" class="fr-card__link">label</a>
 	</h2>
 	<p class="fr-card__desc">
 	  Améliorer et expérimenter la réutilisation d'un projet open source de la Cour de cassation.
@@ -365,7 +365,7 @@ layout: page
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/onyxia.md" class="fr-card__link">ONYXIA</a>
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/onyxia.md" class="fr-card__link">Onyxia</a>
 	</h2>
 	<p class="fr-card__desc">
 	  Onyxia est un projet né de la volonté de rendre accessible, démocratiser et démystifier les toutes dernières technologies et paradigmes de datascience. Le projet est en croissance forte avec régulièrement de nouveaux partenariats et une utilisation au sein de différents ministères.
@@ -465,7 +465,7 @@ layout: page
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/sysma.md" class="fr-card__link">Operator Fabric</a>
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/sysma.md" class="fr-card__link">Sysma</a>
 	</h2>
 	<p class="fr-card__desc">
 	  Rejoignez nous et développez la version mobile de terrain de notre WebSIG open source Sysma dans le contexte de la protection de l’environnement : la surveillance et l’amélioration de la qualité de nos eaux.
