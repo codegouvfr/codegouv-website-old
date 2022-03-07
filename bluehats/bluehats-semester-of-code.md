@@ -11,13 +11,6 @@ layout: page
     <h3>Comment ça marche</h3>
     <p>Vous êtes un organisme public, une entreprise française ou un collectif et vous développez un logiciel libre ?  Vous êtes prêts à accompagner un ou une élève de CentraleSupélec de septembre 2022 à février 2023 pour qu'il ou elle contribue à votre projet ?</p>
     <p><strong>Nous recrutons avec vous la bonne personne pour ce stage ! Nous l'accueillons dans les locaux d'Etalab au sein de la première promotion BlueHats 🧢 et nous la finançons.  Vous encouragez et recueillez ses contributions.</strong></p>
-    <div class="fr-grid-row">
-      <div class="fr-col-8">
-	<button class="fr-btn fr-btn--secondary">
-	  Curieux ? Partants ? <a href="https://framaforms.org/bluehats-semester-of-code-encadrer-un-contributeur-sur-votre-logiciel-libre-1645087582">Proposez votre idée !</a>
-	</button>
-      </div>
-    </div>
   </div>
 </div>
 
@@ -30,9 +23,7 @@ Le pôle logiciels libres de la DINUM et l’école CentraleSupélec vous offren
 
 Vous serez libres de lui proposer des objectifs tandis que la logistique est entièrement prise en charge par le pôle logiciels libres (accueil physique de la promotion BlueHats) et par l'école CentraleSupélec (qui signe la convention de stage et gère la gratification).
 
-### Dites-nous tout d'ici le 6 mars à 23h59
-
-L'appel à idées de stages est ouvert **jusqu'au 6 mars à 23h59** : nous vous invitons à [répondre à ce questionnaire](https://framaforms.org/bluehats-semester-of-code-encadrer-un-contributeur-sur-votre-logiciel-libre-1645087582) et à nous écrire à [bluehats@data.gouv.fr](mailto:bluehats@data.gouv.fr) si vous avez des questions.
+### L'appel à idées de stages est resté ouvert **jusqu'au 6 mars à 23h59**
 
 Nous publierons la liste des propositions retenues le 8 mars.
 
