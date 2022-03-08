@@ -9,8 +9,8 @@ layout: page
   </div>
   <div class="fr-col-6">
     <h3>Comment ça marche</h3>
-    <p>Des projets de logiciels libres proposent d'encadrer des étudiants de CentraleSupélec pour un stage de six mois entre septembre 2022 et février 2023.</p>
-    <p>Ces stagiaires seront rémunérés par l'école CentraleSupélec et accueillis physiquement à la DINUM : ils formeront <strong>la première promotion BlueHats 🧢</strong> et auront à coeur de monter en compétence sur le logiciel libre et de découvrir tout l'écosystème qui contribue aux missions de la direction interministérielle du numérique.</p>
+    <p>Des projets de logiciels libres proposent d'encadrer des étudiants de CentraleSupélec pour un stage entre septembre 2022 et février 2023.</p>
+    <p>Ces stagiaires seront rémunérés par l'école CentraleSupélec et accueillis physiquement à la DINUM : ils formeront <strong>la première promotion BlueHats 🧢</strong> : ils auront à coeur de monter en compétence sur le logiciel libre et de découvrir tout l'écosystème qui contribue aux missions de la direction interministérielle du numérique.</p>
     <div class="fr-grid-row">
       <div class="fr-col-12">
 	<button class="fr-btn fr-btn--secondary">
