@@ -529,4 +529,56 @@ layout: page
     </div>
   </div>
 
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/cryptpad.md" class="fr-card__link">Cryptpad</a>
+	</h2>
+	<p class="fr-card__desc">
+	  CryptPad est une suite de logiciels collaboratifs (texte, tableur, kanban, markdown, etc) chiffrée de bout en bout et open source.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/cryptpad.png" alt="">
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="fr-grid-row fr-grid-row--gutters">
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/datafari.md" class="fr-card__link">Datafari</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Datafari est une moteur de recherche pour entreprise open source. C'est le produit idéal pour tous ceux qui ont besoin de rechercher et d'analyser leurs données et documents d'entreprise, tant au niveau du contenu que des métadonnées.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/datafari.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/qgis.md" class="fr-card__link">QGIS</a>
+	</h2>
+	<p class="fr-card__desc">
+	  QGIS est un système d'information géographique libre et open source, largement utilisé dans l’administration, avec les service de calcul et données géographiques de l’état.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/qgis.png" alt="">
+      </div>
+    </div>
+  </div>
+
 </div>
