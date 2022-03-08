@@ -316,7 +316,7 @@ layout: page
 	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/wallabag.md" class="fr-card__link">Wallabag</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Wallabag est une application libre à héberger sur serveur permettant de sauvegarder des articles puis de les lire plus tard, sur n'importe quel appareil (navigateur, smartphone, tablette ou liseuse), que vous soyez connecté ou non.
+	  Wallabag est une application libre de lecture différée. Elle permet la gestion et la lecture d'articles en dehors des sites originels, dans une mise en page homogénéisée avec un contenu épuré. Les articles peuvent être rangés par tags, classés par favoris, marqués comme archivés et également suivis par le moyen de flux RSS. L'export pour livre numérique est également possible. Il y a compatibilité avec les services existants Pocket, Readability, Instapaper.
 	</p>
       </div>
       <div class="fr-card__img">
