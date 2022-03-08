@@ -27,6 +27,6 @@ layout: page
 
 Le pôle logiciels libres de la DINUM et l’école CentraleSupélec offrent à des étudiants de CentraleSupélec la possibilité de faire un stage de septembre 2022 à février 2023 pour apprendre à contribuer à des logiciels libres.
 
-Entre le 15 mars et le 15 mai 2022, les étudiants choisiront parmi les idées de stages proposées et candidateront.  Nous les recevrons avec les porteurs de projets pour vérifier que tout le monde s'y retrouve : l'étudiant en terme d'expérience d'apprentissage, le porteur de projet pour les contributions à recevoir, et la DINUM pour la construction de cette première promotion BlueHats.
+**Entre le 15 mars et le 15 mai 2022**, les étudiants choisiront parmi les idées de stages proposées et candidateront.  Nous les recevrons avec les porteurs de projets pour vérifier que tout le monde s'y retrouve : l'étudiant en terme d'expérience d'apprentissage, le porteur de projet pour les contributions à recevoir, et la DINUM pour la construction de cette première promotion BlueHats.
 
 ### Consultez [cette page](https://man.sr.ht/~etalab/logiciels-libres/bluehats-semester-of-code.md) pour plus de détails
