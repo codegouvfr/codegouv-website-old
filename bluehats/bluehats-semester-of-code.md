@@ -5,7 +5,7 @@ layout: page
 
 <div class="fr-grid-row fr-grid-row--gutters">
   <div class="fr-col-6 fr-mt-6w">
-    <img class="fr-responsive-img" src="/img/bsoc-aap-2022.png"/>
+    <img class="fr-responsive-img" src="/img/bsoc2022/bsoc-aac-2022.png"/>
   </div>
   <div class="fr-col-6">
     <h3>Comment ça marche</h3>
