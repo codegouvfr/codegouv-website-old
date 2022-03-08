@@ -581,4 +581,36 @@ layout: page
     </div>
   </div>
 
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/openfoodfacts.md" class="fr-card__link">Open Food Facts</a>
+	</h2>
+	<p class="fr-card__desc">
+	Open Food Facts est une base de données sur les produits alimentaires faite par tout le monde, pour tout le monde. Elle vous permet de faire des choix plus informés, et comme les données sont ouvertes (open data), tout le monde peut les utiliser pour tout usage.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/openfoodfacts.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/osmose-qa.md" class="fr-card__link">Osmose-QA</a>
+	</h2>
+	<p class="fr-card__desc">
+	Osmose-QA est un outil vérifiant la qualité des données OpenStreetMap en détectant un large éventail de types de problèmes. C’est une brique importante de l’écosystème OpenStreetMap utilisée par des particuliers comme des professionnels.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/osmose-qa.png" alt="">
+      </div>
+    </div>
+  </div>
+
 </div>
