@@ -1,5 +1,5 @@
 ---
-title: "Vous portez un logiciel libre ? Nous trouvons un·e stagiaire !"
+title: "Ils se mobilisent pour accueillir des étudiants contributeurs !"
 layout: page
 ---
 
@@ -9,36 +9,25 @@ layout: page
   </div>
   <div class="fr-col-6">
     <h3>Comment ça marche</h3>
-    <p>Vous êtes un organisme public, une entreprise française ou un collectif et vous développez un logiciel libre ?  Vous êtes prêts à accompagner un ou une élève de CentraleSupélec de septembre 2022 à février 2023 pour qu'il ou elle contribue à votre projet ?</p>
-    <p><strong>Nous recrutons avec vous la bonne personne pour ce stage ! Nous l'accueillons dans les locaux d'Etalab au sein de la première promotion BlueHats 🧢 et nous la finançons.  Vous encouragez et recueillez ses contributions.</strong></p>
+    <p>Une trentaine de projets de logiciels libres proposent d'accueillir des étudiants de CentraleSupélec pour un stage de six mois entre septembre 2022 et février 2023.</p>
+    <p>Ces stagiaires seront rémunérés par l'école CentraleSupélec et accueillis à Etalab : ils formeront la première promotion BlueHats 🧢, ayant à coeur de monter en compétence sur le logiciel libre et de découvrir l'écosystème des développeurs qui contribue aux missions de la direction interministérielle du numérique.</p>
+    <div class="fr-grid-row">
+      <div class="fr-col-8">
+	<button class="fr-btn fr-btn--secondary">
+	  <a href="https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/">Découvrez les projets qui proposent d'encadrer les étudiants !</a>
+	</button>
+      </div>
+    </div>
   </div>
 </div>
 
 <br/>
-<br/>
 
-## BlueHats 🧢 Semester of Code : appel à idées
+## BlueHats 🧢 Semester of Code : qu'est-ce que c'est ?
 
-Le pôle logiciels libres de la DINUM et l’école CentraleSupélec vous offrent la possibilité de mobiliser de septembre 2022 à février 2023 un contributeur débutant, élève de CentraleSupélec ayant terminé sa deuxième année et faisant une césure.
+Le pôle logiciels libres de la DINUM et l’école CentraleSupélec offrent à des étudiants de CentraleSupélec la possibilité de faire un stage de septembre 2022 à février 2023 pour apprendre à contribuer à des logiciels libres.
 
-Vous serez libres de lui proposer des objectifs tandis que la logistique est entièrement prise en charge par le pôle logiciels libres (accueil physique de la promotion BlueHats) et par l'école CentraleSupélec (qui signe la convention de stage et gère la gratification).
-
-### L'appel à idées de stages est resté ouvert **jusqu'au 6 mars à 23h59**
-
-Nous publierons la liste des propositions retenues le 8 mars.
-
-Entre le 15 mars et le 15 mai 2022, les étudiants choisiront parmi les idées de stages proposées et candidaterons.  Nous les recevrons avec vous pour vérifier que tout le monde s'y retrouve : l'étudiant pour l'encadrement, vous pour les contributions.
-
-### Ce que nous regarderons de près
-
-- Le code source de votre projet est sous licence libre.
-- Votre logiciel est mûr et largement utilisé.
-- Il est même uilisé dans l'administration publique.
-- Vous avez la possibilité d'encadrer le stage correctement.
-- Vous avez déjà encadré un ou des stages.
-- Vous avez une communauté d'utilisateurs et de contributeurs.
-- Cette communauté sait accueillir et stimuler les contributions.
-- Vous avez une idée claire de ce que l'élève stagiaire fera le premier mois.
+Entre le 15 mars et le 15 mai 2022, les étudiants choisiront parmi les idées de stages proposées et candidateront.  Nous les recevrons avec les porteurs de projets pour vérifier que tout le monde s'y retrouve : l'étudiant en terme d'expérience d'apprentissage, le porteur de projet pour les contributions à recevoir, et la DINUM pour la construction de cette première promotion BlueHats.
 
 ### Pour plus de détails
 
