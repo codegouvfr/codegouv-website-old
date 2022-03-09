@@ -261,10 +261,10 @@ layout: page
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/udata.md" class="fr-card__link">uData</a>
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/udata.md" class="fr-card__link">udata</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Vous souhaitez contribuer à un logiciel ouvert qui propulsent plusieurs plateformes de données ouvertes dans le monde ? Venez rejoindre l'équipe de data.gouv.fr pour faciliter l'adoption et la contribution à uData dans une démarche de commun numérique.
+	  Vous souhaitez contribuer à un logiciel ouvert qui propulsent plusieurs plateformes de données ouvertes dans le monde ? Venez rejoindre l'équipe de data.gouv.fr pour faciliter l'adoption et la contribution à udata dans une démarche de commun numérique.
 	</p>
       </div>
       <div class="fr-card__img">
