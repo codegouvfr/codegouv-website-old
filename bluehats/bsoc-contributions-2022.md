@@ -669,7 +669,7 @@ layout: page
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bluehats-semester-of-code.md" class="fr-card__link">Bokeh</a>
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bluehats-semester-of-code.md" class="fr-card__link">BlueHats Semester of Code ?</a>
 	</h2>
 	<p class="fr-card__desc">
 	  Lire une présentation détaillée du programme BlueHats Semester of Code.
