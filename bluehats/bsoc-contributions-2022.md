@@ -349,10 +349,10 @@ layout: page
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/vlc.md" class="fr-card__link">VLC</a>
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/vlc.md" class="fr-card__link">VideoLAN</a>
 	</h2>
 	<p class="fr-card__desc">
-	  VLC est un lecteur multimédia gratuit et libre et un système capable de lire la plupart des fichiers multimédias ainsi que des DVD, des CD Audio, des VCD, et divers protocoles de diffusion.
+	  VideoLAN est un lecteur multimédia gratuit et libre et un système capable de lire la plupart des fichiers multimédias ainsi que des DVD, des CD Audio, des VCD, et divers protocoles de diffusion.
 	</p>
       </div>
       <div class="fr-card__img">
