@@ -614,3 +614,71 @@ layout: page
   </div>
 
 </div>
+
+<div class="fr-grid-row fr-grid-row--gutters">
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/ade4.md" class="fr-card__link">ade4</a>
+	</h2>
+	<p class="fr-card__desc">
+	ade4 (Ecological Data Analysis: Exploratory and Euclidean Methods in Environmental Sciences) est un logiciel libre développé au sein du laboratoire de Biométrie et Biologie Evolutive à l'Université Lyon 1.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/ade4.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/urungi.md" class="fr-card__link">Urungi</a>
+	</h2>
+	<p class="fr-card__desc">
+	Urungi est destiné à être utilisé par des personnes ne sachant pas — ou ne pouvant pas — faire de requêtes SQL, mais ayant besoin de réaliser des tableaux et des rapports. Urungi est publié sous licence GNU/GPL.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/urungi.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/bokeh.md" class="fr-card__link">Bokeh</a>
+	</h2>
+	<p class="fr-card__desc">
+	Contribuez au portail documentaire libre Bokeh !
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/bokeh.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bluehats-semester-of-code.md" class="fr-card__link">Bokeh</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Lire une présentation détaillée du programme BlueHats Semester of Code.
+	</p>
+      </div>
+      <div class="fr-card__img">
+        <img class="fr-responsive-img" src="/img/bsoc2022/bsoc-aac-2022_small.png" alt="">
+      </div>
+    </div>
+  </div>
+
+</div>
