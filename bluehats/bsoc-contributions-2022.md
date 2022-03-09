@@ -248,7 +248,7 @@ layout: page
 	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/tutor.md" class="fr-card__link">Tutor</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Contribuer de manière significative à la manière dont le monde entier apprend et se forme avec Tutor.
+	  Contribuez de manière significative à la manière dont le monde entier apprend et se forme avec Tutor.
 	</p>
       </div>
       <div class="fr-card__img">
