@@ -572,7 +572,7 @@ layout: page
 	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/qgeoservices.md" class="fr-card__link">QGéoservices</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Contribuez à faciliter l’emploi et la consommation des APIs géographiques de la future Géoplateforme  dans le logiciel SIG (édition de données géographiques, dataviz cartographique, analyse spatiale, ...) leader de l’open source.
+	  Contribuez à faciliter l’emploi et la consommation des APIs géographiques de la future Géoplateforme  dans le logiciel SIG (édition de données géographiques, dataviz cartographique, analyse spatiale, etc.) leader de l’open source.
 	</p>
       </div>
       <div class="fr-card__img">
