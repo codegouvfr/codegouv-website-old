@@ -332,7 +332,7 @@ layout: page
 	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/xwiki.md" class="fr-card__link">XWiki</a>
 	</h2>
 	<p class="fr-card__desc">
-	  The Advanced Open Source Enterprise Wiki.
+	  XWiki est un moteur de wiki Open Source (LGPLv2) adapté à un usage pour des groupes de travail (associations, entreprises, etc.). Le logiciel permet la création rapide de petites applications pour répondre à différents besoins de gestion de l'information.
 	</p>
       </div>
       <div class="fr-card__img">
