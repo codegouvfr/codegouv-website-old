@@ -569,14 +569,14 @@ layout: page
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/qgis.md" class="fr-card__link">QGIS</a>
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/qgeoservices.md" class="fr-card__link">QGéoservices</a>
 	</h2>
 	<p class="fr-card__desc">
 	  Contribuez à faciliter l’emploi et la consommation des APIs géographiques de la future Géoplateforme  dans le logiciel SIG (édition de données géographiques, dataviz cartographique, analyse spatiale, ...) leader de l’open source.
 	</p>
       </div>
       <div class="fr-card__img">
-        <img class="fr-responsive-img" src="/img/bsoc2022/qgis.png" alt="">
+        <img class="fr-responsive-img" src="/img/bsoc2022/qgeoservices.png" alt="">
       </div>
     </div>
   </div>
