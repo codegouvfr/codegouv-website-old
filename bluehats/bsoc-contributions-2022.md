@@ -468,7 +468,7 @@ layout: page
 	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/sysma.md" class="fr-card__link">Sysma</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Rejoignez nous et développez la version mobile de terrain de notre WebSIG open source Sysma dans le contexte de la protection de l’environnement : la surveillance et l’amélioration de la qualité de nos eaux.
+	  Rejoignez-nous et développez la version mobile offline de notre WebSIG open source Sysma dans le contexte de la protection de l'environnement : la surveillance et l'amélioration de la qualité de nos eaux.
 	</p>
       </div>
       <div class="fr-card__img">
