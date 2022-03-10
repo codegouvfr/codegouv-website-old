@@ -572,7 +572,7 @@ layout: page
 	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/qgis.md" class="fr-card__link">QGIS</a>
 	</h2>
 	<p class="fr-card__desc">
-	  QGIS est un système d'information géographique libre et open source, largement utilisé dans l’administration, avec les service de calcul et données géographiques de l’état.
+	  Contribuez à faciliter l’emploi et la consommation des APIs géographiques de la future Géoplateforme  dans le logiciel SIG (édition de données géographiques, dataviz cartographique, analyse spatiale, ...) leader de l’open source.
 	</p>
       </div>
       <div class="fr-card__img">
