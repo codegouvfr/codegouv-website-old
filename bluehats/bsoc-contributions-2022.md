@@ -148,7 +148,7 @@ layout: page
 	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/ota.md" class="fr-card__link">Open Terms Archive</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Rééquilibrer le rapport de force avec les big techs en contribuant à Open Terms Archive.
+	  On détecte chaque modification des conditions d'utilisation des services numériques et on vérifie qu'elles ne sont pas abusives. Rejoins notre équipe pour collecter, améliorer et exploiter des données qui redonnent du pouvoir aux utilisateurs et aux États face aux grandes plateformes ! #NodeJS #JavaScript #Communs.
 	</p>
       </div>
       <div class="fr-card__img">
