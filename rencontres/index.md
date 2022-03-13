@@ -8,7 +8,7 @@ Les rencontres `BlueHats` sont des moments d'échange et de coopération en pré
 
 ## Rencontres #FLOSS_ESR
 
-- [Rencontres sur les enjeux du logiciel libre dans la recherche](/rencontres/seminaire-floss-esr-2022), organisée avec le [Comité pour la science ouverte](https://www.ouvrirlascience.fr/) en janvier et février 2022.
+- Rencontres sur les enjeux du logiciel libre dans la recherche ([lien](/rencontres/floss-esr-2022)), organisées avec le [Comité pour la science ouverte](https://www.ouvrirlascience.fr/) en janvier et février 2022.
 
 ## Journées BlueHats
 
