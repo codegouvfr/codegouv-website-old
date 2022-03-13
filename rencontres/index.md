@@ -4,8 +4,7 @@ img: /img/bluehats-communaute.jpg
 layout: page
 ---
 
-Les rencontres `BlueHats` sont des moments d'échange et de coopération
-en présentiel.
+Les rencontres `BlueHats` sont des moments d'échange et de coopération en présentiel.
 
 ## Journées BlueHats
 
