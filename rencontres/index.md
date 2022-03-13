@@ -6,6 +6,10 @@ layout: page
 
 Les rencontres `BlueHats` sont des moments d'échange et de coopération en présentiel consacrés à toutes les personnes qui s'intéressent aux logiciels libres pour les administrations publiques.
 
+## Rencontres #FLOSS_ESR
+
+- [Rencontres sur les enjeux du logiciel libre dans la recherche](/rencontres/seminaire-floss-esr-2022), organisée avec le [Comité pour la science ouverte](https://www.ouvrirlascience.fr/) en janvier et février 2022.
+
 ## Journées BlueHats
 
 - Journée `BlueHats` 2021, lors du salon Open Source Experience ([lien](journee-2021)).
