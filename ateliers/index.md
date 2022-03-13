@@ -10,15 +10,6 @@ layout: page
 
 Les ateliers `BlueHats` sont des visioconférences de présentation d'outils libres utilisés et/ou développés par des administrations.  Tous les ateliers sont accessibles à toutes et tous et visibles en rediffusion sur [la chaîne `BlueHats` d'Etalab](https://www.dailymotion.com/playlist/x767bq).  Retrouvez le détail des présentations sur [le dépôt consacré aux ateliers](https://github.com/blue-hats/ateliers/blob/main/ateliers.org).
 
-Les journées `BlueHats` et les *Sprint Open Source* sont des moments conviviaux en présentiel où les `BlueHats` échangent des retours d'expérience et/ou contribuent directement aux projets les uns des autres.
-
-## Journées BlueHats
-
-- Journée `BlueHats` 2021, lors du salon Open Source Experience ([lien](journee-2021))
-- Journée `BlueHats` 2019, lors du salon Paris Open Source Summit ([annonce](https://www.numerique.gouv.fr/agenda/journee-bluehats-lors-du-salon-open-source-experience/) et [présentations](https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614/2))
-- Sprint Open Source 2019, au Lab 110 bis du ministère de l'Éducation Nationale ([lien](https://www.numerique.gouv.fr/actualites/retour-sur-le-premier-sprint-open-source-bluehats-administration/))
-- Journée `BlueHats` 2018, lors du salon Paris Open Source Summit ([lien](https://www.numerique.gouv.fr/agenda/lancement-rejoignez-la-communaute-blue-hats-hackers-dinteret-general/))
-
 ## Ateliers à venir
 
 - 25 mars 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de Catala

@@ -7,37 +7,51 @@ eleventyNavigation:
 ---
 
 <div class="fr-grid-row fr-grid-row--gutters">
-  <div class="fr-col-12 fr-col-md-4">
+  <div class="fr-col-12 fr-col-md-6">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a href="/gazette/" class="fr-card__link">La gazette BlueHats</a>
+	  <a href="/gazette/" class="fr-card__link">La gazette</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Votre lettre d'information bimestrielle autour des logiciels libres par et pour les administrations publiques.
+	  La gazette BlueHats est une lettre d'information bimestrielle autour des logiciels libres par et pour les administrations publiques.
 	</p>
       </div>
     </div>
   </div>
 
-  <div class="fr-col-12 fr-col-md-4">
+  <div class="fr-col-12 fr-col-md-6">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a href="/ateliers/" class="fr-card__link">Les ateliers BlueHats</a>
+	  <a href="/ateliers/" class="fr-card__link">Les ateliers</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Des ateliers en visioconférence présentant des logiciels libres utilisés dans l'administration.
+	  Les ateliers BlueHats sont des visioconférences publiques consacrées à l'utilisation de logiciels libres par des administrations.
 	</p>
       </div>
     </div>
   </div>
+</div>
 
-  <div class="fr-col-12 fr-col-md-4">
+<div class="fr-grid-row fr-grid-row--gutters">
+  <div class="fr-col-12 fr-col-md-6">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a href="bluehats-semester-of-code" class="fr-card__link">Le BlueHats Semester of Code</a>
+	  <a href="/rencontres" class="fr-card__link">Les rencontres</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Les rencontres BlueHats sont des événements en présentiel où les BlueHats se retrouve pour faire connaissance et collaborer.  Ces rencontres peuvent prendre différentes formes : Sprint Open Source, journées BlueHats lors de salons, etc.
+	</p>
+      </div>
+    </div>
+  </div>
+  <div class="fr-col-12 fr-col-md-6">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a href="bluehats-semester-of-code" class="fr-card__link">BlueHats Semester of Code</a>
 	</h2>
 	<p class="fr-card__desc">
 	  En partenariat avec CentraleSupélec, la DINUM propose un programme de stages pour développer les contributions de l'administration à des logiciels libres.
