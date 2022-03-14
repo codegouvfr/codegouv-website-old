@@ -420,7 +420,7 @@ layout: page
 	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/digirisk.md" class="fr-card__link">Digirisk</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Digirisk est un lecteur multimédia gratuit et libre et un système capable de lire la plupart des fichiers multimédias ainsi que des DVD, des CD Audio, des VCD, et divers protocoles de diffusion.
+	  Digirisk est un logiciel Open Source permettant de réaliser la gestion du Système de Management de la Sécurité (SMS) de chaque entreprise ou collectivité. DigiRisk est basé sur le ERP & CRM Dolibarr propulsé par une communauté de plus de 450 développeurs.
 	</p>
       </div>
       <div class="fr-card__img">
