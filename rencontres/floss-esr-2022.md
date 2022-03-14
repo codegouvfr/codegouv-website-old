@@ -33,6 +33,6 @@ Revoir la [vidéo](https://bbb-dinum-scalelite.visio.education.fr/playback/prese
 
 - [Synthèse des ateliers en « carte mentale »](https://framindmap.org/c/maps/1215811/public), Creative Commons BY-SA 4.0
 - [Retour des participants sur les rencontres](https://codimd.inno3.cricket/GxvDnxSjR1yENEkjwlg-7Q?view)
-- Notes de l'atelier du 14 janvier, Licence Ouverte 2.0 et Creative Commons BY-SA 4.0 ([odt](/img/floss-esr2022/2022-01_FLOSS-ESR_synthese-atelier1.odt), [pdf](/img/floss-esr2022/2022-01_FLOSS-ESR_synthese-atelier1.pdf))
-- Notes de l'atelier du 21 janvier, Licence Ouverte 2.0 et Creative Commons BY-SA 4.0 ([odt](/img/floss-esr2022/2022-01_FLOSS-ESR_synthese-atelier2.odt), [pdf](/img/floss-esr2022/2022-01_FLOSS-ESR_synthese-atelier2.pdf))
+- Notes de l'atelier du 14 janvier, Licence Ouverte 2.0 et Creative Commons BY 4.0 ([odt](/img/floss-esr2022/2022-01_FLOSS-ESR_synthese-atelier1.odt), [pdf](/img/floss-esr2022/2022-01_FLOSS-ESR_synthese-atelier1.pdf))
+- Notes de l'atelier du 21 janvier, Licence Ouverte 2.0 et Creative Commons BY 4.0 ([odt](/img/floss-esr2022/2022-01_FLOSS-ESR_synthese-atelier2.odt), [pdf](/img/floss-esr2022/2022-01_FLOSS-ESR_synthese-atelier2.pdf))
 - Les annonces du séminaire sur [ouvrirlascience.fr](https://www.ouvrirlascience.fr/rencontres-sur-les-enjeux-du-logiciel-ateliers/) et [le blog d'Etalab](https://www.etalab.gouv.fr/rencontres-sur-les-enjeux-du-logiciel-libre-dans-la-recherche-ouvrir-et-promouvoir-les-codes-sources-produits-par-la-recherche/)
