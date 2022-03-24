@@ -669,14 +669,14 @@ layout: page
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
 	<h2 class="fr-card__title">
-	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bluehats-semester-of-code.md" class="fr-card__link">BlueHats Semester of Code ?</a>
+	  <a target="_new" href="https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/esup-pod.md" class="fr-card__link">Esup-Pod</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Lire une présentation détaillée du programme BlueHats Semester of Code.
+	Contribuez à Esup-Pod : plateforme opensource de gestion de vidéo pour l'éducation nationale, l'enseignement supérieur et la recherche.
 	</p>
       </div>
       <div class="fr-card__img">
-        <img class="fr-responsive-img" src="/img/bsoc2022/bsoc-aac-2022_small.png" alt="">
+        <img class="fr-responsive-img" src="/img/bsoc2022/esup-pod.png" alt="">
       </div>
     </div>
   </div>
