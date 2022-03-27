@@ -15,7 +15,7 @@ Les ateliers `BlueHats` sont des visioconférences de présentation d'outils lib
 - 8 avril 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [France Brevets](https://www.francebrevets.com/)
 - 22 avril 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [Démarches simplifiées](https://github.com/betagouv/demarches-simplifiees.fr/)
 - 13 mai 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Créer sa documentation technique ou logicielle avec Scenari Dokiel
-- 27 mai 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [Catala](https://catala-lang.org).
+- 20 mai 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [Catala](https://catala-lang.org).
 - 10 juin 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de GéoRivière
 - 24 juin 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation des marchés de support et d’expertise logiciels libres
 
