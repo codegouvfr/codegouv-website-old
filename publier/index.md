@@ -1,9 +1,9 @@
 ---
-title: Libérer et ouvrir les codes sources du secteur public
+title: Publier les codes sources du secteur public
 linkTitle: Toutes les ressources pour publier vos codes sources
 layout: page
 eleventyNavigation:
-  key: Ouvrir
+  key: Publier
   order: 20
 ---
 
@@ -29,7 +29,7 @@ eleventyNavigation:
 	  <a href="/guides/" class="fr-card__link">Les guides</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Des ressources pour vous aider à ouvrir vos codes sources : guide pratique, guide juridique et liste des licences autorisées.
+	  Des ressources pour vous aider à publier vos codes sources sous licence libre : guide pratique, guide juridique et liste des licences autorisées.
 	</p>
       </div>
     </div>

@@ -13,7 +13,7 @@ Vous travaillerez au sein du pôle logiciels libres, rattaché à [Etalab](https
 
 ## Que fait le pôle logiciels libres ?
 
-Le pôle logiciels libres pilote le [plan d’action logiciels libres et communs numériques](https://communs.numerique.gouv.fr/plan-action-logiciels-libres-et-communs-numeriques/) lancé par l’État en novembre 2021.
+Le pôle logiciels libres pilote le [plan d’action logiciels libres et communs numériques](/plan-action-logiciels-libres-et-communs-numeriques/) lancé par l’État en novembre 2021.
 
 Il met en œuvre les ressources (sites web, guides, ateliers, événements, etc.) qui contribuent à atteindre les objectifs du plan d’action :
 
@@ -25,9 +25,9 @@ Il met en œuvre les ressources (sites web, guides, ateliers, événements, etc.
 
 Votre rôle sera d’accompagner les administrations qui le souhaitent à transformer leurs ouvertures de codes sources en projets collaboratifs pour en faire des communs numériques : vous définirez et mettrez en oeuvre les bonnes pratiques de mutualisation entre administrations et les aiderez à mobiliser réutilisateurs et contributeurs au-delà.
 
-Vous devrez aussi valoriser et renforcer les contributions du secteur public à l'écosystème des logiciels libres : pour cela, vous animerez le programme [BlueHats Semester of Code](https://communs.numerique.gouv.fr/bluehats/bluehats-semester-of-code/) qui permet à des stagiaires de contribuer à des logiciels libres utilisés par les administrations.
+Vous devrez aussi valoriser et renforcer les contributions du secteur public à l'écosystème des logiciels libres : pour cela, vous animerez le programme [BlueHats Semester of Code](/mobiliser/bluehats-semester-of-code/) qui permet à des stagiaires de contribuer à des logiciels libres utilisés par les administrations.
 
-Vous piloterez les contributions de la DINUM au mouvement BlueHats : co-rédaction de la [gazette](https://communs.numerique.gouv.fr/gazette/), préparation d’[ateliers](https://communs.numerique.gouv.fr/bluehats/ateliers/) et d'événements, journées de compagnonnage technique - et plus selon vos idées.
+Vous piloterez les contributions de la DINUM au mouvement BlueHats : co-rédaction de la [gazette](/gazette/), préparation d’[ateliers](/mobiliser/ateliers/) et d'événements, journées de compagnonnage technique - et plus selon vos idées.
 
 ## Le profil recherché
 
