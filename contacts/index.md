@@ -15,4 +15,4 @@ La mission [TALENTS](https://metiers.numerique.gouv.fr/) : [talents.numeriques@
 
 Le pôle logiciels libres est à votre écoute tous les lundi de 16h à 17h sur le [canal IRC #bluehats](https://web.libera.chat).
 
-Vous pouvez aussi [retrouver d'autres agents publics et des personnes impliquées dans le mouvement BlueHats](https://man.sr.ht/~etalab/logiciels-libres/#o-changer-avec-dautres-agents-publics-libristes-et-la-communaut-bluehats).
+Vous pouvez aussi [retrouver d'autres agents publics et des personnes impliquées dans le mouvement BlueHats](https://man.sr.ht/~etalab/logiciels-libres/espaces-communication-bluehats.md).
