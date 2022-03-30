@@ -11,7 +11,7 @@ Le pôle logiciels libres d'[Etalab](https://etalab.gouv.fr) : [logiciels-libre
 
 La mission [LABEL](https://catalogue.numerique.gouv.fr/) : [label.dinum@modernisation.gouv.fr](mailto:label.dinum@modernisation.gouv.fr)
 
-La mission TALENTS : [talents.numeriques@modernisation.gouv.fr](mailto:talents.numeriques@modernisation.gouv.fr)
+La mission [TALENTS](https://metiers.numerique.gouv.fr/) : [talents.numeriques@modernisation.gouv.fr](mailto:talents.numeriques@modernisation.gouv.fr)
 
 Le pôle logiciels libres est à votre écoute tous les lundi de 16h à 17h sur le [canal IRC #bluehats](https://web.libera.chat).
 
