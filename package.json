@@ -27,6 +27,6 @@
     "@gouvfr/dsfr": "^1.4.1",
     "luxon": "^2.3.1",
     "markdown-it": "^12.3.2",
-    "markdown-it-anchor": "^8.4.1"
+    "markdown-it-anchor": "^8.5.0"
   }
 }
