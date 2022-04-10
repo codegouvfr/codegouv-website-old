@@ -12,7 +12,6 @@ Les ateliers `BlueHats` sont des visioconférences de présentation d'outils lib
 
 ## Ateliers à venir
 
-- 8 avril 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [France Brevets](https://www.francebrevets.com/)
 - 22 avril 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [Démarches simplifiées](https://github.com/betagouv/demarches-simplifiees.fr/)
 - 13 mai 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Créer sa documentation technique ou logicielle avec Scenari Dokiel
 - 20 mai 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [Catala](https://catala-lang.org)
@@ -21,6 +20,7 @@ Les ateliers `BlueHats` sont des visioconférences de présentation d'outils lib
 
 ## Ateliers à revoir
 
+- [8 avril 2022](/ateliers/france-brevets) : Présentation de [France Brevets](https://www.francebrevets.com/)
 - [11 mars 2022](/ateliers/squash-tm) : Les tests fonctionnels à l'Agirc Arrco avec [Squash TM](https://sill.etalab.gouv.fr/fr/software?id=137)
 - [25 février 2022](/ateliers/eupl) : Présentation de la licence européenne publique (EUPL)
 - [11 février 2022](/ateliers/amue-verslelibre) : Présentation de l'outil VersLeLibre par l'Amue
