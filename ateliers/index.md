@@ -20,6 +20,7 @@ Les ateliers `BlueHats` sont des visioconférences de présentation d'outils lib
 
 ## Ateliers à revoir
 
+- [8 avril 2022](/ateliers/ospo-alliance-good-governance-initiative) : Présentation de l'OSPO Alliance et de la *Good Governance Initiative* lors du [conseil logiciels libres](https://man.sr.ht/~etalab/logiciels-libres/conseil-logiciels-libres.md)
 - [8 avril 2022](/ateliers/france-brevets) : Présentation de [France Brevets](https://www.francebrevets.com/)
 - [11 mars 2022](/ateliers/squash-tm) : Les tests fonctionnels à l'Agirc Arrco avec [Squash TM](https://sill.etalab.gouv.fr/fr/software?id=137)
 - [25 février 2022](/ateliers/eupl) : Présentation de la licence européenne publique (EUPL)
