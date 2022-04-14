@@ -21,7 +21,7 @@ Directeur interministériel du numérique.
 
 ## Hébergement
 
-Ce site est hébergé par OVH France, 2 rue Kellermann - 59100 Roubaix - France.
+Ce site est hébergé par OVH France, 2 rue Kellermann 59100 Roubaix, France.  Téléphone : 09 72 10 10 07
 
 ## Crédits images
 
