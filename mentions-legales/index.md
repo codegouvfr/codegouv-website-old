@@ -21,11 +21,11 @@ Directeur interministériel du numérique.
 
 ## Hébergement
 
-Ce site est hébergé par OVH France, 2 rue Kellermann - 59100 Roubaix - France.
+Ce site est hébergé par OVH France, 2 rue Kellermann 59100 Roubaix, France.  Téléphone : 09 72 10 10 07
 
 ## Crédits images
 
-- *Teamwork makes the dream work* par © Dylan Gillis, licence [Unsplash](https://unsplash.com/photos/KdeqA3aTnBY)
+- *Teamwork makes the dream work* par © Dylan Gillis, licence [Unsplash](https://unsplash.com/photos/KdeqA3aTnBY).
 
 ## Code source du site
 
@@ -33,8 +33,8 @@ Le [code source du site est disponible sur SourceHut](https://git.sr.ht/~etalab/
 
 ## Accessibilité
 
-[Voir la déclaration d'accessibilité](/accessibilité/)
+[Voir la déclaration d'accessibilité](/accessibilité/).
 
 ## Données personnelles et cookies
 
-[Voir les informations concernant les cookies utilisées sur ce site](/données-personnelles/)
+[Voir les informations concernant les cookies utilisées sur ce site](/données-personnelles/).
