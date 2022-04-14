@@ -12,27 +12,11 @@ Le site `communs.numerique.gouv.fr` est développé selon les recommandations de
 
 ## État de conformité
 
-Le site `communs.numerique.gouv.fr` est totalement conforme avec le référentiel général d’amélioration de l’accessibilité.
+Le site `communs.numerique.gouv.fr` est totalement conforme au référentiel général d’amélioration de l’accessibilité.
 
 ### Résultats des tests
 
 L’audit de conformité réalisé par [DesignGouv](https://design.numerique.gouv.fr) révèle que 100% des critères du RGAA version 4.1 sont respectés.
-
-<!-- ## Établissement de cette déclaration d’accessibilité -->
-
-<!-- Cette déclaration a été établie le 14 avril 2021. -->
-
-<!-- ### Échantillon évalué -->
-
-<!-- L’audit mené en avril 2021 par nos soins a porté sur l’échantillon suivant : -->
-
-<!-- * [Accueil](/) -->
-<!-- * [À propos](/a-propos/) -->
-<!-- * [Accessibilité](/accessibilite/) -->
-<!-- * [Mentions légales](/mentions-legales/) -->
-<!-- * [Contact](/contact/) -->
-<!-- * [Guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/) -->
-<!-- * [Fiche pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/analyse-cycle-de-vie/) -->
 
 ## Retour d’information et contact
 
