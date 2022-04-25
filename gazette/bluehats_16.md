@@ -5,18 +5,14 @@ layout: gazette
 tags: bluehats
 ---
 
-
-
 ## Actualités du pôle logiciels libres
-
 
 ### Présentation du conseil logiciels libres
 
 Le conseil d'expertise et de mobilisation logiciels libres est une instance animée par le pôle logiciels libres de la DINUM qui réunit des acteurs de l'administration publique et des acteurs de l'écosystème libre pour que tous contribuent à la réussite du [plan d'action logiciels libres et communs numériques](https://communs.numerique.gouv.fr/plan-action-logiciels-libres-et-communs-numeriques/).
 
-`>>` Retrouvez [la page du conseil](https://man.sr.ht/~etalab/logiciels-libres/conseil-logiciels-libres.md) sur le wiki du pôle logiciel libre.
-`>>` Consultez le [diaporama de présentation des acteurs du conseil](https://speakerdeck.com/bluehats/presentation-du-conseil-logiciels-libres-anime-par-la-dinum).
-
+`>>` Retrouvez [la page du conseil](https://man.sr.ht/~etalab/logiciels-libres/conseil-logiciels-libres.md) sur le wiki du pôle logiciel libre
+`>>` Consultez le [diaporama de présentation des acteurs du conseil](https://speakerdeck.com/bluehats/presentation-du-conseil-logiciels-libres-anime-par-la-dinum)
 
 ### BlueHats Semester of Code : les projets volontaires
 
@@ -27,13 +23,11 @@ Merci à tous ces porteurs de projets de proposer des idées de contributions au
 `>>` [BlueHats Semester of Code : les projets qui attendent les étudiants](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/)
 `>>` La page de [présentation générale du BSOC](https://man.sr.ht/~etalab/logiciels-libres/bluehats-semester-of-code.md) sur notre wiki
 
-
 ### Retour sur les rencontres sur les enjeux du logiciel libre dans la recherche
 
 Nous avons publié une page avec tous les livrables de ce wébinaire co-organisé par le pôle logiciels libres et le groupe de travail logiciels libres du Comité pour la science ouverte.
 
 `>>` [Rencontres sur les enjeux du logiciel libre dans la recherche](https://communs.numerique.gouv.fr/rencontres/floss-esr-2022/)
-
 
 ### Les ateliers BlueHats : ça continue !
 
@@ -55,31 +49,26 @@ Ne manquez pas les prochains ateliers :
 
 `>>` Retrouvez [toutes les informations sur les ateliers BlueHats](https://communs.numerique.gouv.fr/ateliers/)
 
-
 ### Suivez-nous sur Mastodon
 
 Nous avons ouvert un compte sur une instance Mastodon : n'hésitez pas à nous suivre !
 
 `>>` Notre compte Mastodon : <https://mastodon.social/web/@CodeGouvFr>
 
-
 ### Le pôle logiciels libres recrute un ou une apprenti(e)
 
 Nous cherchons un ou une apprenti(e) pour prendre en charge la communication et les événements organisés par le pôle logiciels libres.
 
-`>>` N'hésitez pas à partager la [fiche de poste](https://www.pass.fonction-publique.gouv.fr/offre/apprentie-chargee-de-communication-et-devenementiel).
-
+`>>` N'hésitez pas à partager la [fiche de poste](https://www.pass.fonction-publique.gouv.fr/offre/apprentie-chargee-de-communication-et-devenementiel)
 
 ## Retour sur la journée du libre éducatif
 
 Le 1er avril dernier s'est tenu la première journée du libre éducatif, un événement organisé par la région académique Auvergne-Rhône-Alpes et le ministère de l'éducation nationale, de la jeunesse et des sports.
 
-`>>` Les interventions vidéos sur [la chaîne Peertube de l'académie](https://tube.ac-lyon.fr/w/p/xamEmk16FH1Ndm8NdVnFct ).
+`>>` Les interventions vidéos sur [la chaîne Peertube de l'académie](https://tube.ac-lyon.fr/w/p/xamEmk16FH1Ndm8NdVnFct )
 `>>` Lancement du compte twitter [@LeLibreEdu](https://twitter.com/LeLibreEdu), à suivre !
 
-
 ## Focus sur&#x2026;
-
 
 ### Cartographie des communs numériques en Afrique subsaharienne
 
@@ -92,7 +81,6 @@ Pour déterminer comment mieux soutenir ces communs numériques, l'AFD lance un 
 `>>` [Cartographie des communs numériques en Afrique subsaharienne (Framaforms)](https://framaforms.org/cartographie-des-communs-numeriques-en-afrique-subsaharienne-1649010149)
 `>>` [Mapping of Digital Commons in Sub-Saharan Africa (Framaforms)](https://framaforms.org/mapping-of-digital-commons-in-sub-saharan-africa-1649269391)
 
-
 ### **Présentation du projet Esup-Pod**
 
 *Une contribution de Nicolas Can.*
@@ -102,7 +90,6 @@ En 2014, le projet [Esup-Pod](https://sill.etalab.gouv.fr/fr/software?id=210) es
 Ainsi, les différentes instances de la plateforme déployées à travers la France, plus de 46 à l'heure actuelle, ont reçu en quelques jours l'équivalent de quelques semaines voire des mois d'activité normale. La communauté s'est alors réorganisée avec la mise en place d'un comité de pilotage pour échanger sur les usages et les besoins imposés par cette période et ainsi faire évoluer la solution de gestion de vidéo.  Trois axes majeurs ont été fixés : consolider l'accessibilité, renforcer l'interopérabilité et faciliter la maintenabilité du projet. C'est pourquoi le code a été revu afin d'améliorer les différents périmètres de la plateforme comme la diffusion de vidéos et de nouvelles fonctionnalités ont été ajoutées afin de mieux s'inscrire dans l'environnement de nos établissements.
 
 `>>` Le code source d'Esup-Pod : <https://github.com/EsupPortail/Esup-Pod>
-
 
 ### Présentation de Lab&Co, un "SI recherche" libre pour les établissements de recherche
 
@@ -116,7 +103,6 @@ Lab&Co est utilisé depuis 2014 par Sorbonne Université. C'est un logiciel libr
 
 `>>` Accéder au code source: <https://github.com/abilian/labandco>
 
-
 ### Présentation de POUNT, la Plateforme Ouverte Numérique Transdisciplinaire
 
 *Une contribution de Virgile Jarrige.*
@@ -129,9 +115,7 @@ Le code a été conçu de manière à être diffusable à tout établissement et
 
 `>>` Plus d'informations : `pount@unistra.fr`
 
-
 ## Événements à venir
-
 
 ### Le 26 avril à Paris : Journée Wikimédia France sur l'open content
 
@@ -142,13 +126,11 @@ Le programme démarre à 9h et prévoit une présentation des grands enseignemen
 `>>` [Inscription à la journée du 26 avril (Framaforms)](https://framaforms.org/inscription-a-la-journee-wikimedia-culture-et-numerique-2022-1647011378)
 `>>` Présentation du [programme détaillé](https://www.wikimedia.fr/journee-wikimedia-culture-et-numerique-2022/)
 
-
 ### Du 15 au 17 juin à Montpellier : l'ADULLACT fête ses 20 ans
 
 La 8ème édition du congrès de l'ADULLACT se tiendra du mercredi 15 juin au vendredi 17 juin 2022 à Montpellier, avec le soutien de Montpellier Méditerranée Métropole.  À cette occasion, de nombreux échanges et rencontres avec des acteurs importants du Libre. Au programme, des conférences, des tables rondes et des interventions d'entreprises et d'invités d'exception, sur des thématiques actuelles telles que la frugalité numérique. Ce sera également l'occasion de célébrer notre 20ème anniversaire et de participer à la vie de l'association lors de l'Assemblée Générale annuelle.
 
 `>>` Plus d'informations : <https://adullact.org/congres> 
-
 
 ### Du 20 au 24 juin à Lille : Rencontres Scenari 2022
 
@@ -160,21 +142,17 @@ La participation d'intervenants du secteur public sera taguée #BlueHats.
 
 `>>` Plus d'informations : <https://scenari.org/rencontres2022/>
 
-
 ### Le 28 juin 2022 à Lyon : Rencontres Professionnelles du Logiciel Libre
 
 L'événement est organisé par Ploss-ra, le cluster Auvergne Rhône-Alpes du CNLL, et il aura lieu à l'hôtel de région à Lyon.
 
 `>>` Plus d'informations : <https://www.rpll.fr/>
 
-
 ### Les 8 et 9 novembre 2022 à Paris : Open Source Experience 2022
 
 `>>` Sauvez la date ! Plus d'informations : <https://www.opensource-experience.com/>
 
-
 ## Revue de Presse
-
 
 ### En Europe et à l'international
 
@@ -190,7 +168,6 @@ L'événement est organisé par Ploss-ra, le cluster Auvergne Rhône-Alpes du CN
 -   [Guida allo sviluppo e gestione di software libero](https://developers.italia.it/it/news/2022/04/05/guida-software-libero), developers.italia.it, avril 2022.
 -   [Census II of Free and Open Source Software - Application Libraries](https://www.linuxfoundation.org/tools/census-ii-of-free-and-open-source-software--application-libraries/), linuxfoundation.org.
 
-
 ### Sur le libre et l'éducation
 
 -   [Education nationale: 12 projets numériques libres](https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-numeriques-libres-39939967.htm), zdnet.fr, avril 2022.
@@ -202,7 +179,6 @@ L'événement est organisé par Ploss-ra, le cluster Auvergne Rhône-Alpes du CN
 -   ["Libre Semester of Code" (LSoC), une série de stage à effectuer à l'IRILL](https://www.irill.org/internships2022//2022/0.html), irill.org, mars 2022.
 -   [Le député Philippe Latombe plaide pour la généralisation du logiciel libre dans les lycées](https://www.nextinpact.com/lebrief/68590/le-depute-philippe-latombe-plaide-pour-generalisation-logiciel-libre-dans-lycees), nextinpact.com, mars 2022.
 -   [Annonce de la mise à disposition d'une instance BigBlueButton au CNRS](https://www.cnrs.fr/CNRS-Hebdo/IdF-sud/lettre.php?numero=617#actu17144), cnrs.fr, mars 2022.
-
 
 ### Divers
 
@@ -216,4 +192,3 @@ L'événement est organisé par Ploss-ra, le cluster Auvergne Rhône-Alpes du CN
 -   [Durabilité des logiciels libres : le programme KDE Eco donne le ton](https://www.toolinux.com/?durabilite-des-logiciels-libres-le-programme-kde-eco-donne-le-ton), mars 2022
 -   [Communs numériques : « une nouvelle forme d'action collective » ?](https://labo.societenumerique.gouv.fr/2022/03/04/la-revue-terminal-se-penche-sur-les-communs-numeriques-une-nouvelle-forme-daction-collective/), labo.societenumerique.gouv.fr, mars 2022.
 -   [La CNIL publie un guide RGPD pour les développeurs](https://www.cnil.fr/fr/la-cnil-publie-un-guide-rgpd-pour-les-developpeurs), cnil.fr, janvier 2020.
-
