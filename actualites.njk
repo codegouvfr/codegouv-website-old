@@ -1,0 +1,12 @@
+---
+layout: layouts/home.njk
+title: "Actualités"
+eleventyNavigation:
+  key: Actualités
+  order: 5
+---
+
+<h1>{{ title }}</h1>
+
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}

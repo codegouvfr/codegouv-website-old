@@ -14,19 +14,19 @@
     "url": "git://git.sr.ht/~etalab/communs.numerique.gouv.fr"
   },
   "author": {
-    "name": "Bastien Guerry",
-    "email": "bastien.guerry@data.gouv.fr"
+    "name": "Pôle logiciels libres (Etalab/DINUM)",
+    "email": "logiciels-libres@data.gouv.fr"
   },
-  "license": "Licence Ouverte Etalab v2.0",
+  "license": "etalab-2.0",
   "homepage": "https://communs.numerique.gouv.fr",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy": "^1.0.1",
     "@11ty/eleventy-navigation": "^0.3.2",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
-    "@gouvfr/dsfr": "^1.4.1",
-    "luxon": "^2.3.1",
+    "@gouvfr/dsfr": "^1.5.1",
+    "luxon": "^2.3.2",
     "markdown-it": "^12.3.2",
-    "markdown-it-anchor": "^8.5.0"
+    "markdown-it-anchor": "^8.6.2"
   }
 }
