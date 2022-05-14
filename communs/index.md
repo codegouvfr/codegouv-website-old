@@ -10,7 +10,7 @@ eleventyNavigation:
   <p>Cette page vise à valoriser les démarches de communs numériques engagées par les administrations.  Elle référence aussi des communs numériques libres et collaboratifs auxquels le secteur public contribue déjà.  Les références proposées sur cette page sont appelées à évoluer au fil du temps.</p>
 </div>
 
-### Des communs numériques déjà utilisés par dans le secteur public
+### Des communs numériques déjà utilisés dans le secteur public
 	
 On ne présente plus les projets Wikimédia, OpenStreetMap ou Open Food Facts.  Ces communs numériques libres et collaboratifs font déjà l'objet de contributions de la part de l'administration et nous vous encourageons à y contribuer.
 
