@@ -18,7 +18,7 @@ modèle](https://github.com/etalab/eleventy-dsfr/).
 
 ## Déploiement
 
-Le site est déployé en préproduction sur [communs.etalab.studio](https://communs.etalab.studio) à partir du répertoire `_site` de la branche `preproduction` et en production sur [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr) à partir du répertoire `_site` de la branche `production`.
+Le site est déployé en préproduction sur [communs.etalab.studio](https://communs.etalab.studio) et en production sur [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr).
 
 # Contributions
 
