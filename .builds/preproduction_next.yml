@@ -4,7 +4,7 @@ packages:
   - npm
   - rsync
 secrets:
-  - b2fbc53c-abc0-4d2a-b00e-15b6a2681788
+  - d8f306d1-0290-4049-8bb4-a3f47d871b75
 tasks:
   - install: |
       cd communs.numerique.gouv.fr
