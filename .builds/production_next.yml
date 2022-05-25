@@ -1,0 +1,19 @@
+image: archlinux
+packages:
+  - nodejs
+  - npm
+  - rsync
+secrets:
+  - d8f306d1-0290-4049-8bb4-a3f47d871b75
+tasks:
+  - install: |
+      cd communs.numerique.gouv.fr
+      npm install
+      npx eleventy
+  - upload: |
+      cd communs.numerique.gouv.fr
+      rsync -e "ssh -o StrictHostKeyChecking=no" -av --delete _site/ web@libre-01.infra.data.gouv.fr:/home/web/websites/communs.numerique.gouv.fr_preprod/
+triggers:
+  - action: email
+    condition: failure
+    to: bastien.guerry@data.gouv.fr
