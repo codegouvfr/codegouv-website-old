@@ -15,7 +15,7 @@ Le pôle logiciels libres et l'[incubateur de services publics numériques](http
 
 ## Quand, où et pour qui ?
 
-Cette journée BlueHats aura lieu le **1er juillet 2022 de 10h à 18h** au [lieu de la transformation publique](https://www.modernisation.gouv.fr/diffuser-linnovation-publique/le-lieu-de-la-transformation-publique), 77 avenue de Ségur, 75007 Paris (trouver [le lieu sur une carte](https://osm.org/go/0BOdStupT?node=1943846151)).
+Cette journée BlueHats aura lieu le **1er juillet 2022 de 9h30 à 17h30** au [lieu de la transformation publique](https://www.modernisation.gouv.fr/diffuser-linnovation-publique/le-lieu-de-la-transformation-publique), 77 avenue de Ségur, 75007 Paris (trouver [le lieu sur une carte](https://osm.org/go/0BOdStupT?node=1943846151)).
 
 La journée est ouverte aux agents publics (titulaires et contractuels) et aux prestataires qui travaillent pour des projets du secteur public.
 
