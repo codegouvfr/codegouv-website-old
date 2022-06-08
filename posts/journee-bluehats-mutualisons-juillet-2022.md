@@ -15,7 +15,7 @@ Le pôle logiciels libres et l'[incubateur de services publics numériques](http
 
 ## Quand, où et pour qui ?
 
-Cette journée BlueHats aura lieu le **1er juillet 2022 de 9h30 à 17h30** au [lieu de la transformation publique](https://www.modernisation.gouv.fr/diffuser-linnovation-publique/le-lieu-de-la-transformation-publique), 77 avenue de Ségur, 75007 Paris (trouver [le lieu sur une carte](https://osm.org/go/0BOdStupT?node=1943846151)).
+Cette journée BlueHats aura lieu le **1er juillet 2022 de 9h à 18h** au [lieu de la transformation publique](https://www.modernisation.gouv.fr/diffuser-linnovation-publique/le-lieu-de-la-transformation-publique), 77 avenue de Ségur, 75007 Paris (trouver [le lieu sur une carte](https://osm.org/go/0BOdStupT?node=1943846151)).
 
 La journée est ouverte aux agents publics (titulaires et contractuels) et aux prestataires qui travaillent pour des projets du secteur public.
 
@@ -26,3 +26,23 @@ La participation à cette journée est libre et gratuite, dans la limite des pla
 Pour demander à participer à cette journée, veuillez [remplir ce formulaire](https://framaforms.org/1er-juillet-2022-journee-bluehats-mutualisons-demande-de-participation-1654151829) **avant le 15 juin 23h59**.
 
 Nous vous confirmerons votre participation le 20 juin, en vous envoyant un autre formulaire pour mieux connaître vos attentes pour cette journée.
+
+## Programme indicatif
+
+- 9h Accueil et café
+- 9h30 Temps de rencontre et de présentations
+- 10h15 Inventaire des mutualisations possibles
+- 11h *Pause*
+- 11h15 Retours d’expérience de contributions réussies
+- 11h45 Échanges sur des bonnes pratiques pour permettre la contribution
+- 12h30 *Pause déjeuner*
+- 14h Échange de savoirs
+- 14h30 Ateliers sur différents projets qui pourraient être réutilisés (session 1)
+- 15h30 *Pause*
+- 16h Ateliers sur différents projets qui pourraient être réutilisés (session 2)
+- 17h Conclusion
+- 17h30 Temps informel avant départ
+
+La journée sera animée par [La dérivation](https://dérivation.fr).
+
+Pour toute question sur cet événement, n'hésitez pas à [nous écrire](mailto:logiciels-libres@data.gouv.fr).
