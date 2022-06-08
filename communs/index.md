@@ -54,6 +54,33 @@ On ne présente plus les projets Wikimédia, OpenStreetMap ou Open Food Facts.  
       </div>
     </div>
   </div>
+
+  <div class="fr-col-12 fr-col-md-4">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://fr.vikidia.org/wiki/Vikidia:Association_Vikidia" class="fr-card__link">Vikidia</a>
+	</h2>
+	<p class="fr-card__desc">
+	  Vikidia est un projet encyclopédique francophone en ligne, en wiki, destiné aux 8-13 ans comme lecteurs mais aussi comme participants.  Y contribuent des enfants, des parents, des élèves et des enseignants.  L'association Vikidia est soutenue via l'Accélérateur d'initiatives citoyennes.
+	</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="fr-col-12 fr-col-md-4">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+	<h2 class="fr-card__title">
+	  <a target="_new" href="https://www.infoclimat.fr" class="fr-card__link">Infoclimat</a>
+	</h2>
+	<p class="fr-card__desc">
+	  L’association Infoclimat produit, collecte et met à disposition des données météorologiques et climatiques.  L'association Infoclimat est soutenue via l'Accélérateur d'initiatives citoyennes.
+	</p>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 ### Des démarches de mise en commun initiées par l'administration
