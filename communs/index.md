@@ -62,7 +62,7 @@ On ne présente plus les projets Wikimédia, OpenStreetMap ou Open Food Facts.  
 	  <a target="_new" href="https://fr.vikidia.org/wiki/Vikidia:Association_Vikidia" class="fr-card__link">Vikidia</a>
 	</h2>
 	<p class="fr-card__desc">
-	  Vikidia est un projet encyclopédique francophone en ligne, en wiki, destiné aux 8-13 ans comme lecteurs mais aussi comme participants.  Y contribuent des enfants, des parents, des élèves et des enseignants.  L'association Vikidia est soutenue via l'Accélérateur d'initiatives citoyennes.
+	  Vikidia est un projet encyclopédique francophone en ligne, en wiki, destiné aux jeunes publics, comme lecteurs et comme participants.  Y contribuent des enfants, des parents, des élèves et des enseignants.  L'association Vikidia est soutenue via l'Accélérateur d'initiatives citoyennes.
 	</p>
       </div>
     </div>
