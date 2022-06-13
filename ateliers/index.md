@@ -12,11 +12,11 @@ Les ateliers `BlueHats` sont des visioconférences de présentation d'outils lib
 
 ## Ateliers à venir
 
-- 10 juin 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de GéoRivière
 - 24 juin 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation des marchés de support et d’expertise logiciels libres
 
 ## Ateliers à revoir
 
+- [10 juin 2022](/ateliers/georiviere) : Présentation de GeoRivière
 - [20 mai 2022](/ateliers/catala) : Présentation de [Catala](https://catala-lang.org)
 - [22 avril 2022](/ateliers/demarches-simplifiees) : Présentation de [Démarches simplifiées](https://github.com/betagouv/demarches-simplifiees.fr/)
 - [8 avril 2022](/ateliers/ospo-alliance-good-governance-initiative) : Présentation de l'OSPO Alliance et de la *Good Governance Initiative* lors du [conseil logiciels libres](https://man.sr.ht/~etalab/logiciels-libres/conseil-logiciels-libres.md)
