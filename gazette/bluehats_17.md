@@ -79,7 +79,7 @@ Le vendredi 24 juin, Bruno Gaschet (DGFiP) animera un atelier de "Présentation 
 
 April organise son prochain "April Camp" les 18 et 19 juin 2022. Son objectif ? Rassembler tous ceux qui le souhaitent, membre de l'association ou non, pour échanger autour des projets en cours et à venir. L'événement se déroulera en présentiel à Paris ou en distanciel. 
 
-`>>` Participez et retrouvez les détails du week-end [ici](https://pad.incubateur.net/#httpswwwaprilorgapril-camp-en-presentiel-paris-et-a-distance-18-et-19-juin-2022).
+`>>` [Participez et retrouvez les détails du week-end](https://www.april.org/april-camp-en-presentiel-paris-et-a-distance-18-et-19-juin-2022)
 
 ### Le Forum Européen Ouvert aborde la thématique des "Open Source Program Offices" le 20 juin 2022, à Toulouse
 
