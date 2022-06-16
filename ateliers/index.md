@@ -12,6 +12,7 @@ Les ateliers `BlueHats` sont des visioconférences de présentation d'outils lib
 
 ## Ateliers à venir
 
+- 8 juillet 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [Keycloakify](https://www.keycloakify.dev/)
 - 24 juin 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation des marchés de support et d’expertise logiciels libres
 
 ## Ateliers à revoir
