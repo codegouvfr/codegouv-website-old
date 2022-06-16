@@ -5,7 +5,7 @@ layout: gazette
 tags: bluehats
 ---
 
-## Focus éducation
+## Focus éducation et communs numériques
 
 ### Le Wikipédia des ressources pédagogiques
 
@@ -24,14 +24,14 @@ Le nouveau compte Twitter officiel du MENJ dédié au libre éducatif [@LeLibreE
 
 ## Focus tech : nouvel outil sphinx-lint
 
-*Merci à Julien Palard pour le partage de cette information.*
-
 Pour remercier tous ceux qui rédigent la documentation qu'on lit tous, les core-dev Python viennent de publier un nouvel outil pour les y aider : sphinx-lint.
 
 sphinx-lint est un outil de relecture de documentation, son but est de chercher des fautes de frappes ou des erreurs de syntaxe dans la structure des documents. Ses développeurs ont une attention particulière à ne pas remonter de faux positifs, rendant l'outil simple et fiable. Il à déjà permis d'améliorer la documentation de plusieurs projets libres comme Python, Pandas, Sphonx, Scipy, et quelques autres.
 
 `>>` Le code source : https://github.com/sphinx-contrib/sphinx-lint
 `>>` La page du projet : https://pypi.org/project/sphinx-lint
+
+*Merci à Julien Palard pour le partage de cette information.*
 
 ## Focus tech : La version 4.2 de PeerTube est sortie.
 
