@@ -16,7 +16,7 @@ Lors du séminaire national [Moodle](https://sill.etalab.gouv.fr/software?name=M
  
 ### Des élèves contributeurs de communs numériques
 
-Le nouveau compte Twitter officiel du MENJ dédié au libre éducatif [@LeLibreEdu](https://twitter.com/LeLibreEdu) a publié un fil d'exemples divers variés où les élèves sont en situation de contribution à des logiciels libres ou ressources libres. Parmi eux sont présentées des contributions au logiciel [Pdf4Teachers](https://pdf4teachers.org), à [Wikisource](https://fr.wikisource.org/wiki/Wikisource:Accueil), à [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil) et bien d'autres encores.
+Le nouveau compte Twitter officiel du MENJ dédié au libre éducatif [@LeLibreEdu](https://twitter.com/LeLibreEdu) a publié un fil d'exemples divers variés où les élèves sont en situation de contribution à des logiciels libres ou ressources libres. Parmi eux sont présentées des contributions au logiciel [Pdf4Teachers](https://pdf4teachers.org), à [Wikisource](https://fr.wikisource.org/wiki/Wikisource:Accueil), à [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil) et bien d'autres encore.
 
 `>>` [Le fil Twitter de @LeLibreEdu](https://twitter.com/LeLibreEdu/status/1535201467023380482)
 
