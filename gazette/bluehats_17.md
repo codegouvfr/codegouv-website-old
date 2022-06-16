@@ -130,7 +130,7 @@ L'Initiative pour la Recherche et l'Innovation sur le Logiciel Libre présente s
 
 ## Revue de presse
 
-### Côté administration
+### Côté administrations
 
 - [Le SILL et code.gouv.fr font peau neuve](https://communs.numerique.gouv.fr/posts/le-sill-et-codegouvfr-font-peau-neuve/), communs.numerique.gouv.fr, mai 2022.
 - [Découvrez FileSender, le service de référence dans la communauté Education-Recherche](https://www.renater.fr/Filesender-service-de-reference-dans-ESR), renater.fr.
@@ -138,7 +138,7 @@ L'Initiative pour la Recherche et l'Innovation sur le Logiciel Libre présente s
 - [Une « pastille » qui donne du liant aux outils de travail collaboratif des agents de l’État](https://www.numerique.gouv.fr/actualites/une-pastille-qui-donne-du-liant-aux-outils-de-travail-collaboratif-des-agents-de-letat/), numerique.gouv.fr, juin 2022.
 - [Le service information de la Commission européenne DG DIGIT ouvre son compte Mastodon](https://mastodon.social/web/@EC_DIGIT@social.network.europa.eu)
 
-### Côté écosystème
+### Côté écosystèmes
 
 - [Communs numériques - Logiciel libre et traçage - Le bogue joyeux](https://www.libreavous.org/144-communs-numeriques-logiciel-libre-et-tracage-le-bogue-joyeux), libreavous.org, mai 2022.
 - [OW2 15 Year Anniversary, June 29-30, Paris](https://www.ow2con.org/view/2022/15-year-Anniversary), ow2con.org.
@@ -150,6 +150,7 @@ L'Initiative pour la Recherche et l'Innovation sur le Logiciel Libre présente s
 
 ### Au-delà de nos frontières
 
-- ["Guide pour le développement et la gestion des logiciels libres" : Guida allo sviluppo e gestione di software libero](https://developers.italia.it/it/news/2022/04/05/guida-software-libero), developers.italia.it, avril 2022.
+- [*Guida allo sviluppo e gestione di software libero* (Guide pour le développement et la gestion des logiciels libres)](https://developers.italia.it/it/news/2022/04/05/guida-software-libero), developers.italia.it, avril 2022.
 - [Strengthening digital infrastructure: A policy agenda for free and open source software](https://www.brookings.edu/research/strengthening-digital-infrastructure-a-policy-agenda-for-free-and-open-source-software/), brookings.edu, mai 2022.
+- [Firefox 86 Introduces Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/), blog.mozilla.org, juin 2022.
 - [PostgreSQL Anonymizer 1.0: Privacy By Design For Postgres](https://www.postgresql.org/about/news/postgresql-anonymizer-10-privacy-by-design-for-postgres-2452/), postgresql.org, mai 2022.
