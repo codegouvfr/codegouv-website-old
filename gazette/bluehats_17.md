@@ -48,7 +48,7 @@ Cela implique un passage par les licences ouvertes qui permettent la constructio
 
 Pour les plus motivés, l'essai finit par les outils disponibles pour le traitement des données avec un aperçu de Python sous Jupyter.
 
-`>>` Le site du livre : http://[opendata.ricou.eu.org](opendata.ricou.eu.org)
+`>>` Le site du livre : [http://opendata.ricou.eu.org](opendata.ricou.eu.org)
 
 ## Focus article : « Logiciels libres : à la recherche du bien commun »
 
