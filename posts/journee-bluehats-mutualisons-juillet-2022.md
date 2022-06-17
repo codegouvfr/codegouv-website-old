@@ -23,9 +23,7 @@ La journée est ouverte aux agents publics (titulaires et contractuels) et aux p
 
 La participation à cette journée est libre et gratuite, dans la limite des places disponibles.
 
-Pour demander à participer à cette journée, veuillez [remplir ce formulaire](https://framaforms.org/1er-juillet-2022-journee-bluehats-mutualisons-demande-de-participation-1654151829) **avant le 15 juin 23h59**.
-
-Nous vous confirmerons votre participation le 20 juin, en vous envoyant un autre formulaire pour mieux connaître vos attentes pour cette journée.
+Pour ceux qui ont rempli le [formulaire de demande de particiption](https://framaforms.org/1er-juillet-2022-journee-bluehats-mutualisons-demande-de-participation-1654151829), nous vous confirmerons votre participation avant le 20 juin et vous enverrons un autre formulaire pour mieux connaître vos attentes pour cette journée.
 
 ## Programme indicatif
 
