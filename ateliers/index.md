@@ -16,7 +16,7 @@ Les ateliers `BlueHats` sont des visioconférences de présentation d'outils lib
 
 ## Ateliers à revoir
 
-- [24 juin 2022](/ateliers/sll.md) : Présentation des marchés de support et d’expertise logiciels libres
+- [24 juin 2022](/ateliers/sll) : Présentation des marchés de support et d’expertise logiciels libres
 - [10 juin 2022](/ateliers/georiviere) : Présentation de GeoRivière
 - [20 mai 2022](/ateliers/catala) : Présentation de [Catala](https://catala-lang.org)
 - [22 avril 2022](/ateliers/demarches-simplifiees) : Présentation de [Démarches simplifiées](https://github.com/betagouv/demarches-simplifiees.fr/)
