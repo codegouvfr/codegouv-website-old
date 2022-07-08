@@ -12,10 +12,13 @@ Les ateliers `BlueHats` sont des visioconférences de présentation d'outils lib
 
 ## Ateliers à venir
 
-- 8 juillet 2022 à 11h ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [Keycloakify](https://www.keycloakify.dev/)
+- 28 octobre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de https://github.com/TOSIT-IO/TDP
+- 30 septembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de LocoKit, un outil libre Low-code, avec le projet CaPel du Parc national de Port-Cros
+- 2 septembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Des outils pour mettre en valeur votre projet libre
 
 ## Ateliers à revoir
 
+- [8 juillet 2022](/ateliers/keycloakify) : Présentation de Keycloakify
 - [24 juin 2022](/ateliers/sll) : Présentation des marchés de support et d’expertise logiciels libres
 - [10 juin 2022](/ateliers/georiviere) : Présentation de GeoRivière
 - [20 mai 2022](/ateliers/catala) : Présentation de [Catala](https://catala-lang.org)
