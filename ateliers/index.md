@@ -1,7 +1,7 @@
 ---
 title: "Ateliers BlueHats 🧢 - Partageons nos expertises !"
 img: /img/bluehats-communaute.jpg
-layout: page
+Layout: page
 ---
 
 <div class="fr-highlight">
@@ -9,6 +9,8 @@ layout: page
 </div>
 
 Les ateliers `BlueHats` sont des visioconférences de présentation d'outils libres utilisés et/ou développés par des administrations.  Tous les ateliers sont accessibles à toutes et tous et visibles en rediffusion sur [la chaîne `BlueHats` d'Etalab](https://www.dailymotion.com/playlist/x767bq).  Retrouvez le détail des présentations sur [le dépôt consacré aux ateliers](https://github.com/blue-hats/ateliers/blob/main/ateliers.org).
+
+Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/ateliers-bluehats.ics).
 
 ## Ateliers à venir
 
