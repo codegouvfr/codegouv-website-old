@@ -20,7 +20,7 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 
 ## Ateliers à revoir
 
-- [8 juillet 2022](/ateliers/keycloakify) : Présentation de Keycloakify
+- [8 juillet 2022](/ateliers/keycloakify) : Présentation de [Keycloakify](https://www.keycloakify.dev)
 - [24 juin 2022](/ateliers/sll) : Présentation des marchés de support et d’expertise logiciels libres
 - [10 juin 2022](/ateliers/georiviere) : Présentation de GeoRivière
 - [20 mai 2022](/ateliers/catala) : Présentation de [Catala](https://catala-lang.org)
