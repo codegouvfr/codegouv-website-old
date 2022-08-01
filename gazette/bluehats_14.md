@@ -200,11 +200,11 @@ Le 14 décembre, Sabine Guillaume et Bastien Guerry, respectivement cheffe de la
 
 ### Retour sur la dernière journée BlueHats et prochains ateliers
 
-Le 9 novembre s'est tenue une journée BlueHats au salon Open Source Experience qui a fait salle comble !  Merci à tous ceux qui se sont mobilisés pour partager leurs expériences d'utilisation de logiciels libres dans l'administration.  Retrouvez [les interventions de cette journée sur cette page](https://communs.numerique.gouv.fr/mobiliser/journee-2021/).
+Le 9 novembre s'est tenue une journée BlueHats au salon Open Source Experience qui a fait salle comble !  Merci à tous ceux qui se sont mobilisés pour partager leurs expériences d'utilisation de logiciels libres dans l'administration.  Retrouvez [les interventions de cette journée sur cette page](https://communs.numerique.gouv.fr/rencontres/journee-2021/).
 
 Le prochain atelier BlueHats aura lieu le 14 janvier avec une présentation de « la stratégie Open Source externe de RTE et de sa stratégie interne avec l’initiative DevStudio, afin de permettre à tout salarié de bien développer. »
 
-`>>` Retrouvez les ateliers BlueHats passés et à venir<https://communs.numerique.gouv.fr/ateliers/>
+`>>` Retrouvez les ateliers BlueHats passés et à venir <https://communs.numerique.gouv.fr/ateliers/>
 
 
 ### JLA, le comparateur de licences libres
