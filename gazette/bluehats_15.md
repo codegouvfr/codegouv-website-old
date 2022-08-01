@@ -9,7 +9,7 @@ tags: bluehats
 
 **Vous portez un logiciel libre ?  Nous apportons un stagiaire !**
 
-Le pôle logiciels libres lance [un appel à idées](https://communs.numerique.gouv.fr/mobiliser/bluehats-semester-of-code/) auprès des administrations, des entreprises et des collectifs : jusqu'au **6 mars 23h59**, proposez votre idée de contribution à un logiciel libre que vous développez et un·e étudiant·e de CentraleSupélec la choisira peut-être en rejoignant la première promotion *BlueHats Semester of Code* pour un stage de septembre 2022 à février 2023.
+Le pôle logiciels libres lance [un appel à idées](https://communs.numerique.gouv.fr/bluehats/bluehats-semester-of-code/) auprès des administrations, des entreprises et des collectifs : jusqu'au **6 mars 23h59**, proposez votre idée de contribution à un logiciel libre que vous développez et un·e étudiant·e de CentraleSupélec la choisira peut-être en rejoignant la première promotion *BlueHats Semester of Code* pour un stage de septembre 2022 à février 2023.
 
 `>>` Rendez-vous le vendredi *18 février à 17h* sur [ce lien de visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) pour les porteurs d'idées.
 
