@@ -1,6 +1,9 @@
 ---
 title: Mobiliser via les initiatives BlueHats 🧢
 layout: page
+eleventyNavigation:
+  key: BlueHats
+  order: 25
 ---
 
 <div class="fr-grid-row fr-grid-row--gutters">
