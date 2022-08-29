@@ -14,8 +14,10 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 
 ## Ateliers à venir
 
-- 28 octobre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de https://github.com/TOSIT-IO/TDP
-- 30 septembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de LocoKit, un outil libre Low-code, avec le projet CaPel du Parc national de Port-Cros
+- 28 octobre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [TDP](https://github.com/TOSIT-IO/TDP)
+- 14 octobre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [Docusaurus](https://docusaurus.io/)
+- 30 septembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [LocoKit](https://locokit.io/), un outil libre Low-code, avec le projet CaPel du Parc national de Port-Cros
+- 16 septembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [NixOS](https://nixos.org/) et de son écosystème
 - 2 septembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Des outils pour mettre en valeur votre projet libre
 
 ## Ateliers à revoir
