@@ -2,6 +2,7 @@
 layout: layouts/base.njk
 ---
 
+{%- if not centeredLayout %}
 {% include "breadcrumb.njk" %}
 
 <h1>{{ title }}</h1>
@@ -14,24 +15,40 @@ layout: layouts/base.njk
 
     {{ content | safe }}
   </div>
+{% elif centeredLayout %}
+<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-grid-row--top">
+  <div class="fr-col-12 fr-col-md-8">
+    {%- if date %}
+      <p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time></p>
+    {% endif %}
 
+    <h1>{{ title }}</h1>
+
+    {{ content | safe }}
+  </div>
+{% endif %}
+
+  {%- if link or image or linkImage %}
   <div class="fr-col-12 fr-col-md-4">
     <div class="fr-card fr-enlarge-link">
-      {%- if link or image or linkImage %}
-	{%- if link %}
-          <div class="fr-card__body">
-            <h2 class="fr-card__title">
-              <a href="{{ link }}" class="fr-card__link">{{ linkTitle }}</a>
-            </h2>
-          </div>
-	{% endif %}
+	    {%- if link %}
+      <div class="fr-card__body">
+        <div class="fr-card__content">
+          <h2 class="fr-card__title">
+            <a href="{{ link }}" class="fr-card__link">{{ linkTitle }}</a>
+          </h2>
+        </div>
+      </div>
+	    {% endif %}
 
-	{%- if image or linkImage %}
-          <div class="fr-card__img">
-            <img src="{{ image or linkImage }}" alt="">
-          </div>
-	{% endif %}
-      {% endif %}
-    </div> 
+	    {%- if image or linkImage %}
+	    <div class="fr-card__header">
+        <div class="fr-card__img">
+          <img src="{{ image or linkImage }}" alt="">
+        </div>
+      </div>
+	    {% endif %}
+	  </div>
   </div>
+  {% endif %}
 </div>

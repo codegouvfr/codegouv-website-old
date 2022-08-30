@@ -2,7 +2,8 @@
 title: Plan d’action logiciels libres et communs numériques
 linkTitle: Plan d’action logiciels libres et communs numériques
 date: 2021-11-10
-layout: layouts/plan.njk
+layout: layouts/post.njk
+centeredLayout: true
 ---
 
 Le plan d’action « logiciels libres et communs numériques » a été conçu par le ministère de la Transformation et de la Fonction publiques à la suite de la publication de la [circulaire data](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire data - Lien externe") du Premier ministre n°6264/SG du 27 avril 2021, et vise à soutenir la transformation numérique de l’État.
@@ -18,7 +19,7 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
 1. Référencer des solutions libres et open source (dans [le catalogue GouvTech](https://catalogue.numerique.gouv.fr)).
 
 2. Référencer les logiciels libres et les communs numériques significativement utilisés par l’administration et y développer l’échange d’expertise interne (dans le [socle interministériel de logiciels libres - SILL](https://sill.etalab.gouv.fr)), en incluant ces actions :
-       
+
    - Mettre en avant des bibliothèques libres et open source significativement utilisées ;
    - Réutiliser des codes sources développés par d’autres administrations ;
    - Favoriser et accompagner la contribution de l’administration aux logiciels libres et aux communs numériques qu’elle utilise ;

@@ -2,7 +2,8 @@
 title: Marchés interministériels support et expertise à l'usage des logiciels libres
 linkTitle: Marchés interministériels support et expertise à l'usage des logiciels libres
 date: 2022-01-18
-layout: layouts/plan.njk
+layout: layouts/post.njk
+centeredLayout: true
 ---
 
 <div class="fr-highlight">
@@ -13,10 +14,10 @@ layout: layouts/plan.njk
 La Direction Générale des Finances Publiques (DGFIP) est pilote de deux marchés interministériels à l’usage des logiciels libres. Ces deux marchés ont pour objet de couvrir l’ensemble du cycle de vie d’un logiciel libre au sein du système d'information (SI) :
 
 - depuis l’identification du logiciel libre (étude de veille),
-- sa qualification dans le SI (études d’implantation), 
-- sa mise en œuvre (Assistance à la mise en œuvre et audit), 
+- sa qualification dans le SI (études d’implantation),
+- sa mise en œuvre (Assistance à la mise en œuvre et audit),
 - l’ajout de nouvelles fonctionnalités (étude d’opportunité et développement),
-- son exploitation (Assitance à l’exploitation), 
+- son exploitation (Assitance à l’exploitation),
 - l’accompagnement à la prise en main (prestation de monitorat),
 - et enfin son support en cas de problème en production.
 
@@ -44,7 +45,7 @@ La collecte des évolutions de périmètre se fait en continu, au fil des remont
 L’ouverture d’un ticket auprès du support peut être une demande d’information ou une demande de support :
 
 - Les demandes d’information concernent d'abord les logiciels libres inclus dans le périmètre du support. Ces demandes peuvent porter sur des questions d'installation, de configuration, d'optimisation ou d'exploitation. Afin d'anticiper sur le caractère évolutif du périmètre, les demandes peuvent aussi concerner des logiciels libres ou des versions non encore supportées dans le périmètre. Ainsi, une demande d’information peut porter sur la feuille de route d’un logiciel libre afin de savoir par exemple si l’incorporation d’une fonctionnalité utile pour l'Administration est prévue. Les demandes d'information extérieure au périmètre du support seront regroupées sous la rubrique « autre demande d'information ».
-  
+
   - Les demandes de support concernent exclusivement des versions de logiciels libres incluses dans le périmètre du support. Une demande de support peut relever de :
 
 	- la maintenance corrective qui exige du titulaire la correction d’un comportement défectueux par rapport :

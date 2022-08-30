@@ -4,61 +4,42 @@ layout: page
 eleventyNavigation:
   key: BlueHats
   order: 25
+initiatives:
+  - url: /gazette/
+    title: La gazette
+    description: |
+      La gazette BlueHats est une lettre d'information bimestrielle autour des logiciels libres par et pour les administrations publiques.
+  - url: /ateliers/
+    title: Les ateliers
+    description: |
+      Les ateliers BlueHats sont des visioconférences publiques consacrées à l'utilisation de logiciels libres par des administrations.
+  - url: /rencontres
+    title: Les rencontres
+    description: |
+      Les rencontres BlueHats sont des événements en présentiel où les BlueHats se retrouve pour faire connaissance et collaborer.  Ces rencontres peuvent prendre différentes formes : Sprint Open Source, journées BlueHats lors de salons, etc.
+  - url: bluehats-semester-of-code
+    title: BlueHats Semester of Code
+    description: |
+      En partenariat avec CentraleSupélec, la DINUM propose un programme de stages pour développer les contributions de l'administration à des logiciels libres.
 ---
 
 <div class="fr-grid-row fr-grid-row--gutters">
-  <div class="fr-col-12 fr-col-md-6">
-    <div class="fr-card fr-enlarge-link">
-      <div class="fr-card__body">
-	<h2 class="fr-card__title">
-	  <a href="/gazette/" class="fr-card__link">La gazette</a>
-	</h2>
-	<p class="fr-card__desc">
-	  La gazette BlueHats est une lettre d'information bimestrielle autour des logiciels libres par et pour les administrations publiques.
-	</p>
-      </div>
-    </div>
-  </div>
 
+  {% for initiative in initiatives %}
   <div class="fr-col-12 fr-col-md-6">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
-	<h2 class="fr-card__title">
-	  <a href="/ateliers/" class="fr-card__link">Les ateliers</a>
-	</h2>
-	<p class="fr-card__desc">
-	  Les ateliers BlueHats sont des visioconférences publiques consacrées à l'utilisation de logiciels libres par des administrations.
-	</p>
+        <div class="fr-card__content">
+          <h2 class="fr-card__title">
+            <a href="{{ initiative.url }}" class="fr-card__link">{{ initiative.title }}</a>
+          </h2>
+          <p class="fr-card__desc">{{ initiative.description }}</p>
+        </div>
       </div>
     </div>
   </div>
-</div>
+  {% endfor %}
 
-<div class="fr-grid-row fr-grid-row--gutters">
-  <div class="fr-col-12 fr-col-md-6">
-    <div class="fr-card fr-enlarge-link">
-      <div class="fr-card__body">
-	<h2 class="fr-card__title">
-	  <a href="/rencontres" class="fr-card__link">Les rencontres</a>
-	</h2>
-	<p class="fr-card__desc">
-	  Les rencontres BlueHats sont des événements en présentiel où les BlueHats se retrouve pour faire connaissance et collaborer.  Ces rencontres peuvent prendre différentes formes : Sprint Open Source, journées BlueHats lors de salons, etc.
-	</p>
-      </div>
-    </div>
-  </div>
-  <div class="fr-col-12 fr-col-md-6">
-    <div class="fr-card fr-enlarge-link">
-      <div class="fr-card__body">
-	<h2 class="fr-card__title">
-	  <a href="bluehats-semester-of-code" class="fr-card__link">BlueHats Semester of Code</a>
-	</h2>
-	<p class="fr-card__desc">
-	  En partenariat avec CentraleSupélec, la DINUM propose un programme de stages pour développer les contributions de l'administration à des logiciels libres.
-	</p>
-      </div>
-    </div>
-  </div>
 </div>
 
 <div class="fr-grid-row fr-grid-row--gutters">

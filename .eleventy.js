@@ -17,7 +17,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
   eleventyConfig.addLayoutAlias("gazette", "layouts/gazette.njk");
   eleventyConfig.addLayoutAlias("page", "layouts/page.njk");
-  
+
   eleventyConfig.addFilter('markdown', value => {
     return markdown.render(value);
   })
@@ -45,7 +45,7 @@ module.exports = function(eleventyConfig) {
         }
       }
     }
-  
+
     return pages.sort(function(a, b) {
       return (a.order || 0) - (b.order || 0);
     }).map(function(entry) {
@@ -65,8 +65,13 @@ module.exports = function(eleventyConfig) {
     'img': 'img',
     'css': 'css',
     'js': 'js',
-    'fonts': 'fonts',
-    'favicon': 'favicon'
+    'favicon': 'favicon',
+    'node_modules/@gouvfr/dsfr/dist/dsfr.min.css': 'css/dsfr.min.css',
+    'node_modules/@gouvfr/dsfr/dist/fonts': 'css/fonts',
+    'node_modules/@gouvfr/dsfr/dist/icons': 'css/icons',
+    'node_modules/@gouvfr/dsfr/dist/utility': 'css/utility',
+    'node_modules/@gouvfr/dsfr/dist/dsfr.module.min.js': 'js/dsfr.module.min.js',
+    'node_modules/@gouvfr/dsfr/dist/dsfr.nomodule.min.js': 'js/dsfr.nomodule.min.js'
   });
 
   /* Markdown Overrides */
@@ -75,7 +80,7 @@ module.exports = function(eleventyConfig) {
     breaks: true,
     linkify: true
   });
-  eleventyConfig.setLibrary("md", markdownLibrary);
+  eleventyConfig.setLibrary("md", markdownLibrary.disable('code'));
 
   // Browsersync Overrides
   eleventyConfig.setBrowserSyncConfig({
