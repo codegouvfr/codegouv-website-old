@@ -1,6 +1,6 @@
 ---
 title: Gazette BlueHats 🧢 n°18
-date: 2022-08-29
+date: 2022-08-31
 layout: gazette
 tags: bluehats
 ---
