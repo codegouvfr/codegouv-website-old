@@ -65,13 +65,14 @@ module.exports = function(eleventyConfig) {
     'img': 'img',
     'css': 'css',
     'js': 'js',
-    'favicon': 'favicon',
-    'node_modules/@gouvfr/dsfr/dist/dsfr.min.css': 'css/dsfr.min.css',
-    'node_modules/@gouvfr/dsfr/dist/fonts': 'css/fonts',
-    'node_modules/@gouvfr/dsfr/dist/icons': 'css/icons',
-    'node_modules/@gouvfr/dsfr/dist/utility': 'css/utility',
+    'favicons': 'favicons',
+    'node_modules/@gouvfr/dsfr/dist/fonts': 'fonts',
+    'node_modules/@gouvfr/dsfr/dist/icons': 'icons',
+    'node_modules/@gouvfr/dsfr/dist/dsfr.min.css': 'dsfr.min.css',
+    'node_modules/@gouvfr/dsfr/dist/utility/utility.min.css': 'utility.min.css',
     'node_modules/@gouvfr/dsfr/dist/dsfr.module.min.js': 'js/dsfr.module.min.js',
-    'node_modules/@gouvfr/dsfr/dist/dsfr.nomodule.min.js': 'js/dsfr.nomodule.min.js'
+    'node_modules/@gouvfr/dsfr/dist/dsfr.nomodule.min.js': 'js/dsfr.nomodule.min.js',
+    'node_modules/@gouvfr/dsfr/dist/artwork': 'img/artwork'
   });
 
   /* Markdown Overrides */
