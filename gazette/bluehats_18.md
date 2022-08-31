@@ -156,6 +156,7 @@ SaveThe Date : l’annonce des résultats aura lieu lors d’une cérémonie de 
 Alexis Kauffmann, chef de projet logiciels et ressources éducatives libres et mixité dans les filières du numérique au ministère de l'éducation nationale, sera l'invité de l'émission [Libre à vous !](https://www.libreavous.org) le 6 septembre à de 15h30 à 17h, une émission produite par l'association [April](https://april.org/) et diffusée sur la radio [Cause Commune](https://cause-commune.fm), fréquence FM 93.1.
 
 `>>` [Le site de l'émission Libre à vous !](https://www.libreavous.org)
+`>>` [Un article de zdnet.fr donnant plus de contexte sur le recrutement d'Alexis Kauffmann](https://www.zdnet.fr/blogs/l-esprit-libre/libre-educatif-alexis-kauffmann-fondateur-de-framasoft-rejoint-la-direction-du-numerique-a-l-education-nationale-39928555.htm)
 
 ## Call for Papers: IEEE Software Special Issue on Open Source Software in the Public Sector
 
