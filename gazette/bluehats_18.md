@@ -5,7 +5,7 @@ layout: gazette
 tags: bluehats
 ---
 
-## Prochain ateliers #BlueHats le 2 septembre 2022 à 11h
+## Prochain ateliers #BlueHats le 2 septembre 2022
 
 Un beau programme d'ateliers en perspective !
 
@@ -19,7 +19,7 @@ Un beau programme d'ateliers en perspective !
 
 `>>` [Toutes les informations sur les ateliers BlueHats](https://communs.numerique.gouv.fr/ateliers/)
 
-## Autour du socle interministériel de logiciels libres (SILL)
+## Autour du socle interministériel de logiciels libres
 
 En juillet dernier, nous avons partagé via [Mastodon](https://mastodon.social/web/@CodeGouvFr/108684058331200603) et [via Twitter](https://twitter.com/codegouvfr/status/1549732039808749571) quelques nouvelles du [SILL](https://sill.etalab.gouv.fr/), mentionnant quelques logiciels libres parmi ceux qui ont intégré le catalogue depuis la refonte en mai.
 
@@ -46,13 +46,9 @@ Vos retours sur `code.gouv.fr` sont toujours les bienvenus par mail [privé](log
 
 ## Arrivée d'Hélène Jonin au pôle logiciels libres
 
-Le pôle logiciels libres d'Etalab à la DINUM accueille Hélène Jonin,
-développeuse et ancienne [Entrepreneuse d'intérêt
-général](https://eig.etalab.gouv.fr/personnes/helene-jonin/).
+Le pôle logiciels libres d'Etalab à la DINUM accueille Hélène Jonin, développeuse et ancienne [Entrepreneuse d'intérêt général](https://eig.etalab.gouv.fr/personnes/helene-jonin/).
 
-Chargée de mission communautés et contributions, elle accompagnera les
-projets publics passant au libre et au collaboratif et elle s'attachera
-à valoriser les contributions des administrations à des projets libres.
+Chargée de mission communautés et contributions, elle accompagnera les projets publics passant au libre et au collaboratif et elle s'attachera à valoriser les contributions des administrations à des projets libres.
 
 Bienvenue Hélène !
 
@@ -61,16 +57,11 @@ Bienvenue Hélène !
 
 ## Journée BlueHats au salon Open Source Experience le 8 novembre 2022
 
-La DINUM était présente en 2018, 2019 et 2021 : nous serons ravis de
-vous accueillir de nouveau cette année le 8 novembre 2022 au salon
-[Open Source Experience](https://www.opensource-experience.com/) pour
-une journée entière dédiée aux retours d'expérience d'administrations
-publiques utilisant ou développant des solutions libres.
+La DINUM était présente en 2018, 2019 et 2021 : nous serons ravis de vous accueillir de nouveau cette année le 8 novembre 2022 au salon [Open Source Experience](https://www.opensource-experience.com/) pour une journée entière dédiée aux retours d'expérience d'administrations publiques utilisant ou développant des solutions libres.
 
 `>>` [Notre participation aux éditions précédentes](https://communs.numerique.gouv.fr/rencontres/)
 
-Open Source Experience (OSXP) 2022 aura lieu les 8 et 9 novembre au
-Paris Palais des Congrès (17ème).
+Open Source Experience (OSXP) 2022 aura lieu les 8 et 9 novembre au Paris Palais des Congrès (17ème).
 
 `>>` [www.opensource-experience.com/](https://www.opensource-experience.com)
 
@@ -78,13 +69,9 @@ Paris Palais des Congrès (17ème).
 
 *NDLR: Cette note reprend le communiqué de la page donnée en deuxième lien ci-dessous.*
 
-Au terme d'un processus d'élaboration collective entamé fin 2021, le
-ministère de la Culture a validé, dans la séance du Comité des
-responsables numériques du 2 juin 2022, la première version de sa
-Politique pour les codes sources, algorithmes et logiciels libres.
+Au terme d'un processus d'élaboration collective entamé fin 2021, le ministère de la Culture a validé, dans la séance du Comité des responsables numériques du 2 juin 2022, la première version de sa Politique pour les codes sources, algorithmes et logiciels libres.
 
-Ce document décrit, dans le cadre juridique applicable à
-l'administration :
+Ce document décrit, dans le cadre juridique applicable à l'administration :
 
 - le contexte des développements logiciels et production de code dans l'administration publique ;
 - les bonnes pratiques de publication de codes (forges de dépôt, licences associées, signalement dans les catalogues collectifs publics et documentation) ;
@@ -98,134 +85,61 @@ l'administration :
 
 *Une contribution de Sébastien Lorber, mainteneur de Docusaurus.*
 
-Docusaurus est un outil développé par [Meta Open
-Source](https://opensource.fb.com/) (Facebook) pour créer rapidement
-des sites de documentation.
+Docusaurus est un outil développé par [Meta Open Source](https://opensource.fb.com/) (Facebook) pour créer rapidement des sites de documentation.
 
-Il s'agit d'un générateur de site statique sous license MIT, basé sur
-React, et avec des opinions fortes.
+Il s'agit d'un générateur de site statique sous license MIT, basé sur React, et avec des opinions fortes.
 
-L'idée est de déployer sa documentation le plus rapidement possible,
-sans avoir à assembler une stack technique, et de voir plus tard pour
-la personnalisation.
+L'idée est de déployer sa documentation le plus rapidement possible, sans avoir à assembler une stack technique, et de voir plus tard pour la personnalisation.
 
-Il permet de se concentrer sur l'essentiel: l'écriture du contenu en
-Markdown. Il reste cependant puissant et flexible, capable de
-respecter votre image de marque.
+Il permet de se concentrer sur l'essentiel: l'écriture du contenu en Markdown. Il reste cependant puissant et flexible, capable de respecter votre image de marque.
 
-Après quatre ans de développement, la version 2.0 est sortie
-officiellement, la beta étant déjà largement utilisée en production
-(voir [la galerie](https://docusaurus.io/showcase)).
+Après quatre ans de développement, la version 2.0 est sortie officiellement, la beta étant déjà largement utilisée en production (voir [la galerie](https://docusaurus.io/showcase)).
 
-Quelques exemples : [Figma](https://www.figma.com/plugin-docs/),
-[Snapchat](https://docs.snap.com/),
-[React-Native](https://reactnative.dev/), [Jest](https://jestjs.io/),
-[Supabase](https://supabase.com/docs),
-[Ionic](https://ionicframework.com/docs), et etc.
+Quelques exemples : [Figma](https://www.figma.com/plugin-docs/), [Snapchat](https://docs.snap.com/), [React-Native](https://reactnative.dev/), [Jest](https://jestjs.io/), [Supabase](https://supabase.com/docs), [Ionic](https://ionicframework.com/docs), et etc.
 
 - Le [code source](https://github.com/facebook/docusaurus)
 - Le [site du projet](https://docusaurus.io)
 - [L'annonce de cette nouvelle version 2.0](https://slorber-blog-post--docusaurus-2.netlify.app/blog/2022/08/01/announcing-docusaurus-2.0) (lien a updater avant publication)
 
-### Call for Papers: IEEE Software Special Issue on Open Source Software in the Public Sector
-
-Important Dates
-Submissions Due: 1 December 2022
-Publication: July/August 2023
-
-Open Source Software (OSS) is today recognized as a pivotal building
-block in our common digital infrastructure. A vast majority of
-today’s software contains OSS, and the dependency on it in companies’
-codebases has grown considerably in recent years. Within public
-sector organizations, however, the adoption of OSS has thus far been
-rather limited in comparison, yet is on the rise. A number of factors
-are driving public sector demand for OSS. Recent studies show [...]
-
-
 ## Focus tech : Scribe, un transcripteur Audio/Vidéo en Texte
 
 *Une contribution de Laurent Costy.*
 
-Transcrire, c’est transformer des vidéos et des fichiers audio en
-texte avec d’éventuels ajouts d’illustrations ou de liens vers des
-sites jugés pertinents.  Les textes sont ainsi rendus accessibles aux
-personnes porteuses de handicap.  Ces transcriptions sont repérées
-puis indexées par les moteurs de recherche et il est possible de
-retrouver les propos exacts d’un·e intervenant·e·s par exemple.  Une
-possibilité est donnée de préférer lire un contenu, à son rythme,
-plutôt que d’être contraint de regarder une vidéo ou d’écouter un
-podcast.
+Transcrire, c’est transformer des vidéos et des fichiers audio en texte avec d’éventuels ajouts d’illustrations ou de liens vers des sites jugés pertinents.  Les textes sont ainsi rendus accessibles aux personnes porteuses de handicap.  Ces transcriptions sont repérées puis indexées par les moteurs de recherche et il est possible de retrouver les propos exacts d’un·e intervenant·e·s par exemple.  Une possibilité est donnée de préférer lire un contenu, à son rythme, plutôt que d’être contraint de regarder une vidéo ou d’écouter un podcast.
 
-Et quand le podcast ou la vidéo n’a pas été transcrite ?
+Et quand le podcast ou la vidéo n’a pas été transcrite ?  Vous pouvez utiliser une solution originale, issue de la culture numérique libre : [Scribe](https://scribe.cemea.org/).
 
-Vous pouvez utiliser une solution originale, issue de la culture
-numérique libre : [Scribe](https://scribe.cemea.org/).
-
-En 20181 et 20192, Pascal Gascoin, responsable de la mission Libre
-Éducation Nouvelle au Ceméa, présentait et appelait à participer au
-projet [Common Voice](https://commonvoice.mozilla.org/fr) initié par
-la fondation Mozilla.  Le but est de rendre la reconnaissance vocale
-ouverte et accessible à tout le monde en faisant contribuer chacun·e.
-Même si la collecte de sons et l’écoute par les utilisateurs et les
-utilisatrices n’a pas encore complètement abouti par rapport aux
-objectifs que la Fondation s’est donnée, la matière est déjà mise à
+En 20181 et 20192, Pascal Gascoin, responsable de la mission Libre Éducation Nouvelle au Ceméa, présentait et appelait à participer au projet [Common Voice](https://commonvoice.mozilla.org/fr) initié par la fondation Mozilla.  Le but est de rendre la reconnaissance vocale ouverte et accessible à tout le monde en faisant contribuer chacun·e.  Même si la collecte de sons et l’écoute par les utilisateurs et les utilisatrices n’a pas encore complètement abouti par rapport aux objectifs que la Fondation s’est donnée, la matière est déjà mise à
 disposition et montre sa pertinence.  
 
-En agrégeant diverses briques de logiciels libres et la base de
-données produite jusqu’à ce jour avec le projet Common Voice, François
-Audirac et Guillaume Dupuy, respectivement responsable des Systèmes
-d'Information et administrateur réseaux et systèmes à l’association
-nationale des Ceméa, ont développé un outil automatique de
+En agrégeant diverses briques de logiciels libres et la base de données produite jusqu’à ce jour avec le projet Common Voice, François Audirac et Guillaume Dupuy, respectivement responsable des Systèmes d'Information et administrateur réseaux et systèmes à l’association nationale des Ceméa, ont développé un outil automatique de
 transcription: https://scribe.cemea.org.  
 
-Vous choisissez un fichier audio ou vidéo à transcrire, vous
-communiquez votre adresse mail (qui ne servira que pour cet échange)
-et, après quelques minutes, vous recevez dans votre boîte mail un lien
-vers la transcription ! Là où les communs numériques montrent toute
-leur force, c’est quand un autre libriste que le projet intéressait,
-en l’occurrence Stéphane Poinsart (contributeur du projet Scenari), a
-contribué à son tour pour améliorer Scribe et ajouter, au bénéfice de
-toutes et tous, une fonction proposant un début de ponctuation.
+Vous choisissez un fichier audio ou vidéo à transcrire, vous communiquez votre adresse mail (qui ne servira que pour cet échange) et, après quelques minutes, vous recevez dans votre boîte mail un lien vers la transcription ! Là où les communs numériques montrent toute leur force, c’est quand un autre libriste que le projet intéressait, en l’occurrence Stéphane Poinsart (contributeur du projet Scenari), a contribué à son tour pour améliorer Scribe et ajouter, au bénéfice de toutes et tous, une fonction proposant un début de ponctuation.
 
-Scribe est un logiciel libre qui illustre par l’exemple toute la
-pertinence des communs numériques !
+Scribe est un logiciel libre qui illustre par l’exemple toute la pertinence des communs numériques !
 
 ## Création du « prix du service public engagé » des acteursdulibre.com
 
-Acteurs du Libre 2022 est lancé !  Organisé en partenariat avec Open
-Source Experience, ce concours vise à récompenser des entreprises ou
-projets communautaires pour leurs contributions au développement de
-l’open source. 
+Acteurs du Libre 2022 est lancé !  Organisé en partenariat avec Open Source Experience, ce concours vise à récompenser des entreprises ou projets communautaires pour leurs contributions au développement de l’open source.
 
-Deux nouvelles catégories cette année: le prix du service public
-engagé et le prix européen.  Les prix seront remis lors de la journée
-d’ouverture d’Open Source Experience. Candidatures ouvertes jusqu’au
-11 septembre.
+Deux nouvelles catégories cette année: le prix du service public engagé et le prix européen.  Les prix seront remis lors de la journée d’ouverture d’Open Source Experience. Candidatures ouvertes jusqu’au 11 septembre.
 
 `>>` [En savoir plus sur ce prix du service public engagé](https://lesacteursdulibre.com/portfolio/prix-du-service-public-engage/)
 
 ## Une nouvelle lettre d'information « DSI libre »
 
-Après le succès de la gazette BlueHats (déjà 2200 inscrits), le pôle
-logiciels libres prépare une nouvelle lettre d'information « DSI
-libre » : elle s'adressera spécifiquement aux DSI de l'administration
-et les informera des progrès du logiciel libre dans le secteur public.
+Après le succès de la gazette BlueHats (déjà 2200 inscrits), le pôle logiciels libres prépare une nouvelle lettre d'information « DSI libre » : elle s'adressera spécifiquement aux DSI de l'administration et les informera des progrès du logiciel libre dans le secteur public.
 
-Vous êtes DSI et souhaitez partager avec nous les questions que vous
-vous posez sur le logiciel libre et open source ?  Envoyez-nous un
-mail [dès aujourd'hui](mailto:logiciels-libres@data.gouv.fr).
+Vous êtes DSI et souhaitez partager avec nous les questions que vous vous posez sur le logiciel libre et open source ?  Envoyez-nous un mail [dès aujourd'hui](mailto:logiciels-libres@data.gouv.fr).
 
 `>>` [Vous inscrire à la lettre « DSI Libre »](https://infolettres.etalab.gouv.fr/subscribe/logiciels-libres-dsi@mail.etalab.studio)
 
 ## Invitation à la gazette numérique de l'Etat
 
-La nouvelle lettre d'information de la DINUM offre un condensé
-d'actualité sur le numérique de l'État.  Elle s'adresse à tous les
-agents du numérique dans les ministères et leurs opérateurs.
+La nouvelle lettre d'information de la DINUM offre un condensé d'actualité sur le numérique de l'État.  Elle s'adresse à tous les agents du numérique dans les ministères et leurs opérateurs.
 
-Son objectif est d'apporter une vision interministérielle du numérique
-pour partager et mutualiser les savoirs, développer une communauté
-« tech » et impulser de nouveaux projets.
+Son objectif est d'apporter une vision interministérielle du numérique pour partager et mutualiser les savoirs, développer une communauté « tech » et impulser de nouveaux projets.
 
 `>>` [Abonnez-vous](https://981c5932.sibforms.com/serve/MUIEAFmM8r4orgk4I6sDsozOo015Ke-10quWdH5YTg7PqVltWrV4Umw2QCY4J9GzAKy-QVmClahVUndx5O1uTRl8G1CggabfxY4sow7fjpSDpzCpLyBwv00RChX9I45Pt2AiMBHYvuPzpTSK0W4Il4ZGNXWLk9RtGZxgUUuWFeBsRoNAezFLiVZex8a8ycvQQjVHsDVtMYCkUMwj) (réservée aux agents du numérique de l'État)
 
@@ -233,21 +147,23 @@ pour partager et mutualiser les savoirs, développer une communauté
 
 ## Territoires numériques du libre 2022
 
-SaveThe Date : l’annonce des résultats aura lieu lors d’une cérémonie
-de remise des labels, mardi 8 novembre 2022 à 17h, en présence des
-membres du jury et des représentants des collectivités candidates.
+SaveThe Date : l’annonce des résultats aura lieu lors d’une cérémonie de remise des labels, mardi 8 novembre 2022 à 17h, en présence des membres du jury et des représentants des collectivités candidates.
 
 `>>` [Tout savoir sur l'édition 2022](https://territoire-numerique-libre.org/edition-2022/)
 
 ## À écouter : Alexis Kauffmann invité de libreavous.org le 6 septembre 2022
 
-Alexis Kauffmann, chef de projet logiciels et ressources éducatives
-libres et mixité dans les filières du numérique au ministère de
-l'éducation nationale, sera l'invité de l'émission [Libre à
-vous !](https://www.libreavous.org) le 6 septembre à de 15h30 à 17h,
-une émission produite par l'association [April](https://april.org/) et
-diffusée sur la radio [Cause Commune](https://cause-commune.fm),
-fréquence FM 93.1.
+Alexis Kauffmann, chef de projet logiciels et ressources éducatives libres et mixité dans les filières du numérique au ministère de l'éducation nationale, sera l'invité de l'émission [Libre à vous !](https://www.libreavous.org) le 6 septembre à de 15h30 à 17h, une émission produite par l'association [April](https://april.org/) et diffusée sur la radio [Cause Commune](https://cause-commune.fm), fréquence FM 93.1.
+
+`>>` [Le site de l'émission Libre à vous !](https://www.libreavous.org)
+
+## Call for Papers: IEEE Software Special Issue on Open Source Software in the Public Sector
+
+*Open Source Software (OSS) is today recognized as a pivotal building block in our common digital infrastructure. A vast majority of today’s software contains OSS, and the dependency on it in companies’ codebases has grown considerably in recent years. Within public sector organizations, however, the adoption of OSS has thus far been rather limited in comparison, yet is on the rise.*
+
+L'appel à contribution est ouvert jusqu'au 1er décembre 2022.
+
+`>>` [L'appel à contribution dans son intégralité](https://listserv.acm.org/scripts/wa-acmlpx.exe?A2=SEWORLD;b876f775.2208)
 
 ## Revue de presse
 
