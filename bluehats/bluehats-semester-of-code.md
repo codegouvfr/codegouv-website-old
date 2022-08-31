@@ -14,7 +14,7 @@ layout: page
     <div class="fr-grid-row">
       <div class="fr-col-12">
 	<button class="fr-btn fr-btn--secondary">
-	  <a href="https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/">Découvrez les projets sélectionnés !</a>
+	  <a href="/bluehats/bsoc-contributions-2022/">Découvrez les projets sélectionnés !</a>
 	</button>
       </div>
     </div>
