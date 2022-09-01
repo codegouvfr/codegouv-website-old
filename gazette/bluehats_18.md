@@ -100,7 +100,7 @@ Quelques exemples : [Figma](https://www.figma.com/plugin-docs/), [Snapchat](htt
 
 - Le [code source](https://github.com/facebook/docusaurus)
 - Le [site du projet](https://docusaurus.io)
-- [L'annonce de cette nouvelle version 2.0](https://slorber-blog-post--docusaurus-2.netlify.app/blog/2022/08/01/announcing-docusaurus-2.0) (lien a updater avant publication)
+- [L'annonce de cette nouvelle version 2.0](https://docusaurus.io/fr/blog/2022/08/01/announcing-docusaurus-2.0)
 
 ## Focus tech : Scribe, un transcripteur Audio/Vidéo en Texte
 
