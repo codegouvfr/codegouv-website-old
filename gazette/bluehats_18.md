@@ -5,7 +5,7 @@ layout: gazette
 tags: bluehats
 ---
 
-## Prochain ateliers #BlueHats le 2 septembre 2022
+## Prochain atelier #BlueHats le 2 septembre 2022
 
 Un beau programme d'ateliers en perspective !
 
@@ -25,7 +25,7 @@ En juillet dernier, nous avons partagé via [Mastodon](https://mastodon.social/w
 
 Voici quelques articles qui ont repris cette information :
 
-- [Le référentiel de logiciels libres de l'Etat, SILL, publie sa version 2022](https://www.lemondeinformatique.fr/actualites/lire-le-referentiel-de-logiciels-libres-de-l-etat-sill-publie-sa-version-2022-87619.html), lemondeinformatique.fr, août 2022
+- [Le référentiel de logiciels libres de l'Etat, le SILL, publie sa version 2022](https://www.lemondeinformatique.fr/actualites/lire-le-referentiel-de-logiciels-libres-de-l-etat-sill-publie-sa-version-2022-87619.html), lemondeinformatique.fr, août 2022
 - [Quels sont les logiciels libres que l’État conseille en 2022 ?](https://www.numerama.com/tech/1068894-quels-sont-les-logiciels-libres-que-letat-conseille-en-2022.html), numerama.com, août 2022
 - [L'Etat publie la version 2022 du SILL, son référentiel de logiciels libres](https://www.cio-online.com/actualites/lire-l-etat-publie-la-version-2022-du-sill-son-referentiel-de-logiciels-libres-14405.html), cio-online.com, août 2022
 - [Logiciels libres recommandés par l’État : la liste officielle](https://www.blogdumoderateur.com/logiciels-libres-recommandes-etat-liste-officielle/), blogdumoderateur.com, août 2022
@@ -53,6 +53,7 @@ Chargée de mission communautés et contributions, elle accompagnera les projets
 Bienvenue Hélène !
 
 `>>` [L'annonce de son recrutement sur Twitter](https://twitter.com/codegouvfr/status/1564283706906497025)
+
 `>>` [L'annonce de son recrutement sur Mastodon](https://mastodon.social/web/@CodeGouvFr/108907021541552747)
 
 ## Journée BlueHats au salon Open Source Experience le 8 novembre 2022
@@ -61,7 +62,7 @@ La DINUM était présente en 2018, 2019 et 2021 : nous serons ravis de vous acc
 
 `>>` [Notre participation aux éditions précédentes](https://communs.numerique.gouv.fr/rencontres/)
 
-Open Source Experience (OSXP) 2022 aura lieu les 8 et 9 novembre au Paris Palais des Congrès (17ème).
+Open Source Experience (OSXP) 2022 aura lieu les 8 et 9 novembre au Palais des Congrès à Paris (17ème).
 
 `>>` [www.opensource-experience.com/](https://www.opensource-experience.com)
 
@@ -69,12 +70,12 @@ Open Source Experience (OSXP) 2022 aura lieu les 8 et 9 novembre au Paris Palais
 
 *NDLR: Cette note reprend le communiqué de la page donnée en deuxième lien ci-dessous.*
 
-Au terme d'un processus d'élaboration collective entamé fin 2021, le ministère de la Culture a validé, dans la séance du Comité des responsables numériques du 2 juin 2022, la première version de sa Politique pour les codes sources, algorithmes et logiciels libres.
+Au terme d'un processus d'élaboration collective entamé fin 2021, le ministère de la Culture a validé, dans la séance du Comité des responsables numériques du 2 juin 2022, la première version de sa Politique pour les Codes sources, Algorithmes et Logiciels Libres.
 
 Ce document décrit, dans le cadre juridique applicable à l'administration :
 
 - le contexte des développements logiciels et production de code dans l'administration publique ;
-- les bonnes pratiques de publication de codes (forges de dépôt, licences associées, signalement dans les catalogues collectifs publics et documentation) ;
+- les bonnes pratiques de publication de code (forges de dépôt, licences associées, signalement dans les catalogues collectifs publics et documentation) ;
 - les principes et bonnes pratiques d'usage des logiciels libres et des algorithmes (notamment ceux utilisant des technologies dites d'apprentissage machine ou d'intelligence artificielle, qu'ils soient utilisés pour une prise de décision individuelle fondée sur un traitement algorithmique ou non).
 
 `>>` [L'annonce de cette publication](https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres)
@@ -91,11 +92,11 @@ Il s'agit d'un générateur de site statique sous license MIT, basé sur React, 
 
 L'idée est de déployer sa documentation le plus rapidement possible, sans avoir à assembler une stack technique, et de voir plus tard pour la personnalisation.
 
-Il permet de se concentrer sur l'essentiel: l'écriture du contenu en Markdown. Il reste cependant puissant et flexible, capable de respecter votre image de marque.
+Il permet de se concentrer sur l'essentiel : l'écriture du contenu en Markdown. Il reste cependant puissant et flexible, capable de respecter votre image de marque.
 
 Après quatre ans de développement, la version 2.0 est sortie officiellement, la beta étant déjà largement utilisée en production (voir [la galerie](https://docusaurus.io/showcase)).
 
-Quelques exemples : [Figma](https://www.figma.com/plugin-docs/), [Snapchat](https://docs.snap.com/), [React-Native](https://reactnative.dev/), [Jest](https://jestjs.io/), [Supabase](https://supabase.com/docs), [Ionic](https://ionicframework.com/docs), et etc.
+Quelques exemples : [Figma](https://www.figma.com/plugin-docs/), [Snapchat](https://docs.snap.com/), [React-Native](https://reactnative.dev/), [Jest](https://jestjs.io/), [Supabase](https://supabase.com/docs), [Ionic](https://ionicframework.com/docs), etc.
 
 - Le [code source](https://github.com/facebook/docusaurus)
 - Le [site du projet](https://docusaurus.io)
@@ -105,15 +106,15 @@ Quelques exemples : [Figma](https://www.figma.com/plugin-docs/), [Snapchat](htt
 
 *Une contribution de Laurent Costy.*
 
-Transcrire, c’est transformer des vidéos et des fichiers audio en texte avec d’éventuels ajouts d’illustrations ou de liens vers des sites jugés pertinents.  Les textes sont ainsi rendus accessibles aux personnes porteuses de handicap.  Ces transcriptions sont repérées puis indexées par les moteurs de recherche et il est possible de retrouver les propos exacts d’un·e intervenant·e·s par exemple.  Une possibilité est donnée de préférer lire un contenu, à son rythme, plutôt que d’être contraint de regarder une vidéo ou d’écouter un podcast.
+Transcrire, c’est transformer des vidéos et des fichiers audio en texte avec d’éventuels ajouts d’illustrations ou de liens vers des sites jugés pertinents.  Les textes sont ainsi rendus accessibles aux personnes porteuses de handicap.  Ces transcriptions sont repérées puis indexées par les moteurs de recherche et il est possible de retrouver les propos exacts d’un·e intervenant·e par exemple.  Une possibilité est donnée de préférer lire un contenu, à son rythme, plutôt que d’être contraint de regarder une vidéo ou d’écouter un podcast.
 
 Et quand le podcast ou la vidéo n’a pas été transcrite ?  Vous pouvez utiliser une solution originale, issue de la culture numérique libre : [Scribe](https://scribe.cemea.org/).
 
-En 20181 et 20192, Pascal Gascoin, responsable de la mission Libre Éducation Nouvelle au Ceméa, présentait et appelait à participer au projet [Common Voice](https://commonvoice.mozilla.org/fr) initié par la fondation Mozilla.  Le but est de rendre la reconnaissance vocale ouverte et accessible à tout le monde en faisant contribuer chacun·e.  Même si la collecte de sons et l’écoute par les utilisateurs et les utilisatrices n’a pas encore complètement abouti par rapport aux objectifs que la Fondation s’est donnée, la matière est déjà mise à
-disposition et montre sa pertinence.  
+En 2018 et 2019, Pascal Gascoin, responsable de la mission Libre Éducation Nouvelle au Ceméa, présentait et appelait à participer au projet [Common Voice](https://commonvoice.mozilla.org/fr) initié par la fondation Mozilla.  Le but est de rendre la reconnaissance vocale ouverte et accessible à tout le monde en faisant contribuer chacun·e.  Même si la collecte de sons et l’écoute par les utilisateurs et les utilisatrices n’a pas encore complètement abouti par rapport aux objectifs que la Fondation s’est donnée, la matière est déjà mise à
+disposition et montre sa pertinence.
 
 En agrégeant diverses briques de logiciels libres et la base de données produite jusqu’à ce jour avec le projet Common Voice, François Audirac et Guillaume Dupuy, respectivement responsable des Systèmes d'Information et administrateur réseaux et systèmes à l’association nationale des Ceméa, ont développé un outil automatique de
-transcription: https://scribe.cemea.org.  
+transcription: https://scribe.cemea.org.
 
 Vous choisissez un fichier audio ou vidéo à transcrire, vous communiquez votre adresse mail (qui ne servira que pour cet échange) et, après quelques minutes, vous recevez dans votre boîte mail un lien vers la transcription ! Là où les communs numériques montrent toute leur force, c’est quand un autre libriste que le projet intéressait, en l’occurrence Stéphane Poinsart (contributeur du projet Scenari), a contribué à son tour pour améliorer Scribe et ajouter, au bénéfice de toutes et tous, une fonction proposant un début de ponctuation.
 
@@ -153,9 +154,10 @@ Sauvez la date : l’annonce des résultats aura lieu lors d’une cérémonie 
 
 ## À écouter : Alexis Kauffmann invité de libreavous.org le 6 septembre 2022
 
-Alexis Kauffmann, chef de projet logiciels et ressources éducatives libres et mixité dans les filières du numérique au ministère de l'éducation nationale, sera l'invité de l'émission [Libre à vous !](https://www.libreavous.org) le 6 septembre à de 15h30 à 17h, une émission produite par l'association [April](https://april.org/) et diffusée sur la radio [Cause Commune](https://cause-commune.fm), fréquence FM 93.1.
+Alexis Kauffmann, chef de projet logiciels et ressources éducatives libres et mixité dans les filières du numérique au ministère de l'éducation nationale, sera l'invité de l'émission [Libre à vous !](https://www.libreavous.org) le 6 septembre de 15h30 à 17h, une émission produite par l'association [April](https://april.org/) et diffusée sur la radio [Cause Commune](https://cause-commune.fm), fréquence FM 93.1.
 
 `>>` [Le site de l'émission Libre à vous !](https://www.libreavous.org)
+
 `>>` [Un article de zdnet.fr donnant plus de contexte sur le recrutement d'Alexis Kauffmann](https://www.zdnet.fr/blogs/l-esprit-libre/libre-educatif-alexis-kauffmann-fondateur-de-framasoft-rejoint-la-direction-du-numerique-a-l-education-nationale-39928555.htm)
 
 ## Call for Papers: IEEE Software Special Issue on Open Source Software in the Public Sector
@@ -182,7 +184,7 @@ L'appel à contribution est ouvert jusqu'au 1er décembre 2022.
 - [La Ville de Lyon abandonne Microsoft pour le logiciel libre](https://tribunedelyon.fr/economie/la-ville-de-lyon-abandonne-microsoft-pour-le-logiciel-libre/), tribunedelyon.fr, juillet 2022.
 - [Informatique : la Ville de Lyon veut troquer la suite Office de Microsoft pour des logiciels gratuits](https://www.lyonmag.com/article/124375/informatique-la-ville-de-lyon-veut-troquer-la-suite-office-de-microsoft-pour-des-logiciels-gratuits), lyonmag.com, juillet 2022.
 - [Libre et open source express: Lyon, collectivités, SFC contre GitHub, prothèse par imprimante 3D](https://www.zdnet.fr/blogs/l-esprit-libre/libre-et-open-source-express-lyon-collectivites-sfc-contre-github-prothese-par-imprimante-3d-39945380.htm), zdnet.fr, juillet 2022.
-- [Comment adopter les logiciels libres dans les collectivités locales](https://www.cio-online.com/actualites/lire-comment-adopter-les-logiciels-libres-dans-les-collectivites-locales-14284.html), cio-online.com, juin 2022. 
+- [Comment adopter les logiciels libres dans les collectivités locales](https://www.cio-online.com/actualites/lire-comment-adopter-les-logiciels-libres-dans-les-collectivites-locales-14284.html), cio-online.com, juin 2022.
 - [Collectivités locales et logiciel libre: l’Adullact a vingt ans](https://www.zdnet.fr/blogs/l-esprit-libre/collectivites-locales-et-logiciel-libre-l-adullact-a-vingt-ans-39943526.htm?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1655677647), zdnet.fr, juin 2022.
 - [L'Adullact fête ses vingt ans de services numériques aux collectivités locales](https://www.cio-online.com/actualites/lire-l-adullact-fete-ses-vingt-ans-de-services-numeriques-aux-collectivites-locales-14269.html), cio-online.com, juin 2022.
 - [La transition des collectivités vers le logiciel libre, lente mais inéluctable ?](https://www.lemonde.fr/pixels/article/2022/06/18/la-transition-des-collectivites-vers-le-logiciel-libre-lente-mais-ineluctable_6130924_4408996.html), lemonde.fr, juin 2022.
@@ -192,7 +194,7 @@ L'appel à contribution est ouvert jusqu'au 1er décembre 2022.
 ### Communs numériques
 
 - [Les communs numériques](https://www.lemonde.fr/blog/binaire/page-les-communs-numeriques/), lemonde.fr.
-- [L’Europe veut promouvoir les communs numériques ](https://www.zdnet.fr/blogs/l-esprit-libre/l-europe-veut-promouvoir-les-communs-numeriques-39943762.htm), zdnet.fr, juin 2022. 
+- [L’Europe veut promouvoir les communs numériques ](https://www.zdnet.fr/blogs/l-esprit-libre/l-europe-veut-promouvoir-les-communs-numeriques-39943762.htm), zdnet.fr, juin 2022.
 
 ### Généralités
 
