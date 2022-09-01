@@ -8,7 +8,9 @@ layout: page
   <p>Vous souhaitez proposer un atelier <code>BlueHats</code> 🧢 ?  <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a></p>
 </div>
 
-Les ateliers `BlueHats` sont des visioconférences de présentation d'outils libres utilisés et/ou développés par des administrations.  Tous les ateliers sont accessibles à toutes et tous et visibles en rediffusion sur [la chaîne `BlueHats` d'Etalab](https://www.dailymotion.com/playlist/x767bq).  Retrouvez le détail des présentations sur [le dépôt consacré aux ateliers](https://github.com/blue-hats/ateliers/blob/main/ateliers.org).
+Les ateliers `BlueHats` sont des visioconférences ou des agents publics présentent des logiciels libres qu'ils utilisent ou développent.  Ils se tiennent un ou deux vendredi par mois de 11h à 12h30.
+
+Tout le monde peut y accéder en ligne via [ce lien](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b).  Ils sont aussi visibles en rediffusion sur [la chaîne `BlueHats` d'Etalab](https://www.dailymotion.com/playlist/x767bq).
 
 Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/ateliers-bluehats.ics).
 
