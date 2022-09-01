@@ -28,9 +28,9 @@ Voici quelques articles qui ont repris cette information :
 - [Le référentiel de logiciels libres de l'Etat, SILL, publie sa version 2022](https://www.lemondeinformatique.fr/actualites/lire-le-referentiel-de-logiciels-libres-de-l-etat-sill-publie-sa-version-2022-87619.html), lemondeinformatique.fr, août 2022
 - [Quels sont les logiciels libres que l’État conseille en 2022 ?](https://www.numerama.com/tech/1068894-quels-sont-les-logiciels-libres-que-letat-conseille-en-2022.html), numerama.com, août 2022
 - [L'Etat publie la version 2022 du SILL, son référentiel de logiciels libres](https://www.cio-online.com/actualites/lire-l-etat-publie-la-version-2022-du-sill-son-referentiel-de-logiciels-libres-14405.html), cio-online.com, août 2022
-- [Logiciels libres recommandés par l’État : la liste officielle](https://www.blogdumoderateur.com/logiciels-libres-recommandes-etat-liste-officielle/), blogdumoderateur.com, août 2022
+- [Logiciels libres recommandés par l’État : la liste officielle](https://www.blogdumoderateur.com/logiciels-libres-recommandes-etat-liste-officielle/), blogdumoderateur.com, août 2022
 - [L’État publie la liste officielle des logiciels libres recommandés](https://www.solutions-numeriques.com/letat-publie-la-liste-officielle-des-logiciels-libres-recommandes/), solutions-numeriques.com, août 2022
-- [Logiciels libres : les nouveaux venus au SILL 2.0](https://www.silicon.fr/logiciels-libres-nouveaux-venus-sill-444409.html), silicon.fr, juillet 2022.
+- [Logiciels libres : les nouveaux venus au SILL 2.0](https://www.silicon.fr/logiciels-libres-nouveaux-venus-sill-444409.html), silicon.fr, juillet 2022.
 
 `>>` [La page de documentation du SILL](https://man.sr.ht/~etalab/logiciels-libres/sill.md)
 
@@ -73,8 +73,8 @@ Au terme d'un processus d'élaboration collective entamé fin 2021, le ministèr
 
 Ce document décrit, dans le cadre juridique applicable à l'administration :
 
-- le contexte des développements logiciels et production de code dans l'administration publique ;
-- les bonnes pratiques de publication de codes (forges de dépôt, licences associées, signalement dans les catalogues collectifs publics et documentation) ;
+- le contexte des développements logiciels et production de code dans l'administration publique ;
+- les bonnes pratiques de publication de codes (forges de dépôt, licences associées, signalement dans les catalogues collectifs publics et documentation) ;
 - les principes et bonnes pratiques d'usage des logiciels libres et des algorithmes (notamment ceux utilisant des technologies dites d'apprentissage machine ou d'intelligence artificielle, qu'ils soient utilisés pour une prise de décision individuelle fondée sur un traitement algorithmique ou non).
 
 `>>` [L'annonce de cette publication](https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres)
@@ -107,7 +107,7 @@ Quelques exemples : [Figma](https://www.figma.com/plugin-docs/), [Snapchat](htt
 
 Transcrire, c’est transformer des vidéos et des fichiers audio en texte avec d’éventuels ajouts d’illustrations ou de liens vers des sites jugés pertinents.  Les textes sont ainsi rendus accessibles aux personnes porteuses de handicap.  Ces transcriptions sont repérées puis indexées par les moteurs de recherche et il est possible de retrouver les propos exacts d’un·e intervenant·e·s par exemple.  Une possibilité est donnée de préférer lire un contenu, à son rythme, plutôt que d’être contraint de regarder une vidéo ou d’écouter un podcast.
 
-Et quand le podcast ou la vidéo n’a pas été transcrite ?  Vous pouvez utiliser une solution originale, issue de la culture numérique libre : [Scribe](https://scribe.cemea.org/).
+Et quand le podcast ou la vidéo n’a pas été transcrite ?  Vous pouvez utiliser une solution originale, issue de la culture numérique libre : [Scribe](https://scribe.cemea.org/).
 
 En 20181 et 20192, Pascal Gascoin, responsable de la mission Libre Éducation Nouvelle au Ceméa, présentait et appelait à participer au projet [Common Voice](https://commonvoice.mozilla.org/fr) initié par la fondation Mozilla.  Le but est de rendre la reconnaissance vocale ouverte et accessible à tout le monde en faisant contribuer chacun·e.  Même si la collecte de sons et l’écoute par les utilisateurs et les utilisatrices n’a pas encore complètement abouti par rapport aux objectifs que la Fondation s’est donnée, la matière est déjà mise à
 disposition et montre sa pertinence.  
@@ -147,7 +147,7 @@ Son objectif est d'apporter une vision interministérielle du numérique pour pa
 
 ## Territoires numériques du libre 2022
 
-SaveThe Date : l’annonce des résultats aura lieu lors d’une cérémonie de remise des labels, mardi 8 novembre 2022 à 17h, en présence des membres du jury et des représentants des collectivités candidates.
+Sauvez la date : l’annonce des résultats aura lieu lors d’une cérémonie de remise des labels, mardi 8 novembre 2022 à 17h, en présence des membres du jury et des représentants des collectivités candidates.
 
 `>>` [Tout savoir sur l'édition 2022](https://territoire-numerique-libre.org/edition-2022/)
 
@@ -170,7 +170,7 @@ L'appel à contribution est ouvert jusqu'au 1er décembre 2022.
 
 ### Éducation, recherche
 
-- [Le fonctionnement d’un projet de logiciel libre : Scikit-learn](https://www.lemonde.fr/blog/binaire/2022/04/15/le-fonctionnement-dun-projet-de-logiciel-libre-scikit-learn/), lemonde.fr, avril 2022.
+- [Le fonctionnement d’un projet de logiciel libre : Scikit-learn](https://www.lemonde.fr/blog/binaire/2022/04/15/le-fonctionnement-dun-projet-de-logiciel-libre-scikit-learn/), lemonde.fr, avril 2022.
 - [Clôture de la Journée du Libre Éducatif 2022](https://wiki.april.org/w/Cl%C3%B4ture_de_la_Journ%C3%A9e_du_Libre_%C3%89ducatif_2022), wiki.april.org, avril 2022.
 - [L'IUT Bordeaux Montaigne se dote d'un site sobre, accessible et sécurisé](https://www.osuny.org/actualites/2022/07/06/l-iut-bordeaux-montaigne-se-dote-d-un-site-sobre-accessible-et-securise/), osuny.org, juillet 2022.
 - [Logiciels libres au lycée: retour d’expérience](http://maths-code.fr/cours/2022/06/28/logiciel-libre-au-lycee-retour-dexperience/), maths-code.fr, juin 2022.
@@ -180,7 +180,7 @@ L'appel à contribution est ouvert jusqu'au 1er décembre 2022.
 ### Collectivités
 
 - [La Ville de Lyon abandonne Microsoft pour le logiciel libre](https://tribunedelyon.fr/economie/la-ville-de-lyon-abandonne-microsoft-pour-le-logiciel-libre/), tribunedelyon.fr, juillet 2022.
-- [Informatique : la Ville de Lyon veut troquer la suite Office de Microsoft pour des logiciels gratuits](https://www.lyonmag.com/article/124375/informatique-la-ville-de-lyon-veut-troquer-la-suite-office-de-microsoft-pour-des-logiciels-gratuits), lyonmag.com, juillet 2022.
+- [Informatique : la Ville de Lyon veut troquer la suite Office de Microsoft pour des logiciels gratuits](https://www.lyonmag.com/article/124375/informatique-la-ville-de-lyon-veut-troquer-la-suite-office-de-microsoft-pour-des-logiciels-gratuits), lyonmag.com, juillet 2022.
 - [Libre et open source express: Lyon, collectivités, SFC contre GitHub, prothèse par imprimante 3D](https://www.zdnet.fr/blogs/l-esprit-libre/libre-et-open-source-express-lyon-collectivites-sfc-contre-github-prothese-par-imprimante-3d-39945380.htm), zdnet.fr, juillet 2022.
 - [Comment adopter les logiciels libres dans les collectivités locales](https://www.cio-online.com/actualites/lire-comment-adopter-les-logiciels-libres-dans-les-collectivites-locales-14284.html), cio-online.com, juin 2022. 
 - [Collectivités locales et logiciel libre: l’Adullact a vingt ans](https://www.zdnet.fr/blogs/l-esprit-libre/collectivites-locales-et-logiciel-libre-l-adullact-a-vingt-ans-39943526.htm?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1655677647), zdnet.fr, juin 2022.
@@ -197,7 +197,7 @@ L'appel à contribution est ouvert jusqu'au 1er décembre 2022.
 ### Généralités
 
 - [Quand le logiciel libère des géants du numérique](https://acteurspublics.fr/articles/quand-le-logiciel-libere-des-geants-du-numerique), acteurspublics.fr, juillet 2022.
-- [Ne travailler qu’avec des logiciels libres au quotidien : on a testé. Pourquoi ne les utilise-t-on pas plus ?](https://www.rtbf.be/article/ne-travailler-qu-avec-des-logiciels-libres-au-quotidien-on-a-teste-pourquoi-ne-les-utilise-t-on-pas-plus-11027997), rtbf.be, juin 2022.
+- [Ne travailler qu’avec des logiciels libres au quotidien : on a testé. Pourquoi ne les utilise-t-on pas plus ?](https://www.rtbf.be/article/ne-travailler-qu-avec-des-logiciels-libres-au-quotidien-on-a-teste-pourquoi-ne-les-utilise-t-on-pas-plus-11027997), rtbf.be, juin 2022.
 - [Comment PostgreSQL Anonymizer aide les entreprises à se conformer au RGPD ](https://www.zdnet.fr/actualites/comment-postgresql-anonymizer-aide-les-entreprises-a-se-conformer-au-rgpd-39943894.htm), zdnet.fr, juin 2022.
 
 ### In english
