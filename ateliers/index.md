@@ -16,17 +16,17 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 
 ## Ateliers à venir
 
-- 9 décembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [PMB](https://www.wikidata.org/wiki/Q3359740) (2/2)
+- 16 septembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [NixOS](https://nixos.org/) et de son écosystème ([détails](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#16-septembre--pr%C3%A9sentation-de-nixos-et-son-%C3%A9cosyst%C3%A8me))
+- 30 septembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [LocoKit](https://locokit.io/), un outil libre Low-code, avec le projet CaPel du Parc national de Port-Cros ([détails](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#30-septembre--pr%C3%A9sentation-du-logiciel-libre-locokit-%C3%A0-travers-la-plate-forme-capel))
+- 14 octobre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [Docusaurus](https://docusaurus.io/) ([détails](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#14-octobre--pr%C3%A9sentation-de-docusaurus))
+- 28 octobre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [TDP](https://github.com/TOSIT-IO/TDP) ([détails](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#28-octobre--pr%C3%A9sentation-de-tdp))
 - 25 novembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [PMB](https://www.wikidata.org/wiki/Q3359740) (1/2)
-- 28 octobre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [TDP](https://github.com/TOSIT-IO/TDP)
-- 14 octobre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [Docusaurus](https://docusaurus.io/)
-- 30 septembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [LocoKit](https://locokit.io/), un outil libre Low-code, avec le projet CaPel du Parc national de Port-Cros
-- 16 septembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [NixOS](https://nixos.org/) et de son écosystème
-- 2 septembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Des outils pour mettre en valeur votre projet libre
+- 9 décembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [PMB](https://www.wikidata.org/wiki/Q3359740) (2/2)
+- 6 janvier 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [inseca](https://github.com/DGAC/inseca) (DGAC) ([détails](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#6-janvier--pr%C3%A9sentation-de-httpsgithubcomdgacinseca))
 
 ## Ateliers à revoir
 
-- [8 juillet 2022](/ateliers/keycloakify) : Présentation de [Keycloakify](https://www.keycloakify.dev)
+- [2 septembre 2022](/ateliers/promouvoir-votre-projet-libre) : Promouvoir votre projet libre
 - [24 juin 2022](/ateliers/sll) : Présentation des marchés de support et d’expertise logiciels libres
 - [10 juin 2022](/ateliers/georiviere) : Présentation de GeoRivière
 - [20 mai 2022](/ateliers/catala) : Présentation de [Catala](https://catala-lang.org)
