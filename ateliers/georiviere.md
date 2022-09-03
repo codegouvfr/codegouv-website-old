@@ -5,7 +5,7 @@ layout: page
 tags: bluehats
 ---
 
-Interventions de Thomas Magnin-Feysot, chargé de mission SIG/Informatique/Evaluation, Parc naturel régional du Haut-Jura et Emmanuelle Helly, développeuse Python/Django/Geotrek/GeoRivière (Makina Corpus).
+*Interventions de Thomas Magnin-Feysot, chargé de mission SIG/Informatique/Evaluation, Parc naturel régional du Haut-Jura et Emmanuelle Helly, développeuse Python/Django/Geotrek/GeoRivière (Makina Corpus).*
 
 Dans le cadre de l’exercice de la GEMAPI (GEstion des Milieux Aquatiques et Préventions des Inondations) sur son territoire, le Parc naturel régional du haut-Jura a fait développer en partenariat avec Makina Corpus l’outil GeoRivière visant à organiser les données et à accompagner les techniciens dans leurs tâches courantes de gestion et de suivi des cours d'eau.
 
