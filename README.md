@@ -43,3 +43,6 @@ Le contenu rédactionnel du site est une publication DINUM, 20 avenue de Ségur,
 
 Les codes sources de ce dépôt sont publiés sous [licence
 MIT](LICENSES/LICENSE.MIT.md).
+
+### Media
+- [Blank_man_placeholder.svg](img/bsoc2022/Blank_man_placeholder.svg) par [AntoFran](https://commons.wikimedia.org/wiki/User:AntoFran) sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0>).
