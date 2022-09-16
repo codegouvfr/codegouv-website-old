@@ -5,7 +5,7 @@ layout: page
 tags: bluehats
 ---
 
-*Intervention de [Ryan Lahfa](https://ryan.lahfa.xyz/), développeur libriste.
+*Intervention de [Ryan Lahfa](https://ryan.lahfa.xyz/), développeur libriste.*
 
 [NixOS](https://nixos.org) est une distribution Linux particulière, derrière cette distribution, il existe un écosystème développé depuis 2003.
 Culminant à la thèse de Nix en 2006, le gestionnaire de paquets (de la même nature que \`apt-get\` ou \`rpm\`), central dans l'écosystème.
