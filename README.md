@@ -1,6 +1,6 @@
 [![Software License](https://img.shields.io/badge/Licence-MIT%2C%20Licence%20Ouverte-orange.svg?style=flat-square)](https://git.sr.ht/~etalab/communs.numerique.gouv.fr/tree/main/item/LICENSES)
 
-**Attention**: le dépôt source est [git.sr.ht/~etalab/communs.numerique.gouv.fr](https://git.sr.ht/~etalab/communs.numerique.gouv.fr), la version [github.com/etalab/communs.numerique.gouv.fr](https://github.com/etalab/communs.numerique.gouv.fr) ne doit pas être utilisée pour les développements.
+**Attention**: le dépôt source est [git.sr.ht/~etalab/communs.numerique.gouv.fr](https://git.sr.ht/~etalab/communs.numerique.gouv.fr), la version [github.com/codegouvfr/communs.numerique.gouv.fr](https://github.com/codegouvfr/communs.numerique.gouv.fr) ne doit pas être utilisée pour les développements.
 
 # Site communs.numerique.gouv.fr
 
