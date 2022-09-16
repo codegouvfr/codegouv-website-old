@@ -25,7 +25,7 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 
 ## Ateliers à revoir
 
-- [16 septembre 2022](/ateliers/nixos.md) : Présentation de [NixOS](https://nixos.org/) et de son écosystème
+- [16 septembre 2022](/ateliers/nixos) : Présentation de [NixOS](https://nixos.org/) et de son écosystème
 - [2 septembre 2022](/ateliers/promouvoir-votre-projet-libre) : Promouvoir votre projet libre
 - [24 juin 2022](/ateliers/sll) : Présentation des marchés de support et d’expertise logiciels libres
 - [10 juin 2022](/ateliers/georiviere) : Présentation de GeoRivière
