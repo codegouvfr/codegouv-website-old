@@ -17,6 +17,8 @@ Dans tous ces cas, ces codes publics sont réutilisables par tous : comment fai
 
 Toutes ces questions étaient au cœur de la [rencontre BlueHats](/posts/journee-bluehats-mutualisons-juillet-2022) organisée par le pôle logiciels libres d'Etalab le 1er juillet 2022 et à laquelle ont participé une quarantaine d'agents publics venus de nombreux ministères.
 
+Le pôle logiciels libres d'Etalab a récemment accueilli dans son équipe Hélène Jonin, développeuse et ancienne [Entrepreneuse d'intérêt général](https://eig.etalab.gouv.fr/personnes/helene-jonin/) pour le [programme VITAM](https://www.programmevitam.fr/), chargée de communautés et de contribution, qui travaillera justement à faire de la question du libre un levier de mutualisation dans l'administration.
+
 <img src="/img/posts/photo-tri.jpg" alt="Les participants trient leurs idées" />
 <br/>
 
