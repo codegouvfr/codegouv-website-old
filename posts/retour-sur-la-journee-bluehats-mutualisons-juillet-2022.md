@@ -15,7 +15,7 @@ C'est parfois l'explication des algorithmes publics qui l'exige (voir [ce guide]
 
 Dans tous ces cas, ces codes publics sont réutilisables par tous : comment faire pour que l'administration les réutilise elle-même à bon escient ? Une administration peut-elle contribuer au code source d'une autre ? Comment faciliter les contributions de citoyens volontaires ? Comment créer des communautés d'agents publics autour de communs logiciels libres ? Comment, enfin, amorcer des projets impliquant plusieurs acteurs publics dès la première ligne de code ?
 
-Toutes ces questions étaient au cœur de la rencontre organisée par le pôle logiciels libres d'Etalab le 1er juillet 2022 et à laquelle ont participé une quarantaine d'agents publics venus de nombreux ministères.
+Toutes ces questions étaient au cœur de la [rencontre BlueHats](/posts/journee-bluehats-mutualisons-juillet-2022) organisée par le pôle logiciels libres d'Etalab le 1er juillet 2022 et à laquelle ont participé une quarantaine d'agents publics venus de nombreux ministères.
 
 <img src="/img/posts/photo-tri.jpg" alt="Les participants trient leurs idées" />
 <br/>
