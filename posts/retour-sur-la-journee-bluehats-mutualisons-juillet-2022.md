@@ -1,7 +1,7 @@
 ---
 title: Retour sur la journée BlueHats « Mutualisons ! » du 1er juillet 2022
 description: "Comment faire de la publication des codes sources un levier de mutualisation entre administrations ?"
-date: 2022-09-16
+date: 2022-09-19
 image: /img/posts/bluehats-07-2022.jpg
 layout: post
 tags: bluehats
