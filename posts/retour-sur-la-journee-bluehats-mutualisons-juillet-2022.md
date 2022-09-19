@@ -8,7 +8,7 @@ tags: bluehats
 eleventyExcludeFromCollections: true
 ---
 
-`>>` **Nous vous invitons à télécharger et explorer le [compte-rendu de la journée (PDF de 7.5Mo)](/img/compte-rendu-journee-bluehats-mutualisons-1er-juillet-2022-version-1.0.pdf) qui fourmilles de retours d'expérience, de réflexions et de perspectives.**
+`>>` **Nous vous invitons à télécharger et explorer le [compte-rendu de la journée (PDF de 7.5Mo)](/img/compte-rendu-journee-bluehats-mutualisons-1er-juillet-2022-version-1.0.pdf) qui fourmille de retours d'expérience, de réflexions et de perspectives.**
 
 Le site [code.gouv.fr](https://code.gouv.fr) recense à ce jour plus de 12000 dépôts de codes sources publiés par des organismes publics.  7000 viennent de l'enseignement supérieur et de la recherche.  Restent 5000 dépôts publiés par des ministères, des opérateurs de l'état, des collectivités : pourquoi des administrations publient-elles sous licence libre ces programmes qu'elles développent ou font développer ?
 
@@ -17,6 +17,8 @@ C'est parfois l'explication des algorithmes publics qui l'exige (voir [ce guide]
 Dans tous ces cas, ces codes publics sont réutilisables par tous : comment faire pour que l'administration les réutilise elle-même à bon escient ? Une administration peut-elle contribuer au code source d'une autre ? Comment faciliter les contributions de citoyens volontaires ? Comment créer des communautés d'agents publics autour de communs logiciels libres ? Comment, enfin, amorcer des projets impliquant plusieurs acteurs publics dès la première ligne de code ?
 
 Toutes ces questions étaient au cœur de la [rencontre BlueHats](/posts/journee-bluehats-mutualisons-juillet-2022) organisée par le pôle logiciels libres d'Etalab le 1er juillet 2022 et à laquelle ont participé une quarantaine d'agents publics venus de nombreux ministères.
+
+Le pôle logiciels libres d'Etalab a récemment accueilli dans son équipe Hélène Jonin, développeuse et ancienne [Entrepreneuse d'intérêt général](https://eig.etalab.gouv.fr/personnes/helene-jonin/) pour le [programme VITAM](https://www.programmevitam.fr/), chargée de communautés et de contribution, qui travaillera justement à faire de la question du libre un levier de mutualisation dans l'administration.
 
 <img src="/img/posts/photo-tri.jpg" alt="Les participants trient leurs idées" />
 <br/>
