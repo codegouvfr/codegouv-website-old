@@ -5,7 +5,6 @@ date: 2022-09-19
 image: /img/posts/bluehats-07-2022.jpg
 layout: post
 tags: bluehats
-eleventyExcludeFromCollections: true
 ---
 
 `>>` **Nous vous invitons à télécharger et explorer le [compte-rendu de la journée (PDF de 7.5Mo)](/img/compte-rendu-journee-bluehats-mutualisons-1er-juillet-2022-version-1.0.pdf) qui fourmille de retours d'expérience, de réflexions et de perspectives.**
