@@ -7,7 +7,7 @@ layout: post
 tags: bluehats
 ---
 
-## Le programme BlueHats Semester of Code 🧢
+## Le programme BlueHats Semester of Code 🧢
 
 Comment rendre l'administration publique plus attractive auprès des futurs talents de la tech ?
 
@@ -28,13 +28,13 @@ Cette année, six étudiants se sont portés volontaires pour un stage de six mo
 - **e-Combox**, un outil de déploiement d'applications « métier » à des fins pédagogiques.
 - **Onyxia**, un logiciel de plateforme de traitement de données basé sur la containerisation.
 
-Les trois premiers nous ont paru critiques pour l'intérêt général, les trois derniers sont financés sur fonds publics.
+Les trois premiers nous ont paru critiques pour l'intérêt général, les trois derniers sont financés sur fonds publics.  Nos courageux étudiants sont Antoine, Amine, Dimitri, Gabriel, Sarah et Yann.  Oui : une année où nous ne sommes pas parvenus à mobiliser assez de candidatures féminines, un point auquel nous sommes attentifs pour la suite du programme.
 
 <button class="fr-btn fr-btn--secondary">
   <a href="/bluehats/bsoc-promotion-2022/">Découvrez la nouvelle promotion !</a>
 </button>
 
-## Contribuer, ça s'apprend
+## Contribuer, ça s'apprend.
 
 Ce programme *BlueHats Semester of Code* part d'un constat : contribuer à des projets libres ou *open source*, ça s'apprend.  Et on apprend mieux quand on a la chance d'être mentoré par des mainteneurs qui s'y connaissent et qui prennent du temps pour cela, via des échanges en personne.
 
