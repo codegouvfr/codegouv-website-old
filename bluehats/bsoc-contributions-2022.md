@@ -1,5 +1,5 @@
 ---
-title: "BlueHats Semester of Code : les projets qui vous attendent"
+title: "BlueHats Semester of Code : les projets qui se sont proposés"
 layout: page
 contributions:
   - url: https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/jabref.md
@@ -203,6 +203,7 @@ contributions:
       Contribuez à Esup-Pod : plateforme opensource de gestion de vidéo pour l'éducation nationale, l'enseignement supérieur et la recherche.
     imgSrc: /img/bsoc2022/esup-pod.png
 ---
+Vous pouvez aussi [découvrir la nouvelle promotion](/bluehats/bsoc-promotion-2022/).
 
 <div class="fr-grid-row fr-grid-row--gutters">
 
