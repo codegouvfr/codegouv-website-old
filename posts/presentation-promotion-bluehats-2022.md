@@ -13,16 +13,16 @@ Comment rendre l'administration publique plus attractive auprès des futurs tale
 
 En montrant les efforts qu'elle fait pour contribuer au mouvement du logiciel libre.  Ces efforts vont de l'utilisation renforcée de solutions libres (cf. le [socle interministériel de logiciels libres](https://sill.etalab.gouv.fr/)) à la publication plus systématique des codes sources (cf. [code.gouv.fr](https://code.gouv.fr/)) en passant par la contribution aux projets existants.
 
-C'est la vocation du programme **BlueHats Semester of Code** : accompagner des étudiantes et étudiants pour les aider à contribuer à des projets libres, projets qui se sont [proposés](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/) de les mentorer pendant six mois.
+C'est la vocation du programme **BlueHats Semester of Code** : accompagner des étudiantes et étudiants pour les aider à contribuer à des projets libres, projets qui se sont [proposés](/bluehats/bsoc-contributions-2022/) de les mentorer pendant six mois.
 
 Ce programme est conçu et mis en oeuvre via un partenariat entre la [DINUM](https://www.numerique.gouv.fr) et l'[école CentraleSupélec](https://www.centralesupelec.fr/), qui met des moyens pour l'encadrement pédagogique des étudiants.
 
 ## Bienvenue à la 1ère promotion !
 
-Cette année, six étudiants se sont portés volontaires pour un stage de six mois pendant leur année de césure, entre la deuxième et troisième année.  Ils contribueront à ces six projets :
+Cette année, six étudiants se sont lancés dans ce stage de six mois pendant leur année de césure, entre la deuxième et troisième année.  Ils contribueront à ces six projets :
 
 - **VideoLAN**, le célèbre lecteur multimédia gratuit et libre.
-- **Open Food Facts**, la base de données sur les produits alimentaires faite par tout le monde, pour tout le monde.
+- **Open Food Facts**, la base de données sur les produits alimentaires construite par tout le monde, pour tout le monde.
 - **Environmental Sensing**, un projet pour fournir des outils facilitant le traitement et le partage d'informations environnementales.
 - **Sysma**, un logiciel créé par l'Etablissement Public Territorial du Bassin de la Sèvre Nantaise pour le suivi de l'état des cours d'eau.
 - **e-Combox**, un outil de déploiement d'applications « métier » à des fins pédagogiques.
