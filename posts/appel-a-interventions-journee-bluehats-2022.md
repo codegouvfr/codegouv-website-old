@@ -22,6 +22,7 @@ Un exemple de logiciel libre que vous utilisez dans votre administration ?  Un 
   propositions d'interventions d'ici le 17 octobre 23h59 via <a title="Accès au formulaire pour proposer une intervention lors de la journée #BlueHats" href="https://framaforms.org/appel-a-interventions-bluehats-a-osx-1664287204">ce formulaire</a></a>
 </button>
 
+<br/>
 Nous vous répondrons le 21 octobre et publierons le programme stabilisé ce même jour.
 
 ## Pensez à vous inscrire
