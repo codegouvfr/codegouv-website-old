@@ -1,6 +1,6 @@
 ---
-title: "Appel à interventions pour la journée #BlueHats du 8/11 2022 à OXS"
-description: "Appel à interventions pour la journée #BlueHats du 8/11 2022 à OXS"
+title: "Appel à interventions pour la journée #BlueHats du 8 novembre 2022 au salon Open Source Experience"
+description: "Appel à interventions pour la journée #BlueHats du 8 novembre 2022 au salon Open Source Experience"
 date: 2022-10-04
 image: /img/posts/bluehats-10-2022.png
 layout: post
