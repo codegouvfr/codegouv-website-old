@@ -17,7 +17,10 @@ Pour parcourir les programmes des éditions précédentes, voir la page dédiée
 
 Un exemple de logiciel libre que vous utilisez dans votre administration ?  Un déploiement particulièrement réussi ?  Une collaboration fructueuse avec un éditeur ?  Nous attendons vos retours d'expérience !
 
-**Envoyez-nous vos propositions d'interventions d'ici le 17 octobre** 23h59 via [ce formulaire](https://framaforms.org/appel-a-interventions-bluehats-a-osx-1664287204).
+<button class="fr-btn fr-btn--secondary">
+  <a href="/bluehats/bsoc-promotion-2022/">Envoyez-nous vos
+  propositions d'interventions d'ici le 17 octobre 23h59 via <a title="Accès au formulaire pour proposer une intervention lors de la journée #BlueHats" href="https://framaforms.org/appel-a-interventions-bluehats-a-osx-1664287204">ce formulaire</a></a>
+</button>
 
 Nous vous répondrons le 21 octobre et publierons le programme stabilisé ce même jour.
 
