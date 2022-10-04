@@ -9,7 +9,7 @@ tags: bluehats
 
 ## La DINUM rassemble les agents publics #BlueHats
 
-Pour la quatrième année, la DINUM accueillera les agents publics impliqués dans le logiciel libre lors de la première journée du [salon Open Source Experience](https://www.opensource-experience.com/) : vous êtes toutes et tous les bienvenus le **8 novembre en salle 252 B de 9h à 18h au palais des Congrès** !
+Pour la quatrième année, la DINUM accueillera les agents publics impliqués dans le logiciel libre lors du [salon Open Source Experience](https://www.opensource-experience.com/) : vous êtes toutes et tous les bienvenus le **8 novembre en salle 252 B de 9h à 18h au palais des Congrès** !
 
 Pour parcourir les programmes des éditions précédentes, voir la page dédiée à nos [rencontres](/rencontres/).
 
@@ -17,12 +17,11 @@ Pour parcourir les programmes des éditions précédentes, voir la page dédiée
 
 Un exemple de logiciel libre que vous utilisez dans votre administration ?  Un déploiement particulièrement réussi ?  Une collaboration fructueuse avec un éditeur ?  Nous attendons vos retours d'expérience !
 
-<button class="fr-btn fr-btn--secondary">
-	<p>Envoyez-nous vos propositions d'interventions d'ici le 17 octobre 23h59<a title="Accès au formulaire pour proposer une intervention lors de la journée #BlueHats" href="https://framaforms.org/appel-a-interventions-bluehats-a-osx-1664287204"> via ce formulaire</a></p>
-</button>
+Envoyez-nous **vos propositions d'interventions d'ici le 17 octobre 23h59**.  Nous vous répondrons le 21 octobre et publierons le programme stabilisé ce même jour.
 
-<br/>
-Nous vous répondrons le 21 octobre et publierons le programme stabilisé ce même jour.
+<button class="fr-btn fr-btn--secondary">
+	<p><a title="Accès au formulaire pour proposer une intervention lors de la journée #BlueHats" href="https://framaforms.org/appel-a-interventions-bluehats-a-osx-1664287204">Votre proposition d'intervention</a></p>
+</button>
 
 ## Pensez à vous inscrire
 
