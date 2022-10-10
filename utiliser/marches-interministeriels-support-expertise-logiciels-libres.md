@@ -27,7 +27,7 @@ Ces activités sont menées en échange constant avec les communautés des logic
 
 ## Le marché support
 
-Depuis octobre 2020, Atos est titulaire du marché interministériel de support à l’usage des logiciels libres avec sept sous-traitants : Bluemind, Alterway, Arawa, FactorFX, Maarch, Oslandia et Worteks. D’une durée de 12 mois reconductible 3 fois, le marché devrait donc se terminer en septembre 2023.
+Depuis octobre 2020, Atos est titulaire du marché interministériel de support à l’usage des logiciels libres avec sept sous-traitants : Bluemind, Alterway, Arawa, FactorFX, Maarch, Oslandia et Worteks. D’une durée de 12 mois reconductible 3 fois, le marché devrait donc se terminer en septembre 2024.
 
 L’objet de ce marché est de procurer aux entités bénéficiaires sur un mode forfaitaire, des prestations d’assistance en matière de logiciels libres recouvrant :
 
@@ -120,4 +120,4 @@ Ce marché vise à procurer aux entités bénéficiaires des prestations d’exp
 - des développements ;
 - du monitorat.
 
-Il durera 24 mois reconductible 2 fois par période de 12 mois. Il devrait donc durer de décembre 2020 à décembre 2023.
+Il durera 24 mois reconductible 2 fois par période de 12 mois. Il devrait donc durer de décembre 2020 à décembre 2024.
