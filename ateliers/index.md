@@ -16,7 +16,6 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 
 ## Ateliers à venir
 
-- 14 octobre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [Docusaurus](https://docusaurus.io/) ([détails](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#14-octobre--pr%C3%A9sentation-de-docusaurus))
 - 28 octobre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [TDP](https://github.com/TOSIT-IO/TDP) ([détails](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#28-octobre--pr%C3%A9sentation-de-tdp))
 - 25 novembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [PMB](https://www.wikidata.org/wiki/Q3359740) (1/2)
 - 9 décembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [PMB](https://www.wikidata.org/wiki/Q3359740) (2/2)
@@ -24,6 +23,7 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 
 ## Ateliers à revoir
 
+- [14 octobre 2022](/ateliers/docusaurus) : Présentation de [Docusaurus](https://docusaurus.io/), un générateur de site statique orienté documentation
 - [30 septembre 2022](/ateliers/locokit) : Présentation de [LocoKit](https://locokit.io/), un outil libre Low-code, avec le projet CaPel du Parc national de Port-Cros
 - [16 septembre 2022](/ateliers/nixos) : Présentation de [NixOS](https://nixos.org/) et de son écosystème
 - [2 septembre 2022](/ateliers/promouvoir-votre-projet-libre) : Promouvoir votre projet libre
