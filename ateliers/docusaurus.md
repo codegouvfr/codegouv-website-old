@@ -5,7 +5,7 @@ layout: page
 tags: bluehats
 ---
 
-/Intervention de Sébastien Lorber, mainteneur principal de Docusaurus./
+*Intervention de Sébastien Lorber, mainteneur principal de Docusaurus.*
 
 [Docusaurus](https://docusaurus.io) est un outil développé par [Meta Open Source](https://opensource.fb.com) (Facebook) pour créer rapidement des sites de documentation.  C'est un générateur de site statique sous license MIT et basé sur React.  Voir le [code source](https://github.com/facebook/docusaurus).
 
