@@ -5,7 +5,7 @@ layout: page
 tags: bluehats
 ---
 
-*[Lionel Laské](https://github.com/llaske), l’animateur de l'atelier est l'auteur de la plateforme pédagogique libre [Sugarizer](https://sugarizer.org), membre du board de l'organisation Open Source <https://sugarlabs.orgSugarLabs> et mentor pour le Google Summer of Code depuis 2013.*
+*Lionel Laské, l’animateur de l'atelier est l'auteur de la plateforme pédagogique libre [Sugarizer](https://sugarizer.org), membre du board de l'organisation Open Source <https://sugarlabs.orgSugarLabs> et mentor pour le Google Summer of Code depuis 2013.*
 
 Vous en avez envie depuis longtemps et n'avez jamais sauté le pas ? L'objectif de cet atelier est de faire de vous un contributeur Open Source.
 
