@@ -61,7 +61,7 @@ Merci à celles et ceux qui ont proposé une intervention pour  cette nouvelle j
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">L'AMDAC contre-attaque</td>
+<td class="org-left">L'AMDAC-vador contre-attaque</td>
 <td class="org-left">Philippe Ajuelos   (MENJS)</td>
 </tr>
 </tbody>
