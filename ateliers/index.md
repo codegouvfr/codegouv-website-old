@@ -20,6 +20,9 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 - 25 novembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [PMB](https://www.wikidata.org/wiki/Q3359740) (1/2)
 - 9 décembre 2022 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [PMB](https://www.wikidata.org/wiki/Q3359740) (2/2)
 - 6 janvier 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [inseca](https://github.com/DGAC/inseca) (DGAC) ([détails](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#6-janvier--pr%C3%A9sentation-de-httpsgithubcomdgacinseca))
+- 20 janvier 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de la contribution de l’État à Samba
+- 3 février 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation d’[Osuny](https://www.osuny.org/)
+- 3 mars 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation d'[atlaSanté](https://www.atlasante.fr)
 
 ## Ateliers à revoir
 
