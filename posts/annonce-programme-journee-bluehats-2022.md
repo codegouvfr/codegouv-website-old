@@ -30,7 +30,7 @@ Merci à celles et ceux qui ont proposé une intervention pour  cette nouvelle j
 <tr>
 <td class="org-left">9h30-10h30</td>
 <td class="org-left">La collaboration interministérielle autour de Jitsi</td>
-<td class="org-left">Samuel Paccoud (France Université Numérique )</td>
+<td class="org-left">Samuel Paccoud (FUN)</td>
 </tr>
 
 <tr>
