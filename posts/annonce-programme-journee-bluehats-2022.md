@@ -62,7 +62,7 @@ Merci à celles et ceux qui ont proposé une intervention pour  cette nouvelle j
 <tr>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">Trajectoire des mobilités numériques ouvertes à Grenoble</td>
-<td class="org-left">Frederick Petit</td>
+<td class="org-left">Frederick Petit (SMMAG)</td>
 </tr>
 </tbody>
 
