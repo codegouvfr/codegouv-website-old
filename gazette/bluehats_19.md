@@ -5,7 +5,7 @@ layout: gazette
 tags: bluehats
 ---
 
-## Retrouvez les BlueHats au salon Open Source Experience le 8 novembre
+## Retrouvez-nous au salon Open Source Experience le 8 novembre
 
 Cette année encore, les `#BlueHats` se retrouvent pour partager des retours d'expérience sur l'utilisation de logiciels libres dans l'administration.  Retrouver [le programme détaillé sur notre blog](https://communs.numerique.gouv.fr/posts/annonce-programme-journee-bluehats-2022/).
 
@@ -16,6 +16,10 @@ Vous n'avez pas pu venir ?  Tout est en ligne.
 - [Présentation de NixOS et son écosystème](https://communs.numerique.gouv.fr/ateliers/nixos/)
 - [Présentation de Locokit](https://communs.numerique.gouv.fr/ateliers/locokit/)
 - [Présentation de Docusaurus](https://communs.numerique.gouv.fr/ateliers/docusaurus/)
+
+## Le BlueHats Semester of Code, c'est parti !
+
+Ils sont six étudiants à contribuer à six logiciels libres pendant six mois : découvrez le pourquoi du comment de ce [programme BlueHats Semester of Code](https://communs.numerique.gouv.fr/posts/presentation-promotion-bluehats-2022/) et [faites connaissances avec les étudiants](https://communs.numerique.gouv.fr/bluehats/bsoc-promotion-2022/) !
 
 ## Les événements à ne pas manquer
 
@@ -56,7 +60,7 @@ Vous travaillez dans l'enseignement supérieur et avez besoin de points de repè
 
 Rappelons qu'environ les deux tiers des codes sources référencés sur la plateforme [code.gouv.fr](https://code.gouv.fr/) sont issues de l'enseignement supérieur et de la recherche.
 
-## Focus logiciels libres et recherche reproductible
+## Focus invité : « logiciels libres et recherche reproductible »
 
 **Un texte proposé par [Simon Tournier](https://simon.tournier.info/).**
 
