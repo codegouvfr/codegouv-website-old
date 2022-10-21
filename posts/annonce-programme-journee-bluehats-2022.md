@@ -55,14 +55,14 @@ Merci à celles et ceux qui ont proposé une intervention pour  cette nouvelle j
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">Que la forge soit avec toi !</td>
-<td class="org-left">Alexis Kauffmann (MENJS)</td>
+<td class="org-left">Que la forge soit avec toi ! et L'AMDAC-vador contre-attaque</td>
+<td class="org-left">Alexis Kauffmann et Philippe Ajuelos (MENJS)</td>
 </tr>
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">L'AMDAC-vador contre-attaque</td>
-<td class="org-left">Philippe Ajuelos   (MENJS)</td>
+<td class="org-left">Trajectoire des mobilités numériques ouvertes à Grenoble</td>
+<td class="org-left">Frederick Petit</td>
 </tr>
 </tbody>
 
@@ -97,8 +97,8 @@ Merci à celles et ceux qui ont proposé une intervention pour  cette nouvelle j
 <tbody>
 <tr>
 <td class="org-left">14h-15h</td>
-<td class="org-left">BlueHats Semester Of Code : les contributions des étudiants de CentraleSupélec</td>
-<td class="org-left">Les BlueHats (DINUM/CentraleSupélec)</td>
+<td class="org-left">Catalogue de métadonnées en santé : la dynamique européenne et française</td>
+<td class="org-left">Lorien Benda (Health Data Hub)</td>
 </tr>
 
 <tr>
@@ -106,19 +106,13 @@ Merci à celles et ceux qui ont proposé une intervention pour  cette nouvelle j
 <td class="org-left">Présentation de l'utilisation de Nextcloud aux Arts Décos</td>
 <td class="org-left">Olivier Bienz (Arts Décos)</td>
 </tr>
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Catalogue de métadonnées en santé : la dynamique européenne et française</td>
-<td class="org-left">Lorien Benda (Health Data Hub)</td>
-</tr>
 </tbody>
 
 <tbody>
 <tr>
 <td class="org-left">15h10-16h10</td>
-<td class="org-left">Trajectoire des mobilités numériques ouvertes à Grenoble</td>
-<td class="org-left">Frederick Petit</td>
+<td class="org-left">BlueHats Semester Of Code : les contributions des étudiants de CentraleSupélec</td>
+<td class="org-left">Les BlueHats (DINUM/CentraleSupélec)</td>
 </tr>
 
 <tr>
