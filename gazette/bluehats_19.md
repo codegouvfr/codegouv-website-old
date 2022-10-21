@@ -58,13 +58,15 @@ Rappelons qu'environ les deux tiers des codes sources référencés sur la plate
 
 ## Focus logiciels libres et recherche reproductible
 
-Le projet [Guix](https://guix.gnu.org) fête ses 10 ans -- le [premier `commit`](https://archive.softwareheritage.org/browse/revision/207cba8114d354737b231e510d6110ea2a42e07b/) date du 18 avril 2012 et le [première annonce](https://lists.gnu.org/archive/html/gnu-system-discuss/2012-11/msg00000.html) publique du 23 novembre 2012.   Et oui [10 ans déjà](https://guix.gnu.org/en/blog/2022/10-years-of-stories-behind-guix/) !  Pour l'occasion, le projet Guix a organisé une [conférence](https://10years.guix.gnu.org/program/) à l'IRILL dont une journée était consacrée à la reproductibilité computationnelle dans un contexte scientifique.
+**Un texte proposé par [Simon Tournier](https://simon.tournier.info/).**
+
+« Le projet [Guix](https://guix.gnu.org) fête ses 10 ans -- le [premier `commit`](https://archive.softwareheritage.org/browse/revision/207cba8114d354737b231e510d6110ea2a42e07b/) date du 18 avril 2012 et le [première annonce](https://lists.gnu.org/archive/html/gnu-system-discuss/2012-11/msg00000.html) publique du 23 novembre 2012.   Et oui [10 ans déjà](https://guix.gnu.org/en/blog/2022/10-years-of-stories-behind-guix/) !  Pour l'occasion, le projet Guix a organisé une [conférence](https://10years.guix.gnu.org/program/) à l'IRILL dont une journée était consacrée à la reproductibilité computationnelle dans un contexte scientifique.
 
 Les présentations allaient de la bioinformatique aux systèmes distribués en passant par des langages de  programmation (OCaml).  Bien évidemment, quelqu’un·e·s ont parlé de Guix mais aussi d’autres outils (Nix, Maneage) orientés reproductibilité computationnelle.  Software Heritage a expliqué les enjeux collectifs et aussi techniques pour archiver puis retrouver (citation, référence) toute une collection de logiciels.
 
 Mais au fait, qu'est-ce que [Guix](https://hpc.guix.info) ?  Guix est un gestionnaire d'environnement computationnel allant d'un gestionnaire de paquets à une distribution GNU/Linux complète en passant par un outil de construction de conteneur (Docker, Singularity) ou une alternative aux environnements virtuels _à la_ `virtualenv`.
 
-Merci à l'[émission](https://www.libreavous.org/151-la-reproductibilite-des-environnements-logiciels-pour-la-recherche-et-guix) de radio [Libre à vous](https://www.libreavous.org/) d'avoir parlé de reproductibilité computationnelle dans un contexte scientifique.
+Merci à l'[émission](https://www.libreavous.org/151-la-reproductibilite-des-environnements-logiciels-pour-la-recherche-et-guix) de radio [Libre à vous](https://www.libreavous.org/) d'avoir parlé de reproductibilité computationnelle dans un contexte scientifique. »
 
 - [Le programme des 10 ans de GNU Guix (en anglais)](https://10years.guix.gnu.org/program/)
 - [Wrapping up Ten Years of Guix in Paris (blog)](https://guix.gnu.org/en/blog/2022/wrapping-up-ten-years-of-guix-in-paris/)
