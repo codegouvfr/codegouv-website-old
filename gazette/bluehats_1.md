@@ -5,6 +5,10 @@ layout: gazette
 tags: bluehats
 ---
 
+<div class="fr-highlight">
+  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
+</div>
+
 ## Le hackathon GLPI du ministère de l'Intérieur
 
 GLPI est un logiciel libre de helpdesk destiné, entre autres, au suivi de tâches ou de travaux.  Lundi 18 mars a eu lieu dans les locaux du Ministère de l’Intérieur un hackathon interministériel pour rendre l’interface de GLPI accessible aux personnes non voyantes.

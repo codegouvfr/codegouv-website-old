@@ -5,6 +5,10 @@ layout: gazette
 tags: bluehats
 ---
 
+<div class="fr-highlight">
+  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
+</div>
+
 ## Sharing & Reuse Awards 2019
 
 Le [programme ISA²](https://ec.europa.eu/isa2/) est un programme de la Commission européenne pour encourager l'intéropérabilité des solutions informatiques dans les administrations publiques, les entreprises et les citoyens.

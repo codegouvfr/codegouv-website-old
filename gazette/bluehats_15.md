@@ -5,6 +5,10 @@ layout: gazette
 tags: bluehats
 ---
 
+<div class="fr-highlight">
+  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
+</div>
+
 ## Bluehats Semester of Code : appel à idées !
 
 **Vous portez un logiciel libre ?  Nous apportons un stagiaire !**

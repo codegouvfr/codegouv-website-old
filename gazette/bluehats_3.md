@@ -5,6 +5,10 @@ layout: gazette
 tags: bluehats
 ---
 
+<div class="fr-highlight">
+  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
+</div>
+
 ## Focus sur la Gendarmerie nationale et le logiciel libre
 
 ### L'exemple d'une migration à grande échelle vers le libre
