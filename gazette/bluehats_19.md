@@ -9,6 +9,8 @@ tags: bluehats
 
 Cette année encore, les `#BlueHats` se retrouvent pour partager des retours d'expérience sur l'utilisation de logiciels libres dans l'administration.  Retrouver [le programme détaillé sur notre blog](https://communs.numerique.gouv.fr/posts/annonce-programme-journee-bluehats-2022/).
 
+<img src="/img/posts/bluehats-10-2022.png"/>
+
 ## Revoir les derniers ateliers BlueHats
 
 Vous n'avez pas pu venir ?  Tout est en ligne.
