@@ -5,6 +5,10 @@ layout: gazette
 tags: bluehats
 ---
 
+<div class="fr-highlight">
+  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
+</div>
+
 ## Focus : Vive le numérique libre
 
 Introduit par M. Eric Bothorel, député et responsable d'une mission relative à la politique publique de la donnée dont le rapport a été remis au Premier ministre le 23 décembre 2020, le millésime 2021 de la [collection numérique](http://www.amue.fr/systeme-dinformation/metier/la-collection-numerique/) publiée par l'AMUE présente le Libre sous toutes ses formes.

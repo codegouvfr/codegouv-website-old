@@ -5,6 +5,10 @@ layout: gazette
 tags: bluehats
 ---
 
+<div class="fr-highlight">
+  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
+</div>
+
 Pour cette gazette estivale, nous vous proposons deux « focus tech », une surprise, deux offres d'emploi pour travailler sur des logiciels libres dans l'administration publique, une belle série d'événements (vous ne pourrez pas participer à tous) et notre habituelle revue de presse.
 
 ## Focus tech

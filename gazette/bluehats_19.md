@@ -5,6 +5,10 @@ layout: gazette
 tags: bluehats
 ---
 
+<div class="fr-highlight">
+  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
+</div>
+
 ## Retrouvez-nous au salon Open Source Experience le 8 novembre
 
 Cette année encore, les `#BlueHats` se retrouvent pour partager des retours d'expérience sur l'utilisation de logiciels libres dans l'administration.  Retrouver [le programme détaillé sur notre blog](https://communs.numerique.gouv.fr/posts/annonce-programme-journee-bluehats-2022/).

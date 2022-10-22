@@ -5,6 +5,10 @@ layout: gazette
 tags: bluehats
 ---
 
+<div class="fr-highlight">
+  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
+</div>
+
 ## Rendez-vous le 9 novembre pour la journée BlueHats au salon Open Source Experience !
 
 Le département Etalab de la DINUM sera présent au salon de l'Open Source Experience le 9 novembre au Palais des Congrès. A cette occasion est organisée une nouvelle journée #BlueHats, dédiée au partage d'expérience autour des logiciels libres dans l'administration publique.

@@ -5,6 +5,10 @@ layout: gazette
 tags: bluehats
 ---
 
+<div class="fr-highlight">
+  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
+</div>
+
 ## Le calendrier des ateliers #BlueHats
 
 Depuis juillet 2020, et à l'initiative des référents du [Socle Interministériel de Logiciels Libres](https://sill.etalab.gouv.fr/fr/software), des wébinaires en ligne sont régulièrement organisés pour présenter des logiciels libres utilisés dans l'administration.
