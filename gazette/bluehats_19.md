@@ -95,8 +95,9 @@ Ce mémoire est disponible [en téléchargement en PDF](https://sirjean.fr/pub/2
 - [La Cour de cassation valide l’action en contrefaçon en cas de non-respect d’une licence de logiciel](https://www.legalis.net/actualite/la-cour-de-cassation-valide-laction-en-contrefacon-en-cas-de-non-respect-dune-licence-de-logiciel/), legalis.net, Octobre 2022.
 - [Logiciels libres : 7 nouveaux entrants au SILL](https://www.silicon.fr/logiciels-libres-7-nouveaux-entrants-au-sill-449180.html), silicon.fr, Octobre 2022.
 - [Ils ont des chapeaux bleus...](https://www.centralesupelec.fr/fr/ils-ont-des-chapeaux-bleus), centralesupelec.fr, Septembre 2022.
-- [Aurélie Jean: « Données et logiciels libres: faisons confiance aux citoyens ! »](https://www.lefigaro.fr/vox/societe/aurelie-jean-donnees-et-logiciels-libres-faisons-confiance-aux-citoyens-20221013), lefigaro.fr, Octobre 2022.
+- [Le médialab rejoint l'APRIL en soutien au logiciel libre](https://medialab.sciencespo.fr/actu/le-medialab-rejoint-lapril-en-soutien-au-logiciel-libre/), sciencespo.fr, Octobre 2022.
 - [Tristan Nitot, figure du Libre et du Green IT, chez Scaleway](https://www.zdnet.fr/blogs/l-esprit-libre/tristan-nitot-figure-du-libre-et-du-green-it-chez-scaleway-39947000.htm), zdnet.fr, Septembre 2022.
+- [Aurélie Jean: « Données et logiciels libres: faisons confiance aux citoyens ! »](https://www.lefigaro.fr/vox/societe/aurelie-jean-donnees-et-logiciels-libres-faisons-confiance-aux-citoyens-20221013), lefigaro.fr, Octobre 2022.
 
 ### En Europe et au-delà
 
@@ -106,5 +107,3 @@ Ce mémoire est disponible [en téléchargement en PDF](https://sirjean.fr/pub/2
 - [New Cyber Bill Aims To Fix Open-Source Security in Government](https://www.linuxinsider.com/story/new-cyber-bill-aims-to-fix-open-source-security-in-government-176676.html), linuxinsider.com, Septembre 2022.
 - [The Geography of Open Source Software: Evidence from GitHub](https://www.sciencedirect.com/science/article/pii/S0040162522000105), sciencedirect.com, Mars 2022.
 - [Linux Foundation Europe Launches to Foster European Open Source Collaboration and Innovation](https://linuxfoundation.eu/newsroom/lf-europe-launches?hsLang=en), linuxfondation.eu, Septembre 2022
-
-
