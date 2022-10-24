@@ -62,7 +62,7 @@ Merci à celles et ceux qui ont proposé une intervention pour  cette nouvelle j
 <tr>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">Trajectoire des mobilités numériques ouvertes à Grenoble</td>
-<td class="org-left">Frederick Petit (SMMAG)</td>
+<td class="org-left">Frederick Petit</td>
 </tr>
 </tbody>
 
@@ -70,7 +70,7 @@ Merci à celles et ceux qui ont proposé une intervention pour  cette nouvelle j
 <tr>
 <td class="org-left">11h50-12h50</td>
 <td class="org-left">Portage d'AWX sous Debian : cas d'usage à l'éducation nationale (PHM)</td>
-<td class="org-left">Stéphane Paillet (MENJS)</td>
+<td class="org-left">Stéphane Paillet (MENJS) et Jérémy Lal (Debian)</td>
 </tr>
 
 <tr>
@@ -143,7 +143,7 @@ Merci à celles et ceux qui ont proposé une intervention pour  cette nouvelle j
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">Plan d'action logiciels libres et communs numériques : un an plus tard</td>
+<td class="org-left">plan d'action logiciels libres et communs numériques : un an plus tard</td>
 <td class="org-left">DINUM (Pôle logiciels libres et LABEL)</td>
 </tr>
 </tbody>
