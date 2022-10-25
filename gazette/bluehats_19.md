@@ -5,10 +5,6 @@ layout: gazette
 tags: bluehats
 ---
 
-<div class="fr-highlight">
-  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
-</div>
-
 ## Retrouvez-nous au salon Open Source Experience le 8 novembre
 
 Cette année encore, les `#BlueHats` se retrouvent pour partager des retours d'expérience sur l'utilisation de logiciels libres dans l'administration.  Retrouver [le programme détaillé sur notre blog](https://communs.numerique.gouv.fr/posts/annonce-programme-journee-bluehats-2022/).
@@ -34,7 +30,7 @@ Les 8 et 9 novembre 2022, rendez-vous au [salon Open Source Experience](https://
 Les 9 et 10 novembre 2022, l'Université Paul Valéry Montpellier 3 accueille les journées ESUP-Pod 2022 : retrouvez [toutes les informations et les modalités d'inscription sur cette page](https://www.esup-portail.org/wiki/x/AwD0RQ).
 
 Les 19 et 20 novembre 2022, rendez-vous à l'événement [Capitole du Libre](https://capitoledulibre.org).
-   
+
 ### ADULLACT : Retour sur le congrès des 20 ans
 
 Fondée en 2002, l'[ADULLACT](https://adullact.org/) a pour objectifs de soutenir et coordonner l'action des Administrations et Collectivités territoriales dans le but de promouvoir, développer et maintenir un patrimoine de logiciels libres utiles aux missions de service public.
@@ -94,7 +90,7 @@ Ce mémoire est disponible [en téléchargement en PDF](https://sirjean.fr/pub/2
 ### En France
 
 - [L'Etat cultive un esprit libriste](https://chut.media/tech/letat-cultive-un-esprit-libriste/), [chut.media](https://chut.media/), Octobre 2022.
-- [L’obsolescence des smartphones et la collecte massive de données mettent en péril l’avenir du numérique](https://basta.media/l-obsolescence-des-smartphones-et-la-collecte-massive-de-donnees-impact-ecologique-du-numerique), [Basta.media](https://basta.media/), Septembre 2022. 
+- [L’obsolescence des smartphones et la collecte massive de données mettent en péril l’avenir du numérique](https://basta.media/l-obsolescence-des-smartphones-et-la-collecte-massive-de-donnees-impact-ecologique-du-numerique), [Basta.media](https://basta.media/), Septembre 2022.
 - [Profs, parents d’élèves et activistes se bougent pour libérer l’école de l’emprise de Google et Microsoft](https://basta.media/profs-parents-d-eleves-et-activistes-se-bougent-pour-liberer-l-ecole-des-Gafam), [Basta.media](https://basta.media/), Septembre 2022.
 - [Une partie de la gestion du « Zoom » de l'enseignement supérieur français sous-traitée](https://www.nextinpact.com/article/70129/une-partie-gestion-zoom-enseignement-superieur-francais-sous-traitee), nextinpact.com, Octobre 2022.
 - [Création de la Linux Foundation Europe : ce qu’il faut savoir](https://www.toolinux.com/?linux-foundation-europe), toolinux.com, Septembre 2022.

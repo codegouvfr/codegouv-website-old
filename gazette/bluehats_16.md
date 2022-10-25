@@ -5,10 +5,6 @@ layout: gazette
 tags: bluehats
 ---
 
-<div class="fr-highlight">
-  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
-</div>
-
 ## Actualités du pôle logiciels libres
 
 ### Présentation du conseil logiciels libres
@@ -134,7 +130,7 @@ Le programme démarre à 9h et prévoit une présentation des grands enseignemen
 
 La 8ème édition du congrès de l'ADULLACT se tiendra du mercredi 15 juin au vendredi 17 juin 2022 à Montpellier, avec le soutien de Montpellier Méditerranée Métropole.  À cette occasion, de nombreux échanges et rencontres avec des acteurs importants du Libre. Au programme, des conférences, des tables rondes et des interventions d'entreprises et d'invités d'exception, sur des thématiques actuelles telles que la frugalité numérique. Ce sera également l'occasion de célébrer notre 20ème anniversaire et de participer à la vie de l'association lors de l'Assemblée Générale annuelle.
 
-`>>` Plus d'informations : <https://adullact.org/congres> 
+`>>` Plus d'informations : <https://adullact.org/congres>
 
 ### Du 20 au 24 juin à Lille : Rencontres Scenari 2022
 

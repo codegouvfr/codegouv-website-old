@@ -5,10 +5,6 @@ layout: gazette
 tags: bluehats
 ---
 
-<div class="fr-highlight">
-  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
-</div>
-
 ## La journée `#BlueHats` au Paris Open Source Summit 2019
 
 Les BlueHats se retrouvent demain 11 décembre au [Paris Open Source Summit](https://www.opensourcesummit.paris/) pour souffler leur première bougie !
