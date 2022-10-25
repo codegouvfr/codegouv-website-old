@@ -5,10 +5,6 @@ layout: gazette
 tags: bluehats
 ---
 
-<div class="fr-highlight">
-  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
-</div>
-
 ## Autour de la publication du rapport Bothorel
 
 Le député Éric Bothorel a remis fin décembre au Premier ministre son [rapport sur la politique publique de la donnée, des algorithmes et des codes sources](https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources).  La mission avait proposé une [consultation publique](https://www.mission-open-data.fr) sur ces sujets en octobre 2020.  Le rapport a repris certains éléments de cette consultation et formule des recommandations liées au logiciel libre dans le secteur public.

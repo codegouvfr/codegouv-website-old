@@ -5,10 +5,6 @@ layout: gazette
 tags: bluehats
 ---
 
-<div class="fr-highlight">
-  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
-</div>
-
 ## Le socle interministériel de logiciels libres 2020 est en ligne
 
 Le socle interministériel des logiciels libres (SILL) 2020 est publié.  Ce catalogue de référence des logiciels libres pour l'administration est le fruit d’une collaboration entre une communauté d’agents publics informaticiens et la direction interministérielle du numérique.

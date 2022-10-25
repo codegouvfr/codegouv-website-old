@@ -5,10 +5,6 @@ layout: gazette
 tags: bluehats
 ---
 
-<div class="fr-highlight">
-  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
-</div>
-
 ## Focus sur la Gendarmerie nationale et le logiciel libre
 
 ### L'exemple d'une migration à grande échelle vers le libre
@@ -92,11 +88,11 @@ La direction générale des finances publiques (DGFiP) a publiée le code source
 Dans son article de blog « [Une balade du coté de&#x2026; Proxmox](https://si.ecrins-parcnational.com/blog/2019-03-proxmox.html) », le SI du Parc national des Écrins revient sur la migration vers [Proxmox](https://www.proxmox.com/en/), une plate‐forme de gestion de virtualisation libre.
 
 > « Le Parc national des Ecrins disposait depuis 2014 de 2 hyperviseurs VMware ESXI 5.5 hébergés chez OVH. Ces 2 machines accueillaient une quinzaine de serveurs linux sous forme de machines virtuelles.
-> 
+>
 > Le choix de fonctionner avec une licence VMware gratuite présentait certaines limitations. Notamment l'impossibilité de sauvegarder ou de cloner à chaud les VM. L'outil vSphere (5.5) permettant de gérer l'hyperviseur ne fonctionne que sous windows ; une difficulté supplémentaire pour notre petite équipe qui a migré ses postes de travail sous Linux.
-> 
+>
 > À l'occasion du renouvellement de ces machines vieillissantes, nous nous sommes posé la question de rester sous ESXI ou de tenter une autre aventure. Notre petite équipe n'ayant pas beaucoup de temps à consacrer aux serveurs, il fallait une solution éprouvée et nous permettant de remonter les VM existantes telles quelles. Migrer l'ensemble de notre architecture hébergée n'est pas une mince affaire.
-> 
+>
 > La technologie Proxmox est mûre. Elle est libre (licence AGPLv3) et basée sur l'hyperviseur Linux KVM. Elle propose également une solution de containers LXC qui était en cours d'évaluation sur nos postes de travail. »
 
 `>>` Retrouvez [l'intégralité du blogpost](https://si.ecrins-parcnational.com/blog/2019-03-proxmox.html).

@@ -5,10 +5,6 @@ layout: gazette
 tags: bluehats
 ---
 
-<div class="fr-highlight">
-  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
-</div>
-
 ## Le hackathon GLPI du ministère de l'Intérieur
 
 GLPI est un logiciel libre de helpdesk destiné, entre autres, au suivi de tâches ou de travaux.  Lundi 18 mars a eu lieu dans les locaux du Ministère de l’Intérieur un hackathon interministériel pour rendre l’interface de GLPI accessible aux personnes non voyantes.
@@ -68,7 +64,7 @@ L'API doit continuer d'évoluer et voir s'adjoindre une interface de navigation.
 Témoignage de Camille Monchicourt, responsable du pôle Système d’informations du Parc national des Écrins :
 
 « Le Parc national des Écrins utilise des logiciels libres depuis de nombreuses années. Pour y contribuer à notre tour, nous avons fait le choix de publier nous aussi nos applications sous licence libre. Pour cela, nous développons des outils génériques pour répondre à nos besoins spécifiques, que ce soit pour des projets réalisés en interne ou sous-traités. Au-delà du fait de publier nos développements sur une forge sous licence libre, pour que ceux-ci soient réellement utilisés et enrichis par d’autres structures, nous avons compris qu’il fallait aussi les documenter, les illustrer, prendre du recul pour anticiper d’autres contextes d’utilisation de nos outils, utiliser des frameworks et standards, mais aussi présenter et communiquer sur ces
-outils pour les faire connaître.  
+outils pour les faire connaître.
 
 C’est ainsi que nous avons construit des communautés avec aujourd'hui plus de 100 structures utilisatrices de nos outils Geotrek et GeoNature.  Nous animons ces communautés avec de l’information régulière, des rencontres annuelles, des workshops, des groupes de travail et de nombreux projets mutualisés »
 

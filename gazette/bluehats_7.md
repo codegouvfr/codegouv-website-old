@@ -5,10 +5,6 @@ layout: gazette
 tags: bluehats
 ---
 
-<div class="fr-highlight">
-  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
-</div>
-
 ## Enquête sur vos pratiques de publication de codes sources
 
 [Etalab](https://www.etalab.gouv.fr/) lance une enquête sur les pratiques de publication de codes sources dans le secteur public.  Cette enquête anonyme vous prendra 5 à 15 minutes et aidera Etalab à comprendre comment faire évoluer son accompagnement à ce sujet.

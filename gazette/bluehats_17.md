@@ -5,10 +5,6 @@ layout: gazette
 tags: bluehats
 ---
 
-<div class="fr-highlight">
-  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
-</div>
-
 ## Focus éducation et communs numériques
 
 ### Le Wikipédia des ressources pédagogiques
@@ -17,7 +13,7 @@ Lors du séminaire national [Moodle](https://sill.etalab.gouv.fr/software?name=M
 
 `>>` [Intervention du directeur de la DNE à la Journée du Libre Éducatif #JDLE](https://blog.apps.education.fr/articles/dne-jdle-2022-05-21t143101559z)
 `>>` [Revoir l'internvention](https://tube-institutionnel.apps.education.fr/w/jjfkwsmZXHLUNW8xvEo2Sv)
- 
+
 ### Des élèves contributeurs de communs numériques
 
 Le nouveau compte Twitter officiel du MENJ dédié au libre éducatif [@LeLibreEdu](https://twitter.com/LeLibreEdu) a publié un fil d'exemples divers variés où les élèves sont en situation de contribution à des logiciels libres ou ressources libres. Parmi eux sont présentées des contributions au logiciel [Pdf4Teachers](https://pdf4teachers.org), à [Wikisource](https://fr.wikisource.org/wiki/Wikisource:Accueil), à [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil) et bien d'autres encore.
@@ -73,7 +69,7 @@ Vendredi 10 juin, Thomas Magnin-Feysot et Emmanuelle Helly ont présenté l'outi
 
 **Ne manquez pas le prochain atelier du 24 juin !**
 
-Le vendredi 24 juin, Bruno Gaschet (DGFiP) animera un atelier de "Présentation des marchés de support et d’expertise logiciels libres". 
+Le vendredi 24 juin, Bruno Gaschet (DGFiP) animera un atelier de "Présentation des marchés de support et d’expertise logiciels libres".
 
 `>>` Pour y participer, connectez-vous vendredi 24 juin à 11h sur le [lien suivant](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b).
 
@@ -81,19 +77,19 @@ Le vendredi 24 juin, Bruno Gaschet (DGFiP) animera un atelier de "Présentation 
 
 ### Rejoignez l'"April Camp" les 18 et 19 juin 2022, à Paris ou en distanciel
 
-April organise son prochain "April Camp" les 18 et 19 juin 2022. Son objectif ? Rassembler tous ceux qui le souhaitent, membre de l'association ou non, pour échanger autour des projets en cours et à venir. L'événement se déroulera en présentiel à Paris ou en distanciel. 
+April organise son prochain "April Camp" les 18 et 19 juin 2022. Son objectif ? Rassembler tous ceux qui le souhaitent, membre de l'association ou non, pour échanger autour des projets en cours et à venir. L'événement se déroulera en présentiel à Paris ou en distanciel.
 
 `>>` [Participez et retrouvez les détails du week-end](https://www.april.org/april-camp-en-presentiel-paris-et-a-distance-18-et-19-juin-2022)
 
 ### Le Forum Européen Ouvert aborde la thématique des "Open Source Program Offices" le 20 juin 2022, à Toulouse
 
-Le Forum Européen Ouvert organise le 20 juin 2022 un événement autour de la sortie du rapport sur les OSPO dans les gouvernements. Il tiendra lieu à l’Hôtel Mercure Toulouse Centre Compans et sera animé d’un cocktail. A cette occasion, des acteurs de l’univers numérique européen se rassemblent pour partager leur expérience autour des progrès du marché unique et des politiques numériques. 
+Le Forum Européen Ouvert organise le 20 juin 2022 un événement autour de la sortie du rapport sur les OSPO dans les gouvernements. Il tiendra lieu à l’Hôtel Mercure Toulouse Centre Compans et sera animé d’un cocktail. A cette occasion, des acteurs de l’univers numérique européen se rassemblent pour partager leur expérience autour des progrès du marché unique et des politiques numériques.
 
 `>>` Inscrivez-vous et retrouvez tous les détails de la soirée [ici](https://openforumeurope.org/event/ospos-new-approaches-to-public-sector/).
 
 ### Les Rencontres Professionnelles du Logiciel Libre le 28 juin 2022, à Lyon
 
-L’association Ploss-Ra présente les Rencontres Professionnelles du Logiciel Libre (RPLL), qui se tiendront à Lyon le 28 juin 2022. Au programme : des témoignages, des ateliers et des échanges autour de l’open source et des logiciels libres. Entreprises, collectivités, associations, universités et écoles sont invitées à participer et à se rencontrer autour de thématiques communes. 
+L’association Ploss-Ra présente les Rencontres Professionnelles du Logiciel Libre (RPLL), qui se tiendront à Lyon le 28 juin 2022. Au programme : des témoignages, des ateliers et des échanges autour de l’open source et des logiciels libres. Entreprises, collectivités, associations, universités et écoles sont invitées à participer et à se rencontrer autour de thématiques communes.
 
 `>>` Tous les détails de la journée se trouvent [sur le site des RPLL](https://www.rpll.fr/conferences-54).
 
@@ -125,7 +121,7 @@ Le jeudi 23 juin à partir de 14 heures à l'Amphithéâtre Larochefoucald situ�
 
 ### Séminaire IRILL : une double séance Eclipse Foundation se tiendra le 23 juin 2022
 
-L'Initiative pour la Recherche et l'Innovation sur le Logiciel Libre présente son prochain séminaire qui se tiendra le 23 juin 2022 sur le campus de Jussieu. Deux séances présentées par l'Exclipse Foundation sont au programme : 
+L'Initiative pour la Recherche et l'Innovation sur le Logiciel Libre présente son prochain séminaire qui se tiendra le 23 juin 2022 sur le campus de Jussieu. Deux séances présentées par l'Exclipse Foundation sont au programme :
 
 - « Open SOurce, Europe et indépendance technologique » présenté par Gaël Blondelle (VP Ecosystem Development, Eclipse Foundation).
 - « Comment bien utiliser l'open source pour promouvoir vos résultats de recherche » présenté par Philippe Krief, Director (Research Relations, Eclipse Foundation).

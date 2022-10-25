@@ -5,10 +5,6 @@ layout: gazette
 tags: bluehats
 ---
 
-<div class="fr-highlight">
-  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
-</div>
-
 Ce mois-ci, la gazette BlueHats met l'accent sur les communs numériques, avec un texte proposé par Wikimédia France et une nouvelle rubrique « Le coin des communs ».  Le focus technique porte sur le projet Open Terms Archive, que nous vous invitons à découvrir.  Nous signalons quelques évolutions du Socle Interministériel de Logiciels libres (SILL) et de code.etalab.gouv.fr.  Nous vous proposons enfin notre revue de presse qui revient sur la circulaire sur la politique publique de la donnée et la sortie du catalogue GouvTech.
 
 Bonne lecture !

@@ -5,10 +5,6 @@ layout: gazette
 tags: bluehats
 ---
 
-<div class="fr-highlight">
-  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
-</div>
-
 ## Le pôle logiciels libres d'Etalab recrute
 
 L'équipe du pôle logiciels libres d'Etalab grandit et recherche un·e chargé·e de communauté et de contributions logiciels libres.

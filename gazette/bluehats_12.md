@@ -5,10 +5,6 @@ layout: gazette
 tags: bluehats
 ---
 
-<div class="fr-highlight">
-  <p>Vous avez trouvé cette page hasard ?  <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio">Inscrivez-vous</a> : c'est tout les deux mois seulement.</p>
-</div>
-
 Pour cette gazette estivale, nous vous proposons deux « focus tech », une surprise, deux offres d'emploi pour travailler sur des logiciels libres dans l'administration publique, une belle série d'événements (vous ne pourrez pas participer à tous) et notre habituelle revue de presse.
 
 ## Focus tech
@@ -30,7 +26,7 @@ Théo Lechémia, développeur au [Parc national des Écrins](https://github.com/
 *Une contribution de Su Yang, responsable du pôle données chez Direction générale des Finances publiques.*
 
 Le « Pôle de données » de la DGFIP, créé depuis janvier 2021, a pour ambition d'industrialiser la valorisation des données.  Pour ce faire il est organisé en quatre verticales d'activités : il met en place un lac de données avec des données métiers provenant de différents silos.  Ce lac de données s'appuie sur une distribution Hadoop : la version
-Hortonworks 3.1.4, qui est en production depuis mars 2021.  
+Hortonworks 3.1.4, qui est en production depuis mars 2021.
 
 Le pôle accompagne et participe à des projets data (datascience, dataviz, etc.) et anime les profils données qui y contribuent ; il met en place la gouvernance des données qui contribue à la connaissance et la qualité des données et la conformité réglementaire des projets associés ; et il gère l'échange des données via des APIs (internes ou externes) ou en Open Data.
 
@@ -68,26 +64,26 @@ Le projet [Archifiltre](https://archifiltre.fabrique.social.gouv.fr/) recrute un
 -   **14 et 15 octobre 2021** : Les rencontres [Geotrek](https://geotrek.fr/) à Aix-en-Provence.  Voir [le programme](https://groups.google.com/u/3/g/geotrek-fr/c/k3IxyRHEdsE).  L'après-midi du premier jour sera consacrée aux échanges de données entre Geotrek et d'autres outils, mais aussi à la diffusion libre des données.
 
 -   **18, 19 et 20 octobre 2021** : Comme chaque année, l'association Scenari organise ses **Rencontres Scenari**.
-    
+
     Scenari, c'est un ensemble de logiciels dédiés à la création
     collaborative structurée, et publication/diffusion de contenus
     multimédias et multisupports. Ils sont très utilisés dans le
     domaine de la formation et de la documentation, mais servent aussi
     pour l'audiovisuel, la qualité, ou les clés de déterminations,
     &#x2026;
-    
+
     Les Télé-Rencontres Scenari 2021, c'est l'occasion de découvrir
     ces outils et comment ils peuvent améliorer vos contenus et vous
     faire gagner du temps dans leur création. C'est aussi l'occasion
     de connaître de nouvelles fonctionnalités et de nouveaux usages
     grâce à des ateliers et des conférences.
-    
+
     Comme l'année dernière, raisons sanitaires obligent, les
     Télé-Rencontres Scenari 2021 se déroulement principalement en
     ligne : les contenus seront disponibles courant octobre et des
     sessions de visioconférence seront organisées les 18-19-20
     octobre.
-    
+
     Toutes les informations sont ou seront disponibles sur le site des
     Rencontres 2021 : <https://scenari.org/rencontres2021/>
 
