@@ -3,11 +3,13 @@ title: "Journée #BlueHats : demandez le programme !"
 description: "La liste des retours d'expérience présentés lors de la journée #BlueHats du 8 novembre 2022 au salon Open Source Experience"
 date: 2022-10-21
 image: /img/posts/bluehats-10-2022.png
-layout: gazette
+layout: post
 tags: bluehats
 ---
 
-Merci à celles et ceux qui ont proposé une intervention pour  cette nouvelle journée #BlueHats du 8 novembre 2022.
+Voici le programme de la journée #BlueHats du 8 novembre 2022.
+
+Attention : l'<a href="https://www.opensource-experience.com/creer-mon-badge/">inscription</a> au salon Open Source Experience est gratuite et obligatoire.  Retrouvez-nous en salle 252 B du Palais des Congrès.
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
