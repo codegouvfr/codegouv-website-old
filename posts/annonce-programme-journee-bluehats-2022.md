@@ -139,7 +139,7 @@ Attention : l'<a href="https://www.opensource-experience.com/creer-mon-badge/">
 <tbody>
 <tr>
 <td class="org-left">16h20-17h20</td>
-<td class="org-left">Ouverture de code de l'orchestrateur DevSevOps Cloud Native au MI</td>
+<td class="org-left">Ouverture de code de l'orchestrateur DevSevOps Cloud Native au Ministère de l'Intérieur</td>
 <td class="org-left">Eric Tiquet et Yoann Arthaud (<a href="https://www.interieur.gouv.fr/ministere/secretariat-general/direction-du-numerique">DNUM MI</a>)</td>
 </tr>
 
