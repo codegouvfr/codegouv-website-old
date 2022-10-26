@@ -139,6 +139,12 @@ Attention : l'<a href="https://www.opensource-experience.com/creer-mon-badge/">
 <tbody>
 <tr>
 <td class="org-left">16h20-17h20</td>
+<td class="org-left">Ouverture de code de l'orchestrateur DevSevOps Cloud Native au MI</td>
+<td class="org-left">Eric Tiquet et Yoann Arthaud (<a href="https://www.interieur.gouv.fr/ministere/secretariat-general/direction-du-numerique">DNUM MI</a>)</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">Le « Dites-le nous une fois » européen et l'open source</td>
 <td class="org-left">Jonathan J. Attia (<a href="https://www.numerique.gouv.fr/">DINUM</a>/<a href="https://www.etalab.gouv.fr/">Etalab</a>)</td>
 </tr>
@@ -148,10 +154,12 @@ Attention : l'<a href="https://www.opensource-experience.com/creer-mon-badge/">
 <td class="org-left">Démarches simplifiées : un commun numérique pas si commun !</td>
 <td class="org-left">Philippe Vrignaud (<a href="https://www.numerique.gouv.fr/">DINUM</a>)</td>
 </tr>
+</tbody>
 
+<tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">plan d'action logiciels libres et communs numériques : un an plus tard</td>
+<td class="org-left">17h30-18h</td>
+<td class="org-left">Plan d'action logiciels libres et communs numériques : un an plus tard</td>
 <td class="org-left"><a href="https://www.numerique.gouv.fr/">DINUM</a> (<a href="https://www.numerique.gouv.fr/">Pôle logiciels libres</a> et <a href="https://catalogue.numerique.gouv.fr/">LABEL</a>)</td>
 </tr>
 </tbody>
