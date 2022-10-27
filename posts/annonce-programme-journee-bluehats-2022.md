@@ -72,7 +72,7 @@ Attention : l'<a href="https://www.opensource-experience.com/creer-mon-badge/">
 <tr>
 <td class="org-left">11h50-12h50</td>
 <td class="org-left">Portage d'AWX sous Debian : cas d'usage à l'éducation nationale (PHM)</td>
-<td class="org-left">Stéphane Paillet (<a href="https://www.education.gouv.fr/">MENJS</a>) et Jérémy Lal ()</td>
+<td class="org-left">Stéphane Paillet (<a href="https://www.education.gouv.fr/">MENJS</a>) et Jérémy Lal (<a href="https://www.debian.org">Debian</a>)</td>
 </tr>
 
 <tr>
@@ -139,8 +139,8 @@ Attention : l'<a href="https://www.opensource-experience.com/creer-mon-badge/">
 <tbody>
 <tr>
 <td class="org-left">16h20-17h20</td>
-<td class="org-left">Ouverture de code de l'orchestrateur DevSevOps Cloud Native au Ministère de l'Intérieur</td>
-<td class="org-left">Eric Tiquet et Yoann Arthaud (<a href="https://www.interieur.gouv.fr/ministere/secretariat-general/direction-du-numerique">DNUM MI</a>)</td>
+<td class="org-left">Ouverture de code de l'orchestrateur DevSevOps Cloud Native au MI</td>
+<td class="org-left">Eric Tiquet, Thibault Colin et Yoann Arthaud (<a href="https://www.interieur.gouv.fr/ministere/secretariat-general/direction-du-numerique">DNUM MI</a>)</td>
 </tr>
 
 <tr>
