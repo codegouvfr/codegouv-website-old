@@ -24,18 +24,11 @@ Le plan d'action est piloté par le pôle logiciels libres d'[Etalab](https://et
 
 ## Le conseil logiciels libres
 
-Le conseil logiciels libres est une instance mise en place et animée
-par la DINUM.  Elle réunit d'un côté des administrations engagées dans
-l'utilisation et le développement de logiciels libres, de l'autre des
-acteurs de l'écosystème (associations et structures représentantes
-d'entreprises.)
+Le conseil logiciels libres est une instance mise en place et animée par la DINUM.  Elle réunit d'un côté des administrations engagées dans l'utilisation et le développement de logiciels libres, de l'autre des acteurs de l'écosystème : associations, fondations et autres structures représentants des entreprises.
 
-Le conseil peut se saisir de toute question à l'intersection entre le
-logiciel libre et la transformation numérique de l'administration et
-remonter à la DINUM des notes qu'il décide ou non de rendre publiques.
+Le conseil peut se saisir de toute question à l'intersection entre le logiciel libre et la transformation numérique de l'administration et remonter à la DINUM des notes qu'il décide ou non de rendre publiques.
 
-La présentation ci-dessous détaille sa composition et les attentes des
-parties prenantes.
+La présentation ci-dessous détaille sa composition et les attentes des parties prenantes.
 
 <iframe class="speakerdeck-iframe" style="border: 0px none; background: rgba(0, 0, 0, 0.1) none repeat scroll 0% 0% padding-box; margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 315px;" src="https://speakerdeck.com/player/e09521e4a3c142fda37ec1dce2030ce2" title="Présentation du conseil logiciels libres animé par la DINUM" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-ratio="1.7777777777777777" frameborder="0"></iframe>
 
