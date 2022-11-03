@@ -26,7 +26,7 @@ Le plan d'action est piloté par le pôle logiciels libres d'[Etalab](https://et
 
 Le conseil logiciels libres est une instance mise en place et animée par la DINUM.  Elle réunit d'un côté des agents publics d'administrations engagées dans l'utilisation et le développement de logiciels libres, de l'autre des acteurs de l'écosystème : associations, fondations et structures qui représentent des entreprises du logiciel libre.
 
-Le conseil peut se saisir de toute question à l'intersection entre le logiciel libre et la transformation numérique de l'administration et remonter à la DINUM des notes qu'il décide ou non de rendre publiques.
+Le conseil peut se saisir pour un avis consultatif de toute question à l'intersection entre le logiciel libre et la transformation numérique de l'administration et remonter à la DINUM des notes qu'il décide ou non de rendre publiques.
 
 La présentation ci-dessous détaille sa composition et les attentes des parties prenantes.
 
