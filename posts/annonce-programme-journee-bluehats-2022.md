@@ -44,7 +44,7 @@ Attention : l'<a href="https://www.opensource-experience.com/creer-mon-badge/">
 <tr>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">Esup-Pod : la plateforme vidéo de l'enseignement supérieur</td>
-<td class="org-left">Nicolas Can (Esup-Portail)</td>
+<td class="org-left">Nicolas Can (<a href="https://www.esup-portail.org/">Esup-Portail</a>)</td>
 </tr>
 </tbody>
 
