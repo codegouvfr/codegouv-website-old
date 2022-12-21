@@ -6,6 +6,8 @@ layout: layouts/post.njk
 centeredLayout: true
 ---
 
+*[Read the english version.](https://communs.numerique.gouv.fr/action-plan-for-free-software-and-digital-commons/)*
+
 Le plan d’action « logiciels libres et communs numériques » a été conçu par le ministère de la Transformation et de la Fonction publiques à la suite de la publication de la [circulaire data](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire data - Lien externe") du Premier ministre n°6264/SG du 27 avril 2021, et vise à soutenir la transformation numérique de l’État.
 
 Ce plan d'action est piloté par un nouveau « pôle d’expertise logiciels libres », constitué au sein du département [Etalab](https://www.etalab.gouv.fr/ "Etalab - Lien externe") de la DINUM.
