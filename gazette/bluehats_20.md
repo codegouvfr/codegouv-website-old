@@ -59,6 +59,7 @@ La cérémonie du 8 novembre à Open Source Experience a réunit de nombreux par
 
 ### En France
 
+- [À la découverte de Jupyter, un logiciel scientifique libre aux millions d'utilisateurs](https://www.nextinpact.com/article/70628/a-decouverte-jupyter-logiciel-scientifique-libre-aux-millions-dutilisateurs), nextinpact.fr, Décembre 2022
 - [« L’intrusion de la géopolitique dans l’écosystème de l’open source est particulièrement inquiétante »](https://www.lemonde.fr/idees/article/2022/12/21/l-intrusion-de-la-geopolitique-dans-l-ecosysteme-de-l-open-source-est-particulierement-inquietante_6155299_3232.html), lemonde.fr, Décembre 2022
 - [Philippe Vrignaud : “Avec Démarches simplifiées, l’État se retrouve à la tête d’un commun numérique de la dématérialisation”](https://acteurspublics.fr/articles/philippe-vrignaud-avec-demarches-simplifiees-letat-se-retrouve-a-la-tete-dun-commun-numerique-de-la-dematerialisation), acteurspublics.fr, Décembre 2022
 - [Écarter les développeurs open source menace le fonctionnement des systèmes informatiques](https://www.silicon.fr/avis-expert/ecarter-les-developpeurs-open-source-menace-le-fonctionnement-des-systemes-informatiques), Décembre 2022
