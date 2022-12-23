@@ -46,7 +46,7 @@ La cérémonie du 8 novembre à Open Source Experience a réunit de nombreux par
 
 - [FOSDEM](https://fosdem.org/2023/) : Samedi 4 et Dimanche 5 février, à Bruxelles. La liste des stands est maintenant visible, le programme est publié progressivement.
 
-## Offre de financement grâce au projet Horizon Europe « NGI Search »
+## Offre de financement : projet Horizon Europe « NGI Search »
 
 - Bénéficiaires :  Start-ups, PME/TPE, associations, chercheurs, particuliers.
 - Sujet : Soutenir l’adoption et le développement à l'innovation numérique dans le domaine de la recherche et de la découverte de données et de ressources générales sur Internet.
