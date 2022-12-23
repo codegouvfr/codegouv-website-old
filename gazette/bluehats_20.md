@@ -24,7 +24,7 @@ La DINUM a signé pour 2023 une convention avec [OW2](https://www.ow2.org/), ass
 
 `>>` [Lire la convention DINUM/OW2 en PDF](https://man.sr.ht/~etalab/logiciels-libres/docs/Convention_OW2_Dinum_2022.pdf)
 
-## Présentation des résultats de l’étude du marché open source 2022
+## Résultats de l’étude du marché open source 2022
 
 Les résultats de l’étude du marché open source en France et en Europe menée par le CNLL, Systematic et Numeum, ont été présentés le 8 novembre à 12h. Le marché de l’Open Source a été multiplié par 40 en France en moins de 20 ans pour représenter presque 6 milliards d’euros de CA annuel. La France reste le premier marché européen pour le logiciel libre.
 
