@@ -19,8 +19,8 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 - 6 janvier 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [inseca](https://github.com/DGAC/inseca) (DGAC) ([détails](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#6-janvier--pr%C3%A9sentation-de-httpsgithubcomdgacinseca))
 - 20 janvier 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de la contribution de l’État à Samba
 - 3 février 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation d’[Osuny](https://www.osuny.org/)
-- 17 février 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Implémentations libres pour le metaverse
-- 3 mars 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation d'[atlaSanté](https://www.atlasante.fr)
+- 17 février 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Des implémentations libres pour le métavers
+- 3 mars 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation d'[AtlaSanté](https://www.atlasante.fr)
 
 ## Ateliers à revoir
 
@@ -58,7 +58,7 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 - [5 mars 2021](/ateliers/scenari-opale) : Atelier de découverte de Scenari Opale
 - [22 janvier 2021](/ateliers/proxmox) : Présentation de Proxmox
 - [18 Décembre 2020](/ateliers/esup-pod-openmole) : Esup Pod et OpenMole
-- [27 Novembre 2020](/ateliers/exemples-gouvernance-logiciels-libres-secteur-public) : La gouvernance de logiciels libres issus du secteur public (2/2) (Prodige et Atlasanté)
+- [27 Novembre 2020](/ateliers/exemples-gouvernance-logiciels-libres-secteur-public) : La gouvernance de logiciels libres issus du secteur public (2/2) (Prodige et AtlaSanté)
 - [20 Novembre 2020](/ateliers/xwiki) : Présentation des fonctionnalités principales d’XWiki
 - [23 Octobre 2020](/ateliers/exemples-gouvernance-logiciels-libres-secteur-public) : La gouvernance de logiciels libres issus du secteur public (1/2)
 - [17 Juillet 2020](/ateliers/matomo) : Wébinaire Matomo
