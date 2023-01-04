@@ -19,4 +19,4 @@ Son API lui permet également d'être pilotée facilement par un outil d'orchest
 
 Un service d'assistance/support payant est disponible si la communauté de suffit pas.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x83k79m" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe title="Atelier BlueHats: présentation de Proxmox" src="https://tube.numerique.gouv.fr/videos/embed/9b0132bd-be4a-48be-a5cb-0ffcb93e272e" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>

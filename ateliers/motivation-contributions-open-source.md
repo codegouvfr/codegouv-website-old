@@ -11,13 +11,13 @@ Présentation de l'article de Nicolas Jullien jusqu'à 45'04" : « Can Open Sour
 
 Intervention de Teresa Gomez-Diaz à partir de 45'05" sur la production de logiciels libres au Laboratoire d'Informatique Gaspard-Monge (LIGM) - voir [le support de présentation](http://igm.univ-mlv.fr/~teresa/logicielsLIGM/documents/Seminaires/2021avrilBlueHats_TGD.pdf).
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x8314eo" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe title="Atelier BlueHats: quelle motivation pour contribuer à des projets open source ? (1/2)" src="https://tube.numerique.gouv.fr/videos/embed/14c17901-978e-4e54-9a4a-4da248dd179c" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 ## 25 juin 2021 : Deuxème partie
 
 Suite de la présentation de [Nicolas Jullien](https://cv.archives-ouvertes.fr/nicolas-jullien) du 9 avril 2021.  Vous pouvez consulter l'[article](https://hal.archives-ouvertes.fr/hal-00737173) à l'origine de la présentation et télécharger [une sélection d'articles et de ressources](https://box.bzg.io/cloud/index.php/s/5wiMKnArmxnDKw5) associées.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x82vcuf" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe title="Atelier BlueHats: quelle motivation pour contribuer à des projets open source (2/2) ?" src="https://tube.numerique.gouv.fr/videos/embed/0bfda716-9a5a-47e9-a54d-945992cd2624" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 # Supports de présentation
 

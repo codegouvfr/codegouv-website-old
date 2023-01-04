@@ -7,6 +7,7 @@ tags: bluehats
 
 *Interventions de Joseph Garrone.*
 
-- Le site web de Keycloakify : [www.keycloakify.dev](https://www.keycloakify.dev)
+Le site web de Keycloakify : [www.keycloakify.dev](https://www.keycloakify.dev).
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x8cby34" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe title="Atelier BlueHats du 8 juillet 2022 : présentation de Keycloakify" src="https://tube.numerique.gouv.fr/videos/embed/24357baa-6569-446b-914b-65955fd93e67" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+

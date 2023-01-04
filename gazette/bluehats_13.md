@@ -37,7 +37,7 @@ Le médialab de SciencesPo, fondé par Bruno Latour il y a maintenant une dizain
 -   [24 septembre](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#24-septembre--pr%C3%A9sentation-du-standard-pour-un-code-informatique-public-et-retour-dexp%C3%A9rience-openfisca-en) : OpenFisca et Public Code Foundation
 -   [10 septembre](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#10-septembre--pr%C3%A9sentation-de-la-messagerie-collaborative-de-l%C3%A9tat) : la Messagerie Collaborative de l'Etat
 
-Les vidéos des ateliers sont publiées au fil de l'eau sur [la chaîne \#BlueHats d'Etalab](https://www.dailymotion.com/playlist/x767bq).
+Les vidéos des ateliers sont publiées au fil de l'eau sur [la chaîne \#BlueHats d'Etalab](https://tube.numerique.gouv.fr/a/logicielslibres/video-channels).
 
 ## Ouverture des candidatures du prix science ouverte du logiciel libre de la recherche
 

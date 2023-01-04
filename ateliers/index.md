@@ -10,7 +10,7 @@ layout: page
 
 Les ateliers `BlueHats` sont des visioconférences ou des agents publics présentent des logiciels libres qu'ils utilisent ou développent.  Ils se tiennent un ou deux vendredi par mois de 11h à 12h30.
 
-Tout le monde peut y accéder en ligne via [ce lien](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b).  Ils sont aussi visibles en rediffusion sur [la chaîne `BlueHats` d'Etalab](https://www.dailymotion.com/playlist/x767bq).
+Tout le monde peut y accéder en ligne via [ce lien](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b).  Ils sont aussi visibles en rediffusion sur [la chaîne `BlueHats` d'Etalab](https://tube.numerique.gouv.fr/a/logicielslibres/video-channels).
 
 Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/ateliers-bluehats.ics).
 
@@ -56,6 +56,7 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 - [26 mars 2021](/ateliers/ow2-good-governance-initiative) : Atelier sur OW2 Good Governance Initiative
 - [12 mars 2021](/ateliers/matomo) : Atelier de mise à jour RGPD pour Matomo
 - [5 mars 2021](/ateliers/scenari-opale) : Atelier de découverte de Scenari Opale
+- [29 janvier 2021](/ateliers/sambaedu) : Présentation de SambaÉdu
 - [22 janvier 2021](/ateliers/proxmox) : Présentation de Proxmox
 - [18 Décembre 2020](/ateliers/esup-pod-openmole) : Esup Pod et OpenMole
 - [27 Novembre 2020](/ateliers/exemples-gouvernance-logiciels-libres-secteur-public) : La gouvernance de logiciels libres issus du secteur public (2/2) (Prodige et AtlaSanté)

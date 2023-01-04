@@ -7,4 +7,4 @@ tags: bluehats
 
 *Interventions de Pascal Bastien et de XWiki.*
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x82vcu8" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe title="Atelier BlueHats: présentation des fonctionnalités principales d'XWiki" src="https://tube.numerique.gouv.fr/videos/embed/fddbfae3-2aa5-491b-93f0-f334a195ea78" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
