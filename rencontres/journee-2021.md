@@ -17,6 +17,6 @@ tags: bluehats
 - Le logiciel libre à l’Agence de Mutualisation des Universités et établissements, David Rongeat ([revoir](https://tube.numerique.gouv.fr/w/xmNp8f277HPhWMxigdBUaq "Le logiciel libre à l’Agence de Mutualisation des Universités et établissements, David Rongeat - Lien externe"))
 - Démarches simplifiées par l’Adullact, Pascal Kuczynski ([revoir](https://tube.numerique.gouv.fr/w/bsBENV5ZR6sXQjfRkQsaUs "Démarches simplifiées par l’Adullact, Pascal Kuczynski - Lien externe"))
 - Open source, numérique et environnement, par la mission Green Tech, Richard Hanna ([revoir](https://tube.numerique.gouv.fr/w/eXo6fqe7ajL6fNjTexWuzb "Open source, numérique et environnement, par la mission Green Tech, Richard Hanna - Lien externe"))
-- Framadate : améliorer design et accessibilité, par le pôle Design des services numériques de la DINUM, Thomas Bonamy et Erwan le Gall ([revoir](https://dai.ly/x85y301 "Framadate : améliorer design et accessibilité, par le pôle Design des services numériques de la DINUM - Lien externe"))
+- Framadate : améliorer design et accessibilité, par le pôle Design des services numériques de la DINUM, Thomas Bonamy et Erwan le Gall ([revoir](https://tube.numerique.gouv.fr/w/vL64ovoctZxMv5MjLTJgwP "Framadate : améliorer design et accessibilité, par le pôle Design des services numériques de la DINUM - Lien externe"))
 - Présentation de la suite éditoriale Scenari et cas d’application dans l’enseignement supérieur, Sandrine Dewez
 - La démarche open source du Health Data Hub, Lorien Benda

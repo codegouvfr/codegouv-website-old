@@ -67,7 +67,7 @@ Nous avons participé à l'[Open Source Policy Summit 2022](https://summit.openf
 
 Retrouvez aussi l'allocution [vidéo](https://www.youtube.com/watch?v=Rr-QcKqhoI8) de la ministre de Transformation et de la Fonction publiques Amélie de Montchalin lors de cet événement.
 
-Nous avons participé au [FOSDEM 2022](https://fosdem.org/2022/) avec deux interventions : *We listed +9000 public code repositories. Now what?* ([vidéo](https://dai.ly/x87r20r)) et *What is special about open source research software and why does it matters?* ([vidéo](https://dai.ly/x87r1wo)).
+Nous avons participé au [FOSDEM 2022](https://fosdem.org/2022/) avec deux interventions : *We listed +9000 public code repositories. Now what?* ([vidéo](https://tube.numerique.gouv.fr/w/kh3pRKx5J66LyUeEPsuYUD)) et *What is special about open source research software and why does it matters?* ([vidéo](https://tube.numerique.gouv.fr/w/w6g3sP5dUSb26K43xdcQdn)).
 
 Retrouvez nos autres interventions sur la [page dédiée de notre wiki](https://man.sr.ht/~etalab/logiciels-libres/ressources.md).
 
