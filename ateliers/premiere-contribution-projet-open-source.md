@@ -11,7 +11,7 @@ Vous en avez envie depuis longtemps et n'avez jamais sauté le pas ? L'objectif 
 
 L'atelier vous expliquera l’intérêt de contribuer, vous permettra d’identifier les projets auxquels vous pouvez contribuer, les règles à respecter et les outils pour le faire. L'atelier présentera aussi différents programmes permettant de démarrer des contributions et vous fera faire votre première contribution.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x82vd1i" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe title="Atelier BlueHats: votre première contribution à un logiciel libre" src="https://tube.numerique.gouv.fr/videos/embed/76ba0ccc-0eb2-44a2-a053-6300759205f8" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 ## Support de présentation
 

@@ -7,4 +7,4 @@ tags: bluehats
 
 *Interventions de Line Rahal (ANSM), Antoine Biard (HAS), Rémi Delbouys (Envinorma).  Vous pouvez explorer [le dépôt de code présenté](https://github.com/antoan2/le-grand-dashbat).*
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x82vd1m" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe title="Atelier BlueHats: Présentation du framework Dash" src="https://tube.numerique.gouv.fr/videos/embed/cb11c341-c4d4-4353-9bba-67c46055f9bc" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>

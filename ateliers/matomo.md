@@ -9,9 +9,8 @@ tags: bluehats
 
 ## 17 juillet 2020 : Présentation de Matomo
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x82vcuh" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe title="Atelier BlueHats: présentation de Matomo" src="https://tube.numerique.gouv.fr/videos/embed/1edd2a02-f3bf-4f48-895b-2b82cc590df6" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 ## 12 mars 2021 : Atelier de mise à jour RGPD pour Matomo
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x82vcug" width="100%" height="100%" allowfullscreen > </iframe> </div>
-
+<iframe title="Atelier BlueHats: mise à jour RGPD pour Matomo" src="https://tube.numerique.gouv.fr/videos/embed/84412ac0-ee64-4527-bf90-a2b641f70b93" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>

@@ -9,8 +9,10 @@ tags: bluehats
 
 AtlaSanté est le système d'information géographique mutualisé des ARS. Lancé en 2010, au moment de la création des ARS, il est aujourd'hui le support d'une trentaine de projets métiers : Ambroisie, DAE, légionellose, Eau potable, Cartosanté, entre autres.  C'est aussi un annuaire de données et de services d'accès aux données utiles au domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x82vcuc" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe title="Atelier BlueHats: présentation de Prodige et Atlasanté" src="https://tube.numerique.gouv.fr/videos/embed/35dc98e3-574f-44f3-bc2d-8bcb6b1f3885" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 ## 23 octobre 2020 : Geotrek/Geonature et Scenari/Opale
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x82vd1g" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe title="Atelier BlueHats: Geotrek et Geonature" src="https://tube.numerique.gouv.fr/videos/embed/7f079af8-78b8-4ed1-9b5e-cfc3bd151f0f" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+
+<iframe title="Atelier BlueHats : La chaîne éditoriale Scenari, histoire et gestion d'une mise en libre" src="https://tube.numerique.gouv.fr/videos/embed/0bbdf10e-c9b0-40fd-b77b-e9ddc6ddd0e7" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>

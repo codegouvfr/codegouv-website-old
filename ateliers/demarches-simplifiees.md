@@ -7,7 +7,7 @@ tags: bluehats
 
 *Interventions de Christophe Robillard et Philippe Vrignaud (DINUM) et Pascal Kuczynski et Matthieu Faure (ADULLACT).*
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x8a99vx" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe title="Atelier BlueHats de présentation de Démarches simplifiées" src="https://tube.numerique.gouv.fr/videos/embed/46ba900a-9f7c-4ab8-9ea3-99ea879bad97" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 ## Support de présentation
 

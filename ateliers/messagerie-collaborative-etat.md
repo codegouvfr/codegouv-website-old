@@ -13,4 +13,5 @@ Bref historique de la Messagerie Collaborative de l'État (MCE), présentation d
 - Vision stratégique de cette solution de messagerie OpenSource, Patrick Chaléat et Cyril Aeck, Chef et Adjoint du groupe
 - Démo de la solution colaborative conçue autour de cette écosystème, Julien Delamarre & Thomas Payen, DévOps/Team Leader Apitech
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x84dwt0" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe title="Atelier BlueHats - présentation de la messagerie collaborative de l'Etat" src="https://tube.numerique.gouv.fr/videos/embed/b0d5ab89-2ccf-4e55-9931-ddb506354070" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+

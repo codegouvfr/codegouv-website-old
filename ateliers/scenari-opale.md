@@ -11,5 +11,4 @@ tags: bluehats
 
 Les documents créés peuvent contenir des ressources multimédia, des quiz, des évaluations, et peuvent être générés sous forme de pdf, site web, diaporama ou paquet Scorm intégrable dans Moodle ou autres plateformes LMS.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x82vcua" width="100%" height="100%" allowfullscreen > </iframe> </div>
-
+<iframe title="Atelier BlueHats: découverte de Scenari Opale" src="https://tube.numerique.gouv.fr/videos/embed/5c57921c-5e07-486a-b89d-90a62f2ab4f0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>

@@ -9,4 +9,5 @@ tags: bluehats
 
 Vous pouvez télécharger [ce document PDF](https://data.amue.fr/ressources/VersLeLibre_UnOutilDAideALaDecisionAAllerVersLeLibre_VersionFinale_V2-CCBYSA.pdf) présentant la démarche et l'outil VersLeLibre.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x87trkr" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe title="Atelier BlueHats : présentation de l'outil VersLeLibre de l'Amue" src="https://tube.numerique.gouv.fr/videos/embed/b10c0995-5fd5-4716-86a1-7a5796b09c7a" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+

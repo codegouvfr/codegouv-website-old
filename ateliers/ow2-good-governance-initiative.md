@@ -7,4 +7,5 @@ tags: bluehats
 
 *Intervention de Cédric Thomas, directeur général d'OW2 sur l'[OW2 Good Governance Initiatve](https://www.ow2.org/view/OSS_Governance/).*
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x82vcud" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe title="Atelier BlueHats: OW2 et la Good Governance Initiative" src="https://tube.numerique.gouv.fr/videos/embed/44e49612-cd95-4b4a-9a3b-bbf921957152" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+
