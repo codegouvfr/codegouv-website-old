@@ -16,7 +16,6 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 
 ## Ateliers à venir
 
-- 6 janvier 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [inseca](https://github.com/DGAC/inseca) (DGAC) ([détails](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#6-janvier--pr%C3%A9sentation-de-httpsgithubcomdgacinseca))
 - 20 janvier 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de la contribution de l’État à Samba
 - 3 février 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation d’[Osuny](https://www.osuny.org/)
 - 17 février 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Des implémentations libres pour le métavers
@@ -24,6 +23,7 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 
 ## Ateliers à revoir
 
+- [6 janvier 2023](/ateliers/inseca) : Présentation de [inseca](https://github.com/DGAC/inseca) (DGAC)
 - [9 décembre 2022](/ateliers/react-dsfr) : Présentation de [@codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
 - [28 octobre 2022](/ateliers/tdp) : Présentation de [Trunk Data Platform](https://github.com/TOSIT-IO/TDP)
 - [14 octobre 2022](/ateliers/docusaurus) : Présentation de [Docusaurus](https://docusaurus.io/), un générateur de site statique orienté documentation
