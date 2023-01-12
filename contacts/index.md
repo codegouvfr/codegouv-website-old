@@ -13,6 +13,6 @@ Pour toute demande d'information et d'accompagnement, n'hésitez pas à nous éc
 
 Le pôle logiciels libres est à votre écoute tous les lundi de 16h à 17h sur le [canal IRC #bluehats](https://web.libera.chat).
 
-Vous pouvez nous suivre sur les réseaux sociaux via [Mastodon](https://mastodon.social/@codegouvfr) ou [Twitter](https://twitter.com/codegouvfr).
+Vous pouvez nous suivre sur les réseaux sociaux via [Mastodon](https://mastodon.social/@CodeGouvFr) ou [Twitter](https://twitter.com/codegouvfr).
 
 Vous pouvez aussi [retrouver d'autres agents publics et des personnes impliquées dans le mouvement BlueHats](https://man.sr.ht/~etalab/logiciels-libres/espaces-communication-bluehats.md).
