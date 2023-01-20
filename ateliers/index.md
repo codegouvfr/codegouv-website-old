@@ -22,7 +22,7 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 
 ## Ateliers à revoir
 
-- [20 janvier 2023](/ataliers/samba-ad) : Présentation de la contribution de l’État à Samba-AD
+- [20 janvier 2023](/ateliers/samba-ad) : Présentation de la contribution de l’État à Samba-AD
 - [6 janvier 2023](/ateliers/inseca) : Présentation de [inseca](https://github.com/DGAC/inseca) (DGAC)
 - [9 décembre 2022](/ateliers/react-dsfr) : Présentation de [@codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
 - [28 octobre 2022](/ateliers/tdp) : Présentation de [Trunk Data Platform](https://github.com/TOSIT-IO/TDP)
