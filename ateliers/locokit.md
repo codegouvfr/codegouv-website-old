@@ -38,4 +38,4 @@ Cet atelier permettra de vous présenter la plate-forme CaPeL à travers ses dif
 
 Vous découvrirez également l’outil libre LocoKit et les différentes fonctionnalités qui ont été utilisées dans le cadre de la fabrication de CaPeL.
 
-<iframe title="Atelier BlueHats : Présentation de Locokit" src="https://tube.numerique.gouv.fr/videos/embed/51674542-d98c-4b0f-8371-dbd8dbfd943e" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Atelier BlueHats : Présentation de Locokit" src="https://tube.numerique.gouv.fr/videos/embed/b7f46263-2e91-44ee-9007-42251946cc5b" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>

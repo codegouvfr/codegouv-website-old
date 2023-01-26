@@ -13,7 +13,7 @@ Anne-Claire Viala et Sylvia Israel (APIE, DAJ du MEFR) proposeront une introduct
 
 Voir le [guide de mise en œuvre de la clause de propriété intellectuelle](https://www.economie.gouv.fr/files/files/directions_services/apie/propriete_intellectuelle/publications/Guide_CCAG2104.pdf), avril 2021.
 
-<iframe title="Atelier BlueHats : Propriété intellectuelle dans les marchés publics" src="https://tube.numerique.gouv.fr/videos/embed/d772c461-c842-47d6-b02b-1c133a43b245" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Atelier BlueHats : Propriété intellectuelle dans les marchés publics" src="https://tube.numerique.gouv.fr/videos/embed/6a5d5720-2d1a-4d9c-b578-368ab0126f1b" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 ## Support de présentation
 

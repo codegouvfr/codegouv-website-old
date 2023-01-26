@@ -17,7 +17,7 @@ Le témoignage portera sur le retour d’expérience de RTE dans la mise en œuv
 
 Il sera complété par un aperçu de l'initiative Inner source de RTE, le DevStudio, basé sur un socle 100% open source et permettant de faciliter la transition vers un mode de développement ouvert.
 
-<iframe title="Atelier BlueHats : présentation de la stratégie open source de RTE" src="https://tube.numerique.gouv.fr/videos/embed/1dc8229d-0dd2-4e0a-b5f6-2352bf724c16" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Atelier BlueHats : présentation de la stratégie open source de RTE" src="https://tube.numerique.gouv.fr/videos/embed/9b2c1819-8a0e-436d-baa9-ebf676bf88d1" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 ## Première présentation
 

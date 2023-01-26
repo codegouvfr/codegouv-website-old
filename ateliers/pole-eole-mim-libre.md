@@ -13,4 +13,4 @@ Issu du projet éponyme, la méta-distribution EOLE est l'association d'une dist
 
 Depuis 20 ans EOLE accompagne les grands projets numériques du Ministère de l’Éducation.  L'utilisation des logiciels libres, évolutifs et adaptables, la gouvernance agile au plus près des besoins utilisateurs, la mutualisation des compétences, toutes ses pratiques mise en œuvre par le pôle ont permis de suivre les évolutions des usages numériques sans rupture technologique et à moindre coût.
 
-<iframe title="Atelier BlueHats: présentation du pôle EOLE et de www.mim-libre.fr" src="https://tube.numerique.gouv.fr/videos/embed/edc51cf6-8c13-4f46-b188-5c3382535e16" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Atelier BlueHats: présentation du pôle EOLE et de www.mim-libre.fr" src="https://tube.numerique.gouv.fr/videos/embed/e7699e67-d7ef-4092-bbc4-d270546e61b6" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>

@@ -13,5 +13,5 @@ Orienté pédagogie, SambaÉdu est déployé dans les écoles, lycées et collè
 
 Éric Mercier (ac-versailles) fera la présentation de SambaÉdu puis Denis Bonnenfant (ac-paris) présentera ensuite le projet "connexe" Apache/Guacamole.
 
-<iframe title="Atelier BlueHats: présentation de SambaÉdu" src="https://tube.numerique.gouv.fr/videos/embed/90f92b07-437f-4e3e-8dda-4c3e94b5928d" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Atelier BlueHats: présentation de SambaÉdu" src="https://tube.numerique.gouv.fr/videos/embed/d7fd8045-e5a2-439a-a812-6df50ad88d64" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 

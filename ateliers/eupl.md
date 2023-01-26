@@ -7,4 +7,4 @@ tags: bluehats
 
 *Intervention de Patrice-Emmanuel Schmitz, consultant pour le programme [Joinup](https://joinup.ec.europa.eu/) de la Commission européenne.*
 
-<iframe title="Atelier BlueHats : présentation de la licence européenne publique EUPL" src="https://tube.numerique.gouv.fr/videos/embed/387d6c14-e2ac-4049-afde-7c9e5b04b390" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Atelier BlueHats : présentation de la licence européenne publique EUPL" src="https://tube.numerique.gouv.fr/videos/embed/14eb6c25-4017-4c62-a6d5-093417e51f8e" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>

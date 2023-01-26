@@ -11,4 +11,4 @@ Quel contrat ai-je accepté en utilisant un service numérique ? Les conditions 
 
 Un outil simple permet désormais de répondre à ces questions : [Open Terms Archive](https://disinfo.quaidorsay.fr/en/open-terms-archive).
 
-<iframe title="Atelier BlueHats: présentation d'Open Terms Archive" src="https://tube.numerique.gouv.fr/videos/embed/5e97f4ca-e688-440e-9f35-a55e4d990e0b" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Atelier BlueHats: présentation d'Open Terms Archive" src="https://tube.numerique.gouv.fr/videos/embed/fe05d33e-b0fb-45e5-b668-3106ab643995" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
