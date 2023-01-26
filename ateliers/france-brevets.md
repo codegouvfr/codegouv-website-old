@@ -7,7 +7,7 @@ tags: bluehats
 
 *Intervention de Didier Patry, Guillaume Ménage et Adriano Spatola de [France Brevets](https://www.francebrevets.com/).*
 
-<iframe title="Atelier BlueHats: présentation de France Brevets" src="https://tube.numerique.gouv.fr/videos/embed/5d86c7a0-541e-4622-a3b2-a8d718e0929e" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Atelier BlueHats: présentation de France Brevets" src="https://tube.numerique.gouv.fr/videos/embed/fa2c52a6-3b9d-479d-9b31-c8edfe3b3c73" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 ## Support de présentation
 

@@ -21,4 +21,4 @@ Cette présentation couvre ces aspects :
 -   Présentation des idées de bases de NixOS: la dérivation « système », le système de modules NixOS, retours en arrière natifs
 -   Présentation de ce qu'on peut faire avec NixOS: capturer son système sous forme d'expression, gérer des flottes de serveurs, tester sans peur, introspecter son système
 
-<iframe title="Atelier BlueHats du 16 septembre 2022 : Présentation de NixOS et son écosystème" src="https://tube.numerique.gouv.fr/videos/embed/76973977-0cab-48d2-8c0c-1ba1d6cd2e5f" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Atelier BlueHats du 16 septembre 2022 : Présentation de NixOS et son écosystème" src="https://tube.numerique.gouv.fr/videos/embed/7efb2563-b1ae-4f21-98bb-97d1bf593f9e" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>

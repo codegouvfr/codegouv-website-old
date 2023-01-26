@@ -19,4 +19,4 @@ Son API lui permet également d'être pilotée facilement par un outil d'orchest
 
 Un service d'assistance/support payant est disponible si la communauté de suffit pas.
 
-<iframe title="Atelier BlueHats: présentation de Proxmox" src="https://tube.numerique.gouv.fr/videos/embed/9b0132bd-be4a-48be-a5cb-0ffcb93e272e" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Atelier BlueHats: présentation de Proxmox" src="https://tube.numerique.gouv.fr/videos/embed/fd03a695-e87d-4794-aee3-d5faccbc9881" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>

@@ -22,4 +22,4 @@ Le choix volontaire d'utiliser des technologies Open Source et de libérer de 10
 
 Cet atelier permettra de vous présenter l’outil et ses différentes fonctionnalités ainsi que les possibilités de déploiement et d’utilisation sur votre territoire.
 
-<iframe title="Atelier BlueHats - Présentation de GeoRivière" src="https://tube.numerique.gouv.fr/videos/embed/6c1c5be6-0ca3-40de-bb2e-03ea88605266" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Atelier BlueHats - Présentation de GeoRivière" src="https://tube.numerique.gouv.fr/videos/embed/106e1983-ef96-49dd-bbe3-d708886c84b1" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>

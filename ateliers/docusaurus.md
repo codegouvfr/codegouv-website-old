@@ -13,4 +13,4 @@ L'idée est de déployer sa documentation le plus rapidement possible, sans avoi
 
 Après 4 ans de développement, la version 2.0 vient de sortir officiellement, mais la beta était déjà largement utilisée en production (voir [la galerie](https://docusaurus.io/showcase)). Quelques exemples : [Figma](https://www.figma.com/plugin-docs/), [Snapchat](https://docs.snap.com), [React-Native](https://reactnative.dev), [Jest](https://jestjs.io) [Supabase](https://supabase.com/docs), [Ionic](https://ionicframework.com/docs).
 
-<iframe title="Atelier BlueHats: présentation de Docusaurus" src="https://tube.numerique.gouv.fr/videos/embed/f30eb7f3-612f-4c29-8a57-9e8e26877bf9" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Atelier BlueHats: présentation de Docusaurus" src="https://tube.numerique.gouv.fr/videos/embed/343dc704-b6da-42c2-ac47-8380a4687701" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>

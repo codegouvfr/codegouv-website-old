@@ -17,4 +17,4 @@ En s’inspirant des travaux de Sarah Lawsky, professeure de droit fiscal et tit
 
 Le projet est soutenu par une équipe interdisciplinaire comprenant notamment Denis Merigoux, doctorant en informatique à l’Inria, et Liane Huttner, doctorante en droit à Paris I.
 
-<iframe title="Atelier BlueHats de présentation du langage Catala" src="https://tube.numerique.gouv.fr/videos/embed/c5ea5746-932f-4902-8fc4-3f908eb5dbd9" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Atelier BlueHats de présentation du langage Catala" src="https://tube.numerique.gouv.fr/videos/embed/7aee5d57-fd06-4635-bb7e-0c5849089dd6" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>

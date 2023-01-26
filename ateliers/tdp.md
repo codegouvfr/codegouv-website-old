@@ -21,4 +21,4 @@ La construction de cette distribution a pour objectif d’assurer l’autonomie 
 
 D’autres participants au groupe TOSiT (RTE, OCDE, BPCE, Orange, ScaledRisk, etc) ont exprimé leur enthousiasme à nous rejoindre dans le cadre de ce projet.
 
-<iframe title="Atelier BlueHats: présentation de Trunk Data Platform" src="https://tube.numerique.gouv.fr/videos/embed/699e12dd-b1f1-4207-9045-c5dc052fcb53" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Atelier BlueHats: présentation de Trunk Data Platform" src="https://tube.numerique.gouv.fr/videos/embed/67558007-4039-4712-8c7c-cb405040e929" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
