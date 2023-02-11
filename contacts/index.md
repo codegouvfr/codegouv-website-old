@@ -7,7 +7,7 @@ linkTitle: À propos de communs.numerique.gouv.fr
 
 Pour toute demande d'information et d'accompagnement, n'hésitez pas à nous écrire :
 
-- Le pôle logiciels libres d'[Etalab](https://etalab.gouv.fr) : [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr)
+- Le pôle logiciels libres d'[Etalab](https://etalab.gouv.fr) : [contact@code.gouv.fr](mailto:contact@code.gouv.fr)
 - La mission [LABEL](https://catalogue.numerique.gouv.fr/) : [label.dinum@modernisation.gouv.fr](mailto:label.dinum@modernisation.gouv.fr)
 - La mission [TALENTS](https://metiers.numerique.gouv.fr/) : [talents.numeriques@modernisation.gouv.fr](mailto:talents.numeriques@modernisation.gouv.fr)
 

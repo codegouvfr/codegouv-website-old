@@ -26,7 +26,7 @@ Le site est déployé en préproduction sur [communs.etalab.studio](https://comm
 
 Pour discuter d'évolutions éditoriales ou pour des retours devant
 rester confidentiels, écrivez à
-[logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
+[contact@code.gouv.fr](mailto:contact@code.gouv.fr).
 
 Pour des corrections de bug, envoyez vos correctifs (*patches*) à la
 liste publique

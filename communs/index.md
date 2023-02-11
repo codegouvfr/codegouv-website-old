@@ -111,5 +111,5 @@ Ces produits de l'administration publient des ressources sous licence libre et s
 </div>
 
 <div class="fr-highlight">
-  <p>Vous souhaitez proposer d'autres communs numériques d'intérêt général ?  N'hésitez pas à nous <a href="mailto:logiciels-libres@data.gouv.fr">contacter</a> !</p>
+  <p>Vous souhaitez proposer d'autres communs numériques d'intérêt général ?  N'hésitez pas à nous <a href="mailto:contact@code.gouv.fr">contacter</a> !</p>
 </div>

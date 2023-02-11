@@ -44,5 +44,5 @@ solutions:
 </div>
 
 <div class="fr-highlight">
-  <p>Besoin d'aide ou d'accompagnement ?  <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a></p>
+  <p>Besoin d'aide ou d'accompagnement ?  <a href="mailto:contact@code.gouv.fr">Contactez-nous !</a></p>
 </div>

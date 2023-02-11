@@ -5,7 +5,7 @@ layout: page
 ---
 
 <div class="fr-highlight">
-  <p>Vous souhaitez proposer un atelier <code>BlueHats</code> 🧢 ?  <a href="mailto:logiciels-libres@data.gouv.fr">Contactez-nous !</a></p>
+  <p>Vous souhaitez proposer un atelier <code>BlueHats</code> 🧢 ?  <a href="mailto:contact@code.gouv.fr">Contactez-nous !</a></p>
 </div>
 
 Les ateliers `BlueHats` sont des visioconférences ou des agents publics présentent des logiciels libres qu'ils utilisent ou développent.  Ils se tiennent un ou deux vendredi par mois de 11h à 12h30.

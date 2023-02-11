@@ -13,7 +13,7 @@ Les ateliers #BlueHats auront lieu un vendredi sur deux de 11h à 12h30 en visio
 
 Le premier atelier aura lieu le vendredi 17 juillet portera sur le logiciel libre [Matomo](https://sill.etalab.gouv.fr/fr/software?id=176) et sera animé par Ronan Chardonneau, formateur Matomo.
 
-`>>` Les ateliers #BlueHats sont ouverts à tout agent public souhaitant partager ses connaissances : n'hésitez pas à [nous contacter](mailto:opensource@data.gouv.fr) pour nous proposer une intervention !
+`>>` Les ateliers #BlueHats sont ouverts à tout agent public souhaitant partager ses connaissances : n'hésitez pas à [nous contacter](mailto:contact@code.gouv.fr) pour nous proposer une intervention !
 
 ## Focus sur Piaf: Pour des IA francophones
 
