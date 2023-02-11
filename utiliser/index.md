@@ -10,16 +10,6 @@ solutions:
   subtitle: Le catalogue de référence des logiciels libres utilisés dans l'administration.
   description: |
     Le SILL est publié depuis 2012 : chaque logiciel présent est utilisé par au moins une administration.  En tant qu'agent public inscrit au SILL, vous pouvez solliciter les référents de chaque logiciel qui pourront répondre à vos questions et vous aider dans l'appropriation de ces solutions.
-- url: https://sill.etalab.gouv.fr
-  title: Testez les logiciels du SILL depuis votre navigateur
-  subtitle: Embarquement immédiat !
-  description: |
-    Vous n'avez pas de distribution GNU/Linux sous la main mais souhaitez savoir à quoi ressemblent les dernières versions de LibreOffice, Firefox ou d'autres logiciels du SILL ?  En tant qu'agents publics, vous pouvez créer un compte sur le site de gestion du SILL et y tester directement des logiciels.
-- url: https://catalogue.numerique.gouv.fr/catalogue?distribution=Logiciel%20libre
-  title: Les solutions libres dans le catalogue GouvTech
-  subtitle: Des solutions numériques libres proposées par des entreprises et des associations à tout le secteur public.
-  description: |
-    Le catalogue GouvTech propose des logiciels ou des services en ligne, libres et non libres, référencés par les éditeurs et fournisseurs de service.
 - url: marches-interministeriels-support-expertise-logiciels-libres
   title: Les marchés interministériels support et expertise à l'usage des logiciels libres
   description: |
