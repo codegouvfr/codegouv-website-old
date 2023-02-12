@@ -4,7 +4,7 @@ packages:
   - npm
   - rsync
 secrets:
-  - d8f306d1-0290-4049-8bb4-a3f47d871b75
+  - eefc72cb-a612-4b95-a3e4-dae77d4f1fcf
 tasks:
   - install: |
       cd communs.numerique.gouv.fr
@@ -16,4 +16,4 @@ tasks:
 triggers:
   - action: email
     condition: failure
-    to: bastien.guerry@data.gouv.fr
+    to: bastien.guerry@code.gouv.fr
