@@ -11,7 +11,7 @@ tags: bluehats
 
 Le conseil d'expertise et de mobilisation logiciels libres est une instance animée par le pôle logiciels libres de la DINUM qui réunit des acteurs de l'administration publique et des acteurs de l'écosystème libre pour que tous contribuent à la réussite du [plan d'action logiciels libres et communs numériques](https://communs.numerique.gouv.fr/plan-action-logiciels-libres-et-communs-numeriques/).
 
-`>>` Retrouvez [la page du conseil](https://man.sr.ht/~etalab/logiciels-libres/conseil-logiciels-libres.md) sur le wiki du pôle logiciel libre
+`>>` Retrouvez [la page du conseil](https://man.sr.ht/~codegouvfr/logiciels-libres/conseil-logiciels-libres.md) sur le wiki du pôle logiciel libre
 `>>` Consultez le [diaporama de présentation des acteurs du conseil](https://speakerdeck.com/bluehats/presentation-du-conseil-logiciels-libres-anime-par-la-dinum)
 
 ### BlueHats Semester of Code : les projets volontaires
@@ -21,7 +21,7 @@ Le pôle logiciels libres a publié la liste des projets libres volontaires pour
 Merci à tous ces porteurs de projets de proposer des idées de contributions aussi riches !
 
 `>>` [BlueHats Semester of Code : les projets qui attendent les étudiants](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/)
-`>>` La page de [présentation générale du BSOC](https://man.sr.ht/~etalab/logiciels-libres/bluehats-semester-of-code.md) sur notre wiki
+`>>` La page de [présentation générale du BSOC](https://man.sr.ht/~codegouvfr/logiciels-libres/bluehats-semester-of-code.md) sur notre wiki
 
 ### Retour sur les rencontres sur les enjeux du logiciel libre dans la recherche
 

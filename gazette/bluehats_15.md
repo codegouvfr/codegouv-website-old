@@ -13,13 +13,13 @@ Le pôle logiciels libres lance [un appel à idées](https://communs.numerique.g
 
 `>>` Rendez-vous le vendredi *18 février à 17h* sur [ce lien de visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) pour les porteurs d'idées.
 
-`>>` Tout savoir sur le programme [BlueHats Semester of Code](https://man.sr.ht/~etalab/logiciels-libres/bluehats-semester-of-code.md).
+`>>` Tout savoir sur le programme [BlueHats Semester of Code](https://man.sr.ht/~codegouvfr/logiciels-libres/bluehats-semester-of-code.md).
 
 ## Autres annonces du pôle logiciels libres
 
 **Tout savoir sur les marchés logiciels libres** : avec l'aide de la DGFiP, nous avons publié des [informations sur sur les marchés de support et d'expertise logiciels libres](https://communs.numerique.gouv.fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/).
 
-**Comment organiser votre veille sur les actions du pôle logiciels libres ?** Retrouvez [la page dédiée](https://man.sr.ht/~etalab/logiciels-libres/veille.md) sur notre wiki.
+**Comment organiser votre veille sur les actions du pôle logiciels libres ?** Retrouvez [la page dédiée](https://man.sr.ht/~codegouvfr/logiciels-libres/veille.md) sur notre wiki.
 
 ## Focus : la boîte à outils numérique écoresponsable
 
@@ -69,7 +69,7 @@ Retrouvez aussi l'allocution [vidéo](https://www.youtube.com/watch?v=Rr-QcKqhoI
 
 Nous avons participé au [FOSDEM 2022](https://fosdem.org/2022/) avec deux interventions : *We listed +9000 public code repositories. Now what?* ([vidéo](https://tube.numerique.gouv.fr/w/kh3pRKx5J66LyUeEPsuYUD)) et *What is special about open source research software and why does it matters?* ([vidéo](https://tube.numerique.gouv.fr/w/8L73DYsPZ2ztpd7Eis4EgV)).
 
-Retrouvez nos autres interventions sur la [page dédiée de notre wiki](https://man.sr.ht/~etalab/logiciels-libres/ressources.md).
+Retrouvez nos autres interventions sur la [page dédiée de notre wiki](https://man.sr.ht/~codegouvfr/logiciels-libres/ressources.md).
 
 ## Revue de presse
 ### Des échos de nos actions
@@ -78,7 +78,7 @@ Retrouvez nos autres interventions sur la [page dédiée de notre wiki](https://
 - Retrouvez un entretien avec Bastien Guerry dans le numéro d'[IGN Magazine (hiver 2022 - PDF)](https://www.ign.fr/publications-de-l-ign/institut/kiosque/publications/IGN_Magazine/105/ign_mag_105.pdf) ainsi qu'une rubrique « Les logiciels libres, des atouts pour la recherche et l’enseignement »
 - Un [article sur linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6887744635700097024/) de Valentin Olive avec un retour sur la rencontre sur les enjeux du logiciel libre dans la recherche du 14 janvier.
 - L'école CentraleSupélec évoque son partenariat avec la DINUM pour le BlueHats Semester of Code [sur son site](https://www.linkedin.com/posts/centralesupelec_d%C3%A9veloppement-de-logiciels-libres-lancez-vous-activity-6897829796701724672-QR7u/) et [ce post linkedin](https://www.centralesupelec.fr/fr/lancez-vous-dans-le-logiciel-libre-avec-centralesupelec-et-etalab).
-- [La gazette du cloud de janvier 2022](https://news.gandi.net/fr/nl/la-gazette-du-cloud-janvier-22/) publiée par gandi.net mentionne l'argumentaire du pôle logiciels libres où nous expliquons [pourquoi nous utilisons SourceHut](https://man.sr.ht/~etalab/logiciels-libres/pourquoi-sourcehut.md) pour publier une partie de nos codes sources.
+- [La gazette du cloud de janvier 2022](https://news.gandi.net/fr/nl/la-gazette-du-cloud-janvier-22/) publiée par gandi.net mentionne l'argumentaire du pôle logiciels libres où nous expliquons [pourquoi nous utilisons SourceHut](https://man.sr.ht/~codegouvfr/logiciels-libres/pourquoi-sourcehut.md) pour publier une partie de nos codes sources.
 
 ### En France
 

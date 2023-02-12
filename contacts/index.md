@@ -15,4 +15,4 @@ Le pôle logiciels libres est à votre écoute tous les lundi de 16h à 17h sur 
 
 Vous pouvez nous suivre sur les réseaux sociaux via [Mastodon](https://mastodon.social/@CodeGouvFr) ou [Twitter](https://twitter.com/codegouvfr).
 
-Vous pouvez aussi [retrouver d'autres agents publics et des personnes impliquées dans le mouvement BlueHats](https://man.sr.ht/~etalab/logiciels-libres/espaces-communication-bluehats.md).
+Vous pouvez aussi [retrouver d'autres agents publics et des personnes impliquées dans le mouvement BlueHats](https://man.sr.ht/~codegouvfr/logiciels-libres/espaces-communication-bluehats.md).

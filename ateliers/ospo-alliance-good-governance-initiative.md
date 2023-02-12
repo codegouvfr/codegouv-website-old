@@ -5,7 +5,7 @@ layout: page
 tags: bluehats
 ---
 
-*Présentation par Boris Baldassari ([Eclipse Foundation](https://www.eclipse.org/org/foundation/)) de l'OSPO Alliance et de la Good Governance Initiative dans le cadre de la réunion « écosystème » du [conseil logiciels libres](https://man.sr.ht/~etalab/logiciels-libres/conseil-logiciels-libres.md).*
+*Présentation par Boris Baldassari ([Eclipse Foundation](https://www.eclipse.org/org/foundation/)) de l'OSPO Alliance et de la Good Governance Initiative dans le cadre de la réunion « écosystème » du [conseil logiciels libres](https://man.sr.ht/~codegouvfr/logiciels-libres/conseil-logiciels-libres.md).*
 
 <iframe title="Atelier BlueHats: OW2 et la Good Governance Initiative" src="https://tube.numerique.gouv.fr/videos/embed/44e49612-cd95-4b4a-9a3b-bbf921957152" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 

@@ -31,4 +31,4 @@ Les étudiants ont pu choisir un projet parmi [ceux qui se sont proposés](/blue
 
 Nous les avons reçus avec les porteurs de projets pour vérifier que tout le monde s'y retrouve : l'étudiant en terme d'expérience d'apprentissage, le porteur de projet pour les contributions à recevoir, et la DINUM pour la construction de cette première promotion BlueHats.
 
-### Consultez [cette page](https://man.sr.ht/~etalab/logiciels-libres/bluehats-semester-of-code.md) pour plus de détails
+### Consultez [cette page](https://man.sr.ht/~codegouvfr/logiciels-libres/bluehats-semester-of-code.md) pour plus de détails

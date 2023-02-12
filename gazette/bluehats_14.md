@@ -85,7 +85,7 @@ Voici les nouveautés du côté du SILL :
 
 Bienvenue à nos nouveaux référents !
 
-Les explications détaillées sur le SILL ont migré vers [cette page](https://man.sr.ht/~etalab/logiciels-libres/sill.md).
+Les explications détaillées sur le SILL ont migré vers [cette page](https://man.sr.ht/~codegouvfr/logiciels-libres/sill.md).
 
 
 ### Remise du prix « Territoires numériques libres » de l'Adullact

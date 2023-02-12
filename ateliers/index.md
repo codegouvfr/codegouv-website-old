@@ -12,7 +12,7 @@ Les ateliers `BlueHats` sont des visioconférences ou des agents publics présen
 
 Tout le monde peut y accéder en ligne via [ce lien](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b).  Ils sont aussi visibles en rediffusion sur [la chaîne `BlueHats` d'Etalab](https://tube.numerique.gouv.fr/a/logicielslibres/video-channels).
 
-Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/ateliers-bluehats.ics).
+Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/ateliers-bluehats.ics).
 
 ## Ateliers à venir
 
@@ -35,7 +35,7 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 - [10 juin 2022](/ateliers/georiviere) : Présentation de GeoRivière
 - [20 mai 2022](/ateliers/catala) : Présentation de [Catala](https://catala-lang.org)
 - [22 avril 2022](/ateliers/demarches-simplifiees) : Présentation de [Démarches simplifiées](https://github.com/betagouv/demarches-simplifiees.fr/)
-- [8 avril 2022](/ateliers/ospo-alliance-good-governance-initiative) : Présentation de l'OSPO Alliance et de la *Good Governance Initiative* lors du [conseil logiciels libres](https://man.sr.ht/~etalab/logiciels-libres/conseil-logiciels-libres.md)
+- [8 avril 2022](/ateliers/ospo-alliance-good-governance-initiative) : Présentation de l'OSPO Alliance et de la *Good Governance Initiative* lors du [conseil logiciels libres](https://man.sr.ht/~codegouvfr/logiciels-libres/conseil-logiciels-libres.md)
 - [8 avril 2022](/ateliers/france-brevets) : Présentation de [France Brevets](https://www.francebrevets.com/)
 - [11 mars 2022](/ateliers/squash-tm) : Les tests fonctionnels à l'Agirc Arrco avec [Squash TM](https://sill.etalab.gouv.fr/fr/software?id=137)
 - [25 février 2022](/ateliers/eupl) : Présentation de la licence européenne publique (EUPL)

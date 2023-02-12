@@ -2,7 +2,7 @@
 title: "BlueHats Semester of Code : la nouvelle promotion"
 layout: page
 people:
-  - projectUrl : https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/sysma.md
+  - projectUrl : https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/sysma.md
     projectName: Sysma
     name: Antoine Simon
     description: |
@@ -10,7 +10,7 @@ people:
       <br><br>
       Dans le cadre du programme, je contribue au logiciel libre Sysma développé par l’Établissement Public Territorial du Bassin de la Sèvre Nantaise et servant au suivi de l'état des cours d'eau et des travaux qui y sont menés.
     imgSrc: /img/bsoc2022/antoine_simon.jpg
-  - projectUrl : https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/environmental-sensing.md
+  - projectUrl : https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/environmental-sensing.md
     projectName: Environmental Sensing
     name: Dimitri Martin
     description: |
@@ -18,7 +18,7 @@ people:
       <br><br>
       Avec Philippe Thomy, je travaille sur le logiciel Environmental Sensing qu’il a créé l’année dernière et dont le but est de faciliter l’exploitation des données environnementales.
     imgSrc: /img/bsoc2022/dimitri_martin.jpeg
-  - projectUrl : https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/openfoodfacts.md
+  - projectUrl : https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/openfoodfacts.md
     projectName: Open Food Facts
     name: Gabriel Ben Zenou
     description: |
@@ -26,7 +26,7 @@ people:
       <br><br>
       Dans ce cadre, je travaille désormais en tant que stagiaire aux côtés de l’association Open Food Facts pour aider au développement de l’application libre éponyme, chargée de donner accès aux données nutritionnelles et écologiques des produits alimentaires aux populations.
     imgSrc: /img/bsoc2022/gabriel_ben_zenou.png
-  - projectUrl : https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/onyxia.md
+  - projectUrl : https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/onyxia.md
     projectName: Onyxia
     name: Mohamed Amine Ben Salha
     description: |
@@ -34,7 +34,7 @@ people:
       <br><br>
       Ce stage me permet d'acquérir de nouvelles compétences en DevOps et en intégration continue tout en mettant en pratique mes compétences en science des données. De plus, les frameworks open source ont toujours été au cœur de mes projets et ce stage me permet de mieux appréhender la politique des projets open source et de leur communauté.
     imgSrc: /img/bsoc2022/mohamed_amine_ben_salha.jpg
-  - projectUrl : https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/e-combox.md
+  - projectUrl : https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/e-combox.md
     projectName: e-comBox
     name: Sarah Orbach
     description: |
@@ -42,7 +42,7 @@ people:
       <br><br>
       Dans le cadre du BlueHats Semester of Code, je contribue au projet e-comBox pour l’éducation nationale qui permet à des professeurs de BTS commerce de créer des sites d’études de cas pour leurs étudiants.
     imgSrc: /img/bsoc2022/sarah_orbach.png
-  - projectUrl : https://man.sr.ht/~etalab/logiciels-libres/bsoc2022/vlc.md
+  - projectUrl : https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/vlc.md
     projectName: VideoLAN
     name: Yann Lochet
     description: |

@@ -1,6 +1,6 @@
-[![Software License](https://img.shields.io/badge/Licence-MIT%2C%20Licence%20Ouverte-orange.svg?style=flat-square)](https://git.sr.ht/~etalab/communs.numerique.gouv.fr/tree/main/item/LICENSES)
+[![Software License](https://img.shields.io/badge/Licence-MIT%2C%20Licence%20Ouverte-orange.svg?style=flat-square)](https://git.sr.ht/~codegouvfr/communs.numerique.gouv.fr/tree/main/item/LICENSES)
 
-**Attention**: le dépôt source est [git.sr.ht/~etalab/communs.numerique.gouv.fr](https://git.sr.ht/~etalab/communs.numerique.gouv.fr), la version [github.com/codegouvfr/communs.numerique.gouv.fr](https://github.com/codegouvfr/communs.numerique.gouv.fr) ne doit pas être utilisée pour les développements.
+**Attention**: le dépôt source est [git.sr.ht/~codegouvfr/communs.numerique.gouv.fr](https://git.sr.ht/~codegouvfr/communs.numerique.gouv.fr), la version [github.com/codegouvfr/communs.numerique.gouv.fr](https://github.com/codegouvfr/communs.numerique.gouv.fr) ne doit pas être utilisée pour les développements.
 
 # Site communs.numerique.gouv.fr
 
@@ -30,7 +30,7 @@ rester confidentiels, écrivez à
 
 Pour des corrections de bug, envoyez vos correctifs (*patches*) à la
 liste publique
-[~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).
+[~codegouvfr/logiciels-libres@lists.sr.ht](mailto:~codegouvfr/logiciels-libres@lists.sr.ht).
 
 **Attention** à configurer votre copie locale du dépôt de façon à ce
 que les correctifs envoyés sur la liste soient bien liés à ce dépôt :
