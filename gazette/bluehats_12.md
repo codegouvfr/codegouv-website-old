@@ -65,27 +65,13 @@ Le projet [Archifiltre](https://archifiltre.fabrique.social.gouv.fr/) recrute un
 
 -   **18, 19 et 20 octobre 2021** : Comme chaque année, l'association Scenari organise ses **Rencontres Scenari**.
 
-    Scenari, c'est un ensemble de logiciels dédiés à la création
-    collaborative structurée, et publication/diffusion de contenus
-    multimédias et multisupports. Ils sont très utilisés dans le
-    domaine de la formation et de la documentation, mais servent aussi
-    pour l'audiovisuel, la qualité, ou les clés de déterminations,
-    &#x2026;
+    Scenari, c'est un ensemble de logiciels dédiés à la création collaborative structurée, et publication/diffusion de contenus multimédias et multisupports. Ils sont très utilisés dans le domaine de la formation et de la documentation, mais servent aussi pour l'audiovisuel, la qualité, ou les clés de déterminations, &#x2026;
 
-    Les Télé-Rencontres Scenari 2021, c'est l'occasion de découvrir
-    ces outils et comment ils peuvent améliorer vos contenus et vous
-    faire gagner du temps dans leur création. C'est aussi l'occasion
-    de connaître de nouvelles fonctionnalités et de nouveaux usages
-    grâce à des ateliers et des conférences.
+    Les Télé-Rencontres Scenari 2021, c'est l'occasion de découvrir ces outils et comment ils peuvent améliorer vos contenus et vous faire gagner du temps dans leur création. C'est aussi l'occasion de connaître de nouvelles fonctionnalités et de nouveaux usages grâce à des ateliers et des conférences.
 
-    Comme l'année dernière, raisons sanitaires obligent, les
-    Télé-Rencontres Scenari 2021 se déroulement principalement en
-    ligne : les contenus seront disponibles courant octobre et des
-    sessions de visioconférence seront organisées les 18-19-20
-    octobre.
+    Comme l'année dernière, raisons sanitaires obligent, les Télé-Rencontres Scenari 2021 se déroulement principalement en ligne : les contenus seront disponibles courant octobre et des sessions de visioconférence seront organisées les 18-19-20 octobre.
 
-    Toutes les informations sont ou seront disponibles sur le site des
-    Rencontres 2021 : <https://scenari.org/rencontres2021/>
+    Toutes les informations sont ou seront disponibles sur le site des Rencontres 2021 : <https://scenari.org/rencontres2021/>
 
 -   **9 novembre 2021** : *Save the date* pour une journée BlueHats lors du salon [Open Source Experience](https://www.opensource-experience.com/).  Tenez-vous prêts à répondre à l'appel que nous enverrons pour des présentations courtes, sur le même format qu'en [2019](https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614) !  Si vous avez déjà des propositions, n'hésitez pas à nous [écrire](mailto:bluehats@etalab.gouv.fr).
 
