@@ -1,6 +1,6 @@
 ---
 title: Les guides
-linkTitle: Le pôle logiciels libres vous accompagne dans la mise en oeuvre du plan d'action
+linkTitle: La mission logiciels libres vous accompagne dans la mise en oeuvre du plan d'action
 layout: page
 eleventyNavigation:
   key: Guides

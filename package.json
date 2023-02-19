@@ -1,5 +1,5 @@
 {
-  "name": "communs.numerique.gouv.fr",
+  "name": "code.gouv.fr",
   "version": "0.1.0",
   "description": "Mission logiciels libres et communs numériques",
   "scripts": {
@@ -14,11 +14,11 @@
     "url": "git://git.sr.ht/~codegouvfr/communs.numerique.gouv.fr"
   },
   "author": {
-    "name": "Pôle logiciels libres (Etalab/DINUM)",
+    "name": "Mission logiciels libres (DINUM)",
     "email": "contact@code.gouv.fr"
   },
   "license": "etalab-2.0",
-  "homepage": "https://communs.numerique.gouv.fr",
+  "homepage": "https://code.gouv.fr",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
     "@11ty/eleventy-navigation": "^0.3.2",
