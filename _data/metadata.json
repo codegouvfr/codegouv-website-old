@@ -1,9 +1,9 @@
 {
-    "title": "Plan d'action logiciels libres et communs numériques",
+    "title": "Mission logiciels libres et communs numériques",
     "url": "https://communs.numerique.gouv.fr",
     "description": "Recourir et contribuer aux logiciels libres et aux communs numériques",
     "feed": {
-	"subtitle": "Plan d'action logiciels libres et communs numériques",
+	"subtitle": "Mission logiciels libres et communs numériques",
 	"filename": "feed.xml",
 	"path": "/feed/feed.xml",
 	"id": "https://communs.numerique.gouv.fr/"
