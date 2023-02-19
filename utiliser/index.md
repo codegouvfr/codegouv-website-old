@@ -5,7 +5,7 @@ eleventyNavigation:
   key: Utiliser
   order: 10
 solutions:
-- url: https://code.gouv.fr/#/sill
+- url: https://code.gouv.fr/public/#/sill
   title: Le socle interministériel de logiciels libres (SILL)
   subtitle: Le catalogue de référence des logiciels libres utilisés dans l'administration.
   description: |
