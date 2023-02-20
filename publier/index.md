@@ -6,7 +6,7 @@ eleventyNavigation:
   key: Publier
   order: 20
 solutions:
-  - url: /public/
+  - url: https://code.gouv.fr/public/
     title: code.gouv.fr/public
     description: |
       Les codes sources publiés par les administrations publiques : les dépôts sur GitHub, GitLab ou des instances locales de GitLab.
