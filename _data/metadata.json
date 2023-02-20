@@ -1,16 +1,16 @@
 {
     "title": "Mission logiciels libres et communs numériques",
-    "url": "https://communs.numerique.gouv.fr",
+    "url": "https://code.gouv.fr",
     "description": "Recourir et contribuer aux logiciels libres et aux communs numériques",
     "feed": {
 	"subtitle": "Mission logiciels libres et communs numériques",
 	"filename": "feed.xml",
 	"path": "/feed/feed.xml",
-	"id": "https://communs.numerique.gouv.fr/"
+	"id": "https://code.gouv.fr/"
     },
     "author": {
 	"name": "Pôle logiciels libres d'Etalab",
 	"email": "contact@code.gouv.fr",
-	"url": "https://communs.numerique.gouv.fr/a-propos/"
+	"url": "https://code.gouv.fr/a-propos/"
     }
 }

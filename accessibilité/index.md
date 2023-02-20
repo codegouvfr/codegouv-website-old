@@ -8,11 +8,11 @@ linkTitle: Mentions légales
 
 ## Déclaration d’accessibilité
 
-Le site `communs.numerique.gouv.fr` est développé selon les recommandations de la charte graphique de l'État, le système de design de l'État et du référentiel général d’amélioration de l’accessibilité (RGAA) pour être accessible à tous les usagers quel que soit le matériel ou le logiciel utilisé pour naviguer sur internet.
+Le site `code.gouv.fr` est développé selon les recommandations de la charte graphique de l'État, le système de design de l'État et du référentiel général d’amélioration de l’accessibilité (RGAA) pour être accessible à tous les usagers quel que soit le matériel ou le logiciel utilisé pour naviguer sur internet.
 
 ## État de conformité
 
-Le site `communs.numerique.gouv.fr` est totalement conforme au référentiel général d’amélioration de l’accessibilité.
+Le site `code.gouv.fr` est totalement conforme au référentiel général d’amélioration de l’accessibilité.
 
 ### Résultats des tests
 

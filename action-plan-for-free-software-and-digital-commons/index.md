@@ -6,7 +6,7 @@ layout: layouts/post.njk
 centeredLayout: true
 ---
 
-*[Lire la version française.](https://communs.numerique.gouv.fr/plan-action-logiciels-libres-et-communs-numeriques/)*
+*[Lire la version française.](/plan-action-logiciels-libres-et-communs-numeriques/)*
 
 The “Free Software and digital commons” action plan has been designed by the Ministry of Public Transformation and Civil Service after the publication of the Prime Minister’s data circular n°6264/SG of April 27, 2021, and aims to support the State’s digital transformation.
 

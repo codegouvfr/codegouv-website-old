@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Contacts
 link: /a-propos/
-linkTitle: À propos de communs.numerique.gouv.fr
+linkTitle: À propos de code.gouv.fr
 ---
 
 Pour toute demande d'information et d'accompagnement, n'hésitez pas à nous écrire :
