@@ -43,6 +43,6 @@ guides:
 
 Nous poursuivrons la publication de nouveaux guides tout au long des besoins qui émergeront.
 
-Pour être tenus au courant des nouveaux chantiers, [inscrivez-vous à la gazette BlueHats](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio).
+Pour être tenus au courant des nouveaux chantiers, [inscrivez-vous à la gazette BlueHats](https://code.gouv.fr/newsletters/subscribe/bluehats@mail.etalab.studio).
 
 Besoin d'aide ou d'accompagnement ?  [Contactez-nous !](mailto:contact@code.gouv.fr)
