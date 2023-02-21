@@ -20,7 +20,7 @@ modèle](https://github.com/etalab/eleventy-dsfr/).
 
 ## Déploiement
 
-Le site est déployé en préproduction sur [preprod.codegouvfr.studio](https://preprod.codegouvfr.studio) et en production sur [code.gouv.fr](https://code.gouv.fr).
+Le site est déployé en préproduction sur [preprod.codegouv.studio](http://preprod.codegouv.studio) et en production sur [code.gouv.fr](https://code.gouv.fr).
 
 # Contributions
 
