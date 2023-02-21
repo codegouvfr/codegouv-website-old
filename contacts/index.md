@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Contacts
-link: /a-propos/
+link: /mission/
 linkTitle: À propos de code.gouv.fr
 ---
 
