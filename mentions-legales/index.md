@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Mentions légales
-link: /a-propos/
+link: /mentions-legales/
 linkTitle: À propos de ce site
 ---
 

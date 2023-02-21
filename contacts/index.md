@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Contacts
 link: /mission/
-linkTitle: À propos de code.gouv.fr
+linkTitle: À propos de la mission logiciels libres
 ---
 
 Pour toute demande d'information et d'accompagnement, n'hésitez pas à nous écrire :

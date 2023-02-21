@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
-title: À propos
-link: /contacts/
-linkTitle: Comment nous contacter ?
+title: Mission
+link: /mission/
+linkTitle: À propos de la mission logiciels libres
 eleventyNavigation:
-  key: À propos
+  key: Mission
   order: 100
 ---
 
