@@ -37,10 +37,10 @@ Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://gi
 - [22 avril 2022](/ateliers/demarches-simplifiees) : Présentation de [Démarches simplifiées](https://github.com/betagouv/demarches-simplifiees.fr/)
 - [8 avril 2022](/ateliers/ospo-alliance-good-governance-initiative) : Présentation de l'OSPO Alliance et de la *Good Governance Initiative* lors du [conseil logiciels libres](https://man.sr.ht/~codegouvfr/logiciels-libres/conseil-logiciels-libres.md)
 - [8 avril 2022](/ateliers/france-brevets) : Présentation de [France Brevets](https://www.francebrevets.com/)
-- [11 mars 2022](/ateliers/squash-tm) : Les tests fonctionnels à l'Agirc Arrco avec [Squash TM](https://sill.etalab.gouv.fr/fr/software?id=137)
+- [11 mars 2022](/ateliers/squash-tm) : Les tests fonctionnels à l'Agirc Arrco avec [Squash TM](https://sill.code.gouv.fr/fr/software?id=137)
 - [25 février 2022](/ateliers/eupl) : Présentation de la licence européenne publique (EUPL)
 - [11 février 2022](/ateliers/amue-verslelibre) : Présentation de l'outil VersLeLibre par l'Amue
-- 28 janvier 2022 : Présentation de [Rudder](https://sill.etalab.gouv.fr/fr/software?id=164)
+- 28 janvier 2022 : Présentation de [Rudder](https://sill.code.gouv.fr/fr/software?id=164)
 - [14 janvier 2022](/ateliers/rte) : La stratégie open source de RTE
 - [10 décembre 2021](/ateliers/propriete-intellectuelle-marches-publics) : La propriété intellectuelle dans les marchés publics
 - [22 octobre 2021](/ateliers/medialab-sciences-po) : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po

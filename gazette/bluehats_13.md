@@ -49,7 +49,7 @@ Le prix comporte plusieurs catégories qui distinguent les projets selon leurs d
 
 ## Le focus SILL
 
-Après une évolution, l'[assistant RGAA](https://sill.etalab.gouv.fr/fr/software?id=13) réapparaît dans le socle interministériel de logiciels libres en version 1.2.x.  Il a été mis à jour avec la dernière version 4.1 du référentiel général pour l'amélioration de l'accessibilité (RGAA).
+Après une évolution, l'[assistant RGAA](https://sill.code.gouv.fr/fr/software?id=13) réapparaît dans le socle interministériel de logiciels libres en version 1.2.x.  Il a été mis à jour avec la dernière version 4.1 du référentiel général pour l'amélioration de l'accessibilité (RGAA).
 
 L'assistant RGAA est une extension pour navigateur web (Firefox ou Chrome) qui permet de faciliter les tests de vérification des règles d'accessibilité définies dans le RGAA sur la page affichée.  Il permet en outre d'avoir à disposition, en local, tous les critères et les tests du RGAA avec leur méthodologie.
 

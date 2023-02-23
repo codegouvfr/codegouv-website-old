@@ -23,7 +23,7 @@ solutions:
 <div class="fr-grid-row fr-grid-row--gutters">
 
   <div class="fr-highlight">
-    <p>Vous souhaitez référencer dans le SILL un logiciel libre utilisé dans votre administration ? <a href="https://sill.etalab.gouv.fr">Inscrivez-vous !</a></p>
+    <p>Vous souhaitez référencer dans le SILL un logiciel libre utilisé dans votre administration ? <a href="https://sill.code.gouv.fr">Inscrivez-vous !</a></p>
     <p>Vous souhaitez référencer une solution libre dans le catalogue GouvTech ? <a href="https://catalogue.numerique.gouv.fr">C'est ouvert !</a></p>
   </div>
 

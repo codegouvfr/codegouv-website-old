@@ -7,11 +7,11 @@ tags: bluehats
 
 ## Lancement des ateliers #BlueHats
 
-La communauté d'agents publics fédérée autour du [Socle Interministériel de Logiciels Libres](https://sill.etalab.gouv.fr/fr/software) se mobilise pour faire connaître les logiciels libres utilisées dans l'administration - et au-delà !
+La communauté d'agents publics fédérée autour du [Socle Interministériel de Logiciels Libres](https://sill.code.gouv.fr/fr/software) se mobilise pour faire connaître les logiciels libres utilisées dans l'administration - et au-delà !
 
 Les ateliers #BlueHats auront lieu un vendredi sur deux de 11h à 12h30 en visioconférence : retrouvez le programme [sur cette page](https://pad.incubateur.net/d3cj0U1WT42y-rQoozp4gQ#).
 
-Le premier atelier aura lieu le vendredi 17 juillet portera sur le logiciel libre [Matomo](https://sill.etalab.gouv.fr/fr/software?id=176) et sera animé par Ronan Chardonneau, formateur Matomo.
+Le premier atelier aura lieu le vendredi 17 juillet portera sur le logiciel libre [Matomo](https://sill.code.gouv.fr/fr/software?id=176) et sera animé par Ronan Chardonneau, formateur Matomo.
 
 `>>` Les ateliers #BlueHats sont ouverts à tout agent public souhaitant partager ses connaissances : n'hésitez pas à [nous contacter](mailto:contact@code.gouv.fr) pour nous proposer une intervention !
 
@@ -61,9 +61,9 @@ Le [Comptoir du Libre](https://comptoir-du-libre.org) est une plateforme de réf
 
 ## Du nouveau dans le Socle Interministériel de Logiciels Libres
 
-Depuis la parution du SILL 2020, de nouveaux logiciels ont été ajoutés au [Socle Interministériel de Logiciels Libres](https://sill.etalab.gouv.fr/fr/software) - voici la liste : Color Contrast Analyser, Démarches simplifiées, FusionDirectory, JOSM, Moodle, Open EDX, Pentaho CE, Esup-Pod, SPIP, Tracim, Xwiki, Pycharm CE, Chamilo.
+Depuis la parution du SILL 2020, de nouveaux logiciels ont été ajoutés au [Socle Interministériel de Logiciels Libres](https://sill.code.gouv.fr/fr/software) - voici la liste : Color Contrast Analyser, Démarches simplifiées, FusionDirectory, JOSM, Moodle, Open EDX, Pentaho CE, Esup-Pod, SPIP, Tracim, Xwiki, Pycharm CE, Chamilo.
 
-`>>` Vous êtes agent public d'une administration et souhaitez être [référent](https://disic.github.io/sill/index.html) pour un logiciel libre que vous utilisez ?  [Contactez-nous](https://sill.etalab.gouv.fr/fr/contact) !
+`>>` Vous êtes agent public d'une administration et souhaitez être [référent](https://disic.github.io/sill/index.html) pour un logiciel libre que vous utilisez ?  [Contactez-nous](https://sill.code.gouv.fr/fr/contact) !
 
 ## De nouvelles ouvertures de codes sources
 

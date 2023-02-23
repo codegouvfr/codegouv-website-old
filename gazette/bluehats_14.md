@@ -76,12 +76,12 @@ FranceConnect+ est la nouvelle solution proposée par l’État, plus sécurisé
 
 Voici les nouveautés du côté du SILL :
 
--   Ajout de [Gochimitheque](https://sill.etalab.gouv.fr/fr/software?id=228), un logiciel de gestion de produits chimiques.
--   Ajout de [fpart](https://sill.etalab.gouv.fr/fr/software?id=229), un outil pour trier des fichiers et les répartir en paquets
--   Ajout de [Publik](https://sill.etalab.gouv.fr/fr/software?id=230), un outil de dématérialisation des démarches en ligne
--   Ajout de [PrimTux](https://sill.etalab.gouv.fr/fr/software?id=231), une distribution éducative destinée aux écoles primaires
--   Mise à jour de la version minimale de [Matomo](https://sill.etalab.gouv.fr/fr/software?id=176) à 4.5.0
--   Mise à jour de la version minimale de [Esup-Pod](https://sill.etalab.gouv.fr/fr/software?id=210) à 2.x
+-   Ajout de [Gochimitheque](https://sill.code.gouv.fr/fr/software?id=228), un logiciel de gestion de produits chimiques.
+-   Ajout de [fpart](https://sill.code.gouv.fr/fr/software?id=229), un outil pour trier des fichiers et les répartir en paquets
+-   Ajout de [Publik](https://sill.code.gouv.fr/fr/software?id=230), un outil de dématérialisation des démarches en ligne
+-   Ajout de [PrimTux](https://sill.code.gouv.fr/fr/software?id=231), une distribution éducative destinée aux écoles primaires
+-   Mise à jour de la version minimale de [Matomo](https://sill.code.gouv.fr/fr/software?id=176) à 4.5.0
+-   Mise à jour de la version minimale de [Esup-Pod](https://sill.code.gouv.fr/fr/software?id=210) à 2.x
 
 Bienvenue à nos nouveaux référents !
 

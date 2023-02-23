@@ -21,7 +21,7 @@ Un beau programme d'ateliers en perspective !
 
 ## Autour du socle interministériel de logiciels libres
 
-En juillet dernier, nous avons partagé via [Mastodon](https://mastodon.social/web/@CodeGouvFr/108684058331200603) et [via Twitter](https://twitter.com/codegouvfr/status/1549732039808749571) quelques nouvelles du [SILL](https://sill.etalab.gouv.fr/), mentionnant quelques logiciels libres parmi ceux qui ont intégré le catalogue depuis la refonte en mai.
+En juillet dernier, nous avons partagé via [Mastodon](https://mastodon.social/web/@CodeGouvFr/108684058331200603) et [via Twitter](https://twitter.com/codegouvfr/status/1549732039808749571) quelques nouvelles du [SILL](https://sill.code.gouv.fr/), mentionnant quelques logiciels libres parmi ceux qui ont intégré le catalogue depuis la refonte en mai.
 
 Voici quelques articles qui ont repris cette information :
 
