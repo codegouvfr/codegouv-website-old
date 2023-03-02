@@ -7,13 +7,13 @@ eleventyNavigation:
   order: 40
 repos:
   - url: https://github.com/codegouvfr/react-dsfr
-    title: Une bibliothèque de composants React au DSFR
+    title: react-dsfr
     description: |
-      TBD
+      Une bibliothèque de composants React au DSFR
   - url: https://www.onyxia.sh
-    title: La stack data science moderne rendue accessible
+    title: Onyxia
     description: |
-      TBD
+      La stack data science moderne rendue accessible
 ---
 
 <div class="fr-grid-row fr-grid-row--gutters">
