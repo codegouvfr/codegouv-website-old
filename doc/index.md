@@ -1,11 +1,11 @@
 ---
-title: Les guides
+title: Documentation
 linkTitle: La mission logiciels libres vous accompagne dans la mise en oeuvre du plan d'action
 layout: page
 eleventyNavigation:
-  key: Guides
+  key: Doc
   order: 40
-guides:
+docs:
   - url: https://guides.etalab.gouv.fr/logiciels/
     title: Guide pratique sur l'ouverture des codes sources
     description: |
@@ -22,15 +22,15 @@ guides:
 
 <div class="fr-grid-row fr-grid-row--gutters">
 
-  {% for guide in guides %}
+  {% for doc in docs %}
   <div class="fr-col-12 fr-col-md-4">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
         <div class="fr-card__content">
           <h2 class="fr-card__title">
-            <a href="{{ guide.url }}" class="fr-card__link">{{ guide.title }}</a>
+            <a href="{{ doc.url }}" class="fr-card__link">{{ doc.title }}</a>
           </h2>
-          <p class="fr-card__desc">{{ guide.description }}</p>
+          <p class="fr-card__desc">{{ doc.description }}</p>
         </div>
       </div>
     </div>
@@ -40,8 +40,6 @@ guides:
 </div>
 
 <br>
-
-Nous poursuivrons la publication de nouveaux guides tout au long des besoins qui émergeront.
 
 Pour être tenus au courant des nouveaux chantiers, [inscrivez-vous à la gazette BlueHats](https://code.gouv.fr/newsletters/subscribe/bluehats@mail.etalab.studio).
 

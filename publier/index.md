@@ -10,8 +10,8 @@ solutions:
     title: code.gouv.fr/public
     description: |
       Les codes sources publiés par les administrations publiques : les dépôts sur GitHub, GitLab ou des instances locales de GitLab.
-  - url: /guides/
-    title: Les guides
+  - url: /doc/
+    title: La documentation
     description: |
       Des ressources pour vous aider à publier vos codes sources sous licence libre : guide pratique, guide juridique et liste des licences autorisées.
   - url: https://www.numerique.gouv.fr/publications/politique-logiciel-libre/
