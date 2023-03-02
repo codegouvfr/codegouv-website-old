@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Contacts
-link: /mission/
+link: /contacts/
 linkTitle: À propos de la mission logiciels libres
 ---
 
