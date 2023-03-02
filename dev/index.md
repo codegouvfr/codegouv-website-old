@@ -1,6 +1,6 @@
 ---
-title: La Fab Libre
-linkTitle: La Fab Libre développe des logiciels libres pour les administrations
+title: Développements
+linkTitle: Nous développons des logiciels libres pour les administrations
 layout: page
 eleventyNavigation:
   key: Dev
