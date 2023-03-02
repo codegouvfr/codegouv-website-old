@@ -1,0 +1,36 @@
+---
+title: La Fab Libre
+linkTitle: La Fab Libre développe des logiciels libres pour les administrations
+layout: page
+eleventyNavigation:
+  key: Dev
+  order: 40
+repos:
+  - url: https://github.com/codegouvfr/react-dsfr
+    title: Une bibliothèque de composants React au DSFR
+    description: |
+      TBD
+  - url: https://www.onyxia.sh
+    title: La stack data science moderne rendue accessible
+    description: |
+      TBD
+---
+
+<div class="fr-grid-row fr-grid-row--gutters">
+
+  {% for repo in repos %}
+  <div class="fr-col-12 fr-col-md-4">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+        <div class="fr-card__content">
+          <h2 class="fr-card__title">
+            <a href="{{ repo.url }}" class="fr-card__link">{{ repo.title }}</a>
+          </h2>
+          <p class="fr-card__desc">{{ repo.description }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+
+</div>
