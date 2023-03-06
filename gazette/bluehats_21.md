@@ -27,7 +27,7 @@ Le [conseil logiciels libres](https://man.sr.ht/~codegouvfr/logiciels-libres/con
 
 `>>` [Découvrez les membres du conseil logiciels libres](https://speakerdeck.com/bluehats/presentation-du-conseil-logiciels-libres-anime-par-la-dinum)
 
-Ce conseil a publié une note de synthèse sur le thème « Apports du logiciel libre à la durabilité des équipements ».
+Un membre du conseil a publié une note de synthèse sur le thème « Apports du logiciel libre à la durabilité des équipements ».
 
 `>>` [Lire la note en PDF](https://man.sr.ht/~codegouvfr/logiciels-libres/docs/2023_01_RapportIndiceDurabilite.pdf)
 
