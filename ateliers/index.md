@@ -12,7 +12,7 @@ Les ateliers `BlueHats` sont des visioconférences ou des agents publics présen
 
 Tout le monde peut y accéder en ligne via [ce lien](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b).  Ils sont aussi visibles en rediffusion sur [la chaîne `BlueHats` d'Etalab](https://tube.numerique.gouv.fr/a/logicielslibres/video-channels).
 
-Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/ateliers-bluehats.ics).
+Vous pouvez [télécharger le calendrier des ateliers au format .ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/main/evenements/ateliers-bluehats.ics).
 
 ## Ateliers à venir
 
