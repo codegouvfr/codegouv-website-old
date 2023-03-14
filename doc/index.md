@@ -18,6 +18,14 @@ docs:
     title: Les licences autorisées pour les codes sources du secteur public
     description: |
       Les codes sources de l'administration peuvent être publiées sous plusieurs licences, parmi lesquelles : Apache, BSD, CeCILL, MPL et les licences du projet GNU.
+  - url: https://www.numerique.gouv.fr/publications/politique-logiciel-libre/
+    title: Politique de contribution aux logiciels libres de l’État
+    description: |
+      Depuis 2018, la politique de contribution aux logiciels libres de l’État guide l'ouverture des codes sources publics et la contribution à des projets tiers.
+  - url: https://www.legifrance.gouv.fr/circulaire/id/45162
+    title: Circulaire relative à la politique publique de la donnée, des algorithmes et des codes sources
+    description: |
+      Une nouvelle impulsion pour l'ouverture des codes sources de toutes les administrations.
 ---
 
 <div class="fr-grid-row fr-grid-row--gutters">
