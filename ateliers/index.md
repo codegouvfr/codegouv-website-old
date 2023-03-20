@@ -14,12 +14,12 @@ Tout le monde peut y accéder en ligne via [ce lien](https://webinaire.numerique
 
 ## Ateliers à venir
 
-- 17 mars 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation de [Khartis](https://www.sciencespo.fr/cartographie/khartis/) de l'Atelier de cartographie de Sciences Po
 - 31 mars 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Des implémentations libres pour le métavers
 - 14 avril 2023 ([lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)) : Présentation d'[AtlaSanté](https://www.atlasante.fr)
 
 ## Ateliers à revoir
 
+- [17 mars 2023](/ateliers/khartis/) : Présentation de [Khartis](https://www.sciencespo.fr/cartographie/khartis/) de l'Atelier de cartographie de Sciences Po
 - [3 février 2023](/ateliers/osuny) : Présentation d’[Osuny](https://www.osuny.org/)
 - [20 janvier 2023](/ateliers/samba-ad) : Présentation de la contribution de l’État à Samba-AD
 - [6 janvier 2023](/ateliers/inseca) : Présentation de [inseca](https://github.com/DGAC/inseca) (DGAC)
