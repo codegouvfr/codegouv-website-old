@@ -5,7 +5,7 @@ layout: page
 tags: bluehats
 ---
 
-*Interventions de Patrice MITRANO*
+*Intervention de Patrice MITRANO.*
 
 Vous pouvez [télécharger la présentation via ce lien](https://apps.codegouv.fr/nextcloud/s/WEazQCMtax3aNpp).
 
