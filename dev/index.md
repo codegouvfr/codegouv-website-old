@@ -14,6 +14,10 @@ repos:
     title: Onyxia
     description: |
       La stack data science moderne rendue accessible
+  - url: https://www.keycloakify.dev
+    title: Keycloakify
+    description: |
+      Adapter Keycloak facilement à vos besoins
 ---
 
 <div class="fr-grid-row fr-grid-row--gutters">
