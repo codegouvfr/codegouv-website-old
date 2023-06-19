@@ -1,6 +1,6 @@
 [![Software License](https://img.shields.io/badge/Licence-MIT%2C%20Licence%20Ouverte-orange.svg?style=flat-square)](https://git.sr.ht/~codegouvfr/code.gouv.fr/tree/main/item/LICENSES)
 
-**Attention**: le dépôt source est [git.sr.ht/~codegouvfr/code.gouv.fr_home](https://git.sr.ht/~codegouvfr/code.gouv.fr_home), la version [github.com/codegouvfr/communs.numerique.gouv.fr](https://github.com/codegouvfr/communs.numerique.gouv.fr) ne doit pas être utilisée pour les développements.
+**Attention**: ce dépôt source est l'archive de la version précédente du site [code.gouv.fr](https://code.gouv.fr). Utiliser le nouveau dépôt [github.com/codegouvfr/codegouv-website](https://github.com/codegouvfr/codegouv-website) (ou son mirroir) pour les développements.
 
 # Site code.gouv.fr
 
